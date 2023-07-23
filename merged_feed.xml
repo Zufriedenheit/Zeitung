@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Jul 2023 16:44:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 20:23:29 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -46,22 +46,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/mit-bildergalerie-lost-place-in-der-trave-kaserne-in-luebeck-45139725</guid>
       <enclosure url="https://images.noz-mhn.de/img/45139875/crop/cbase_16_9-w1820-h1022/357072593/864310080/dsc-0210.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 07:36:31 +0053</pubDate>
-    </item>
-    <item>
-      <title>Messerattacke von Brokstedt: 20-jähriger Augenzeuge warnte andere Fahrgäste</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-erleben-augenzeugen-die-messerattacke-im-zug-in-brokstedt-45160608</link>
-      <description>Dem 34-jährigen Angeklagten Ibrahim A. wird Mord in zwei Fällen und versuchter Mord in vier Fällen vorgeworfen.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-erleben-augenzeugen-die-messerattacke-im-zug-in-brokstedt-45160608</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45077144/crop/cbase_16_9-w1820-h1022/2037424130/304239025/prozess-messerattacke-in-brokstedt.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 08:49:17 +0053</pubDate>
-    </item>
-    <item>
-      <title>Trauerfeier für Ex-Ministerpräsidentin Heide Simonis am kommenden Freitag in Kiel</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/trauerfeier-fuer-ex-ministerpraesidentin-heide-simonis-in-kiel-45161483</link>
-      <description>Spitzenpolitiker, Weggefährten und Angehörige nehmen Abschied von Heide Simonis: Die Trauerfeier findet am 28. Juli in Kiel statt.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/trauerfeier-fuer-ex-ministerpraesidentin-heide-simonis-in-kiel-45161483</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45161580/crop/cbase_16_9-w1820-h1022/1605249296/865813123/heide-simonis.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 10:09:30 +0053</pubDate>
     </item>
     <item>
       <title>Gibt es mehr Verfolgungsjagden? Das sagt das Landespolizeiamt</title>
@@ -414,6 +398,22 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/scharbeutz-dieses-programm-bietet-das-strassenkunst-festival-2023-45160630</guid>
       <enclosure url="https://images.noz-mhn.de/img/45160623/crop/cbase_16_9-w1820-h1022/1600442609/762618128/straenknstlerfest-knstler-und-meer-2022--www.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 13:38:12 +0053</pubDate>
+    </item>
+    <item>
+      <title>Darum ist das feste LNG-Terminal in Brunsbüttel überflüssig</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/darum-ist-das-feste-lng-terminal-in-brunsbuettel-ueberfluessig-45168976</link>
+      <description>Für eine Milliarde Euro soll in Brunsbüttel ein festes Terminal zum Import von verflüssigtem Erdgas entstehen. Weshalb nicht nur Umweltschützer das für falsch halten.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/darum-ist-das-feste-lng-terminal-in-brunsbuettel-ueberfluessig-45168976</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45157320/crop/cbase_16_9-w1820-h1022/1868194322/784464667/c0157579aa7d930c3ac4a146e60c5a7f.jpg" length="2" type="image/jpg"/>
+      <pubDate>Sun, 23 Jul 2023 18:00:00 +0053</pubDate>
+    </item>
+    <item>
+      <title>Milliardenprojekt LNG-Terminal Brunsbüttel – warum sogar aus den USA Protest kommt</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/milliardenprojekt-lng-terminal-brunsbuettel-protest-sogar-aus-usa-45157359</link>
+      <description>Gegen den Bauantrag für das feste LNG-Terminal in Brunsbüttel sind beim Land mehrere Einwendungen eingegangen – nicht nur aus Schleswig-Holstein. Was Kritiker gegen die milliardenschwere Anlage vorbringen.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/milliardenprojekt-lng-terminal-brunsbuettel-protest-sogar-aus-usa-45157359</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45157660/crop/cbase_16_9-w1820-h1022/307209785/2001315207/german-lng-terminal-east-view.jpg" length="2" type="image/jpg"/>
+      <pubDate>Sun, 23 Jul 2023 18:00:00 +0053</pubDate>
     </item>
   </channel>
 </rss>
