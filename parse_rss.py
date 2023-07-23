@@ -2,7 +2,6 @@ import feedparser
 from datetime import datetime
 import pytz
 from feedgen.feed import FeedGenerator
-import shzrequests
 import os
 
 now = datetime.now().strftime("%I:%M%p on %B %d, %Y")
@@ -50,8 +49,7 @@ for entry in merged_entries:
     fe.enclosure(url=entry.enclosures[0].href, length=entry.enclosures[0].length, type=entry.enclosures[0].type)
 
 # Save the feed to a file
-fg.rss_file('merged_feed.xml', pretty=True)
-os.system('cd /Users/Joshua/Developer/RSS')
-os.system('git add merged_feed.xml')
-os.system('git commit -m ' + '"' + now + '"')
-os.system('git push -u origin main')
+feed_file = os.path.join(os.getcwd(), 'merged_feed.xml')
+fg.rss_file(feed_file, pretty=True)
+
+print("Merged RSS feed saved to merged_feed.xml")
