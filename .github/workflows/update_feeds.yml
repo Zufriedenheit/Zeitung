@@ -1,8 +1,8 @@
 name: Update Feeds
 
-on:
-  schedule:
-    - cron: '0 * * * *' # This cron expression runs the job every hour at the top of the hour
+on: workflow_dispatch
+
+
 
 jobs:
   run_script:
