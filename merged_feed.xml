@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 08:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 09:06:49 +0000</lastBuildDate>
     <item>
       <title>Schwarz-Grün formuliert ehrgeizige Klimaziele bis 2030</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</link>
@@ -78,14 +78,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/guenther-stellt-das-land-auf-finanziell-schwere-zeiten-ein-45166756</guid>
       <enclosure url="https://images.noz-mhn.de/img/45167049/crop/cbase_16_9-w1820-h1022/1163162093/1707125963/dpa-5fadec00fee04187.jpg" length="2" type="image/jpg"/>
       <pubDate>Sat, 22 Jul 2023 08:14:06 +0053</pubDate>
-    </item>
-    <item>
-      <title>Holzschuppen auf Koppel an der Lecker Chaussee abgebrannt</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/holzschuppen-auf-koppel-in-flensburg-abgebrannt-45167347</link>
-      <description>Das Feuer brach mitten in der Nacht aus. Das Areal befindet sich direkt neben der Bahnstrecke Flensburg-Pattburg.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/holzschuppen-auf-koppel-in-flensburg-abgebrannt-45167347</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45167337/crop/cbase_16_9-w1820-h1022/672464640/674335360/brand-pferdeunterstand-1.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 09:57:50 +0053</pubDate>
     </item>
     <item>
       <title>Jürgen Stickel: Nach 37 Jahren in der Pflege ist Schluss</title>
@@ -168,14 +160,6 @@
       <pubDate>Sun, 23 Jul 2023 06:31:39 +0053</pubDate>
     </item>
     <item>
-      <title>Das Prinzenpalais in Schleswig ist von einem Baugerüst eingehüllt – das sind die Gründe</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/das-prinzenpalais-in-schleswig-ist-von-einem-baugeruest-eingehuellt-45154390</link>
-      <description>Seit kurzem ist die Fassade des Prinzenpalais an der Friedrichstraße verhüllt. Dort wurde ein Baugerüst aufgestellt und mit einer blauen Wetterschutzplane verhängt, denn an dem historischen Gebäude müssen turnusmäßige Sanierungsarbeiten ausgeführt werden.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/das-prinzenpalais-in-schleswig-ist-von-einem-baugeruest-eingehuellt-45154390</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45153991/crop/cbase_16_9-w1820-h1022/1784469671/1136782420/nh190723-prinzenpalais-1.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 06:51:09 +0053</pubDate>
-    </item>
-    <item>
       <title>In Lebensgefahr: Wattwanderin mit Hubschrauber von Sandbank gerettet</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/westerhever-wattwanderin-mit-hubschrauber-von-sandbank-gerettet-45169346</link>
       <description>Eine Frau wurde im Watt vor Westerhever auf einer Sandbank vom Wasser eingeschlossen. Die Frau wurde mithilfe einer Seilwinde in Sicherheit gebracht.</description>
@@ -198,14 +182,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/aufbau-in-suederbrarup-vorfreude-auf-den-brarup-markt-45164147</guid>
       <enclosure url="https://images.noz-mhn.de/img/45164100/crop/cbase_16_9-w1820-h1022/1635863711/940537805/v.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 07:16:59 +0053</pubDate>
-    </item>
-    <item>
-      <title>Elf neue Kollegen für das Polizeirevier Schleswig</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/elf-neue-kollegen-fuer-das-polizeirevier-schleswig-45157478</link>
-      <description>Ab dem 1. Oktober werden mit elf neuen Kollegen insgesamt 85 Beamtinnen und Beamte beim Polizeirevier Schleswig beschäftigt sein. Warum der Beruf noch immer reizvoll ist, die Polizisten sich aber mehr Respekt ihnen gegenüber wünschen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/elf-neue-kollegen-fuer-das-polizeirevier-schleswig-45157478</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45157457/crop/cbase_16_9-w1820-h1022/1496170098/936512876/fb-poli1.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 07:53:07 +0053</pubDate>
     </item>
     <item>
       <title>Reinfeld: Daniel Günther wünscht sich Kinder-Demokratie-Camp „Stormini“ überall im Land</title>
@@ -376,28 +352,52 @@
       <pubDate>Mon, 24 Jul 2023 07:45:03 +0053</pubDate>
     </item>
     <item>
-      <title>24-Stunden-Lauf: Holger Steensen aus Kropp will Geld für todkranke Kinder sammeln</title>
-      <link>https://www.shz.de/lokales/kropp-stapelholm/artikel/24-stunden-lauf-kropper-will-geld-fuer-todkranke-kinder-sammeln-45166252</link>
-      <description>Der Sportler und Inhaber des Sport-Leistungszentrums Kropp hat ein ehrgeiziges Ziel: Bis zu seinem 50. Geburtstag in zwei Jahren will er insgesamt 50.000 Euro Spenden für gemeinnützige Institutionen gesammelt haben. Mit seiner neuesten Idee, einem 24-Stunden-Lauf, kommt er dem Ziel näher.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/kropp-stapelholm/artikel/24-stunden-lauf-kropper-will-geld-fuer-todkranke-kinder-sammeln-45166252</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45166253/crop/cbase_16_9-w1820-h1022/1295461774/678236045/holgersteensen-1.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 07:45:23 +0053</pubDate>
-    </item>
-    <item>
-      <title>Hans Hermann Timm bleibt Bürgermeister in Lürschau</title>
-      <link>https://www.shz.de/lokales/geest/artikel/hans-hermann-timm-bleibt-buergermeister-in-luerschau-45163081</link>
-      <description>Auf der konstituierenden Sitzung der Lürschauer Gemeindevertretung wurde der amtierende Bürgermeister Hans Hermann Timm im Amt bestätigt. Das sind seine Vertreter.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/geest/artikel/hans-hermann-timm-bleibt-buergermeister-in-luerschau-45163081</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45163007/crop/cbase_16_9-w1820-h1022/1249794770/1184145930/lrschau-bgm.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 07:45:50 +0053</pubDate>
-    </item>
-    <item>
       <title>Auf den Spuren des Musikers Eduard Erdmann und des Malers Hans Holtorf</title>
       <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/langballig-musiker-eduard-erdmann-und-maler-hans-holtorf-45172169</link>
       <description>Auf den Spuren der bedeutsam mit der Region verbundenen Künstler bewegten sich am vergangenen Wochenende viele Mitglieder der Eduard-Erdmann-Gesellschaft unter Leitung ihres Vorsitzenden Prof. Dr. Gerhard Gensch.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/langballig-musiker-eduard-erdmann-und-maler-hans-holtorf-45172169</guid>
       <enclosure url="https://images.noz-mhn.de/img/45172195/crop/cbase_16_9-w1820-h1022/1745906533/1984025243/vdl-230722-1.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 07:53:25 +0053</pubDate>
+    </item>
+    <item>
+      <title>Jugendliche arbeiten im Erdbeercafé beim Schleswiger Dom</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/jugendliche-arbeiten-im-erdbeercaf-beim-schleswiger-dom-45167344</link>
+      <description>20 Kilo Erdbeeren pro Tag werden zu Kuchen verarbeitet und in Crêpes angeboten. Das Angebot wird von Einheimischen und Urlaubern gut angenommen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/jugendliche-arbeiten-im-erdbeercaf-beim-schleswiger-dom-45167344</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45167271/crop/cbase_16_9-w1820-h1022/1721470316/609842386/erdbeercafe.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 08:11:10 +0053</pubDate>
+    </item>
+    <item>
+      <title>Förderpreis der Körber-Stiftung geht an Schüler der Schleswiger Domschule</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/foerderpreis-der-koerber-stiftung-fuer-schleswiger-domschule-schueler-45147438</link>
+      <description>Für acht Schüler des Geschichtsprofils der Domschule in Schleswig gab es vergangene Woche einen Preis. Preisträgerin Fabienne Raup hat shz.de erzählt, worum es in ihrem Projekt ging.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/foerderpreis-der-koerber-stiftung-fuer-schleswiger-domschule-schueler-45147438</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45148459/crop/cbase_16_9-w1820-h1022/2049122870/1469187476/230712-lpv-kiel-c-claudia-hhne-098-1.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 08:11:44 +0053</pubDate>
+    </item>
+    <item>
+      <title>Ostseeresort Olpenitz: Erneute Gewinnwarnung des Investors Helma</title>
+      <link>https://www.shz.de/lokales/kappeln/artikel/ostseeresort-olpenitz-kappeln-gewinnwarnung-des-investors-helma-45165315</link>
+      <description>Bereits für das Geschäftsjahr 2022 musste der Mutterkonzern der Helma Ferienimmobilien GmbH, Hauptinvestor im Kappelner Ostseeresort Olpenitz, seine Prognose nach unten justieren. Dasselbe ist nun für das Jahr 2023 passiert.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/ostseeresort-olpenitz-kappeln-gewinnwarnung-des-investors-helma-45165315</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45165705/crop/cbase_16_9-w1820-h1022/1777284768/1925733524/oro-6.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 08:24:47 +0053</pubDate>
+    </item>
+    <item>
+      <title>Zwischen Pollern, Schuhen und Gentrifizierung: Was Bewohner über die Norderstraße denken</title>
+      <link>https://www.shz.de/lokales/flensburg/artikel/flensburg-was-die-schuhe-in-der-norderstrasse-zu-bedeuten-haben-45041773</link>
+      <description>In unserer Serie „Flensburg, deine Straßen“ macht unser Reporter einen Streifzug durch die Stadt und kommt mit den Bewohnern ins Gespräch. In dieser Folge: Das Mysterium der hängenden Schuhe in der Norderstraße und die Gentrifizierung.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/flensburg-was-die-schuhe-in-der-norderstrasse-zu-bedeuten-haben-45041773</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45041769/crop/cbase_16_9-w1820-h1022/950971871/838979878/pxl-20230616-121848794.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 08:25:20 +0053</pubDate>
+    </item>
+    <item>
+      <title>Tierheim Schleswig: Rüde „Luie“ sucht ein neues Zuhause</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/tierheim-schleswig-ruede-luie-sucht-ein-neues-zuhause-45173853</link>
+      <description>Auch wenn „Luie“ freundlich und offen ist, sollten seine neuen Besitzer schon Erfahrung mit Hunden haben.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/tierheim-schleswig-ruede-luie-sucht-ein-neues-zuhause-45173853</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45173799/crop/cbase_16_9-w1820-h1022/337006223/638402039/tier-der-woche-luie.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 08:32:18 +0053</pubDate>
     </item>
   </channel>
 </rss>
