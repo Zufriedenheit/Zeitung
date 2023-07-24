@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 11:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 12:12:44 +0000</lastBuildDate>
     <item>
       <title>Schwarz-Grün formuliert ehrgeizige Klimaziele bis 2030</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</link>
@@ -30,38 +30,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Claudia Neumann: „Ich bin in meiner Generation eine Rarität“</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/kommentatorin-claudia-neumann-im-interview-ueber-die-wm-und-hetze-45152991</link>
-      <description>Claudia Neumann ist als Fußballreporterin oft Pionierin gewesen. Jetzt kommentiert sie die Fußball-WM der Frauen in Australien. Im Interview spricht sie über die WM und die Vorbereitungen sowie Anfeindungen.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/kommentatorin-claudia-neumann-im-interview-ueber-die-wm-und-hetze-45152991</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45153026/crop/cbase_16_9-w1820-h1022/1472880181/1752782723/23-163692362.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 05:55:36 +0053</pubDate>
-    </item>
-    <item>
-      <title>Eis, Hitze und Trost: Wie Sie Insektenstiche bei Kindern lindern</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/eis-hitze-und-trost-lindern-insektenstiche-bei-kindern-45153193</link>
-      <description>Das Kind spielt draußen im Garten und schreit plötzlich schmerzerfüllt los? Klingt, als hätte eine Wespe zugestochen. So leisten Eltern Erste Hilfe.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/eis-hitze-und-trost-lindern-insektenstiche-bei-kindern-45153193</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45153222/crop/cbase_16_9-w1820-h1022/1335089242/119093958/dpa-5fade20086b9e14f.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 06:46:54 +0053</pubDate>
-    </item>
-    <item>
-      <title>So wird Ihr Hund zum Haushaltshelfer</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-ihr-hund-zum-haushaltshelfer-45148387</link>
-      <description>Hunde wollen nicht nur Gassi gehen, sondern auch geistig beschäftigt werden. Höchste Zeit, dem Vierbeiner etwas Nützliches beizubringen.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-ihr-hund-zum-haushaltshelfer-45148387</guid>
-      <enclosure url="https://images.noz-mhn.de/img/44988714/crop/cbase_16_9-w1820-h1022/1925786663/75699610/hund-als-hilfe-im-haushalt.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 07:26:58 +0053</pubDate>
-    </item>
-    <item>
-      <title>Ministerpräsident Daniel Günther stellt das Land auf finanziell schwere Zeiten ein</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/guenther-stellt-das-land-auf-finanziell-schwere-zeiten-ein-45166756</link>
-      <description>Die Haushaltslage in Schleswig-Holstein werde nach heutigem Stand auch in den folgenden Jahren vermutlich nicht besser werden. Welche Themen für Günther dennoch Priorität haben.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/guenther-stellt-das-land-auf-finanziell-schwere-zeiten-ein-45166756</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45167049/crop/cbase_16_9-w1820-h1022/1163162093/1707125963/dpa-5fadec00fee04187.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 08:14:06 +0053</pubDate>
     </item>
     <item>
       <title>Greenscreen: In diesen Kinos Schleswig-Holsteins sehen Sie die tierischen Filmstars</title>
@@ -134,6 +102,14 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/65-jahre-aufklaerungsbataillon-6-eutiner-soldat-als-ueberlaeufer-45148779</guid>
       <enclosure url="https://images.noz-mhn.de/img/45148790/crop/cbase_16_9-w1820-h1022/1045633500/1195488460/dsc-0285.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 07:04:47 +0053</pubDate>
+    </item>
+    <item>
+      <title>Brarup-Markt 2023 in Süderbrarup: Das ist das Programm</title>
+      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/aufbau-in-suederbrarup-vorfreude-auf-den-brarup-markt-45164147</link>
+      <description>Der Jahrmarkt in Süderbrarup wird am Freitag eröffnet. Der Aufbau der Fahrgeschäfte läuft bereits.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/aufbau-in-suederbrarup-vorfreude-auf-den-brarup-markt-45164147</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45164100/crop/cbase_16_9-w1820-h1022/1635863711/940537805/v.jpg" length="2" type="image/jpg"/>
+      <pubDate>Sun, 23 Jul 2023 07:16:59 +0053</pubDate>
     </item>
     <item>
       <title>Reinfeld: Daniel Günther wünscht sich Kinder-Demokratie-Camp „Stormini“ überall im Land</title>
@@ -320,14 +296,6 @@
       <pubDate>Mon, 24 Jul 2023 08:16:00 +0053</pubDate>
     </item>
     <item>
-      <title>Ostseeresort Olpenitz: Erneute Gewinnwarnung des Investors Helma</title>
-      <link>https://www.shz.de/lokales/kappeln/artikel/ostseeresort-olpenitz-kappeln-gewinnwarnung-des-investors-helma-45165315</link>
-      <description>Bereits für das Geschäftsjahr 2022 musste der Mutterkonzern der Helma Ferienimmobilien GmbH, Hauptinvestor im Kappelner Ostseeresort Olpenitz, seine Prognose nach unten justieren. Dasselbe ist nun für das Jahr 2023 passiert.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/ostseeresort-olpenitz-kappeln-gewinnwarnung-des-investors-helma-45165315</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45165705/crop/cbase_16_9-w1820-h1022/1777284768/1925733524/oro-6.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 08:24:47 +0053</pubDate>
-    </item>
-    <item>
       <title>Zwischen Pollern, Schuhen und Gentrifizierung: Was Bewohner über die Norderstraße denken</title>
       <link>https://www.shz.de/lokales/flensburg/artikel/flensburg-was-die-schuhe-in-der-norderstrasse-zu-bedeuten-haben-45041773</link>
       <description>In unserer Serie „Flensburg, deine Straßen“ macht unser Reporter einen Streifzug durch die Stadt und kommt mit den Bewohnern ins Gespräch. In dieser Folge: Das Mysterium der hängenden Schuhe in der Norderstraße und die Gentrifizierung.</description>
@@ -369,9 +337,9 @@
     </item>
     <item>
       <title>Anonyme Künstlerin begeistert in Flensburg: Das steckt hinter ihren Motiven</title>
-      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/anonyme-flensburger-kuenstlerin-bemalt-hauswaende-im-stadtgebiet-20641364</link>
+      <link>https://www.shz.de/lokales/flensburg/artikel/anonyme-flensburger-kuenstlerin-bemalt-hauswaende-im-stadtgebiet-20641364</link>
       <description>Die aufgemalten Katzen an den Hauswänden der Norderstraße erfreuen viele Flensburger – die Künstlerin bleibt unbekannt. In einem Gespräch erzählt sie von ihrer aktuellen Ausstellung und der Liebe zur Kunst.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/anonyme-flensburger-kuenstlerin-bemalt-hauswaende-im-stadtgebiet-20641364</guid>
+      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/anonyme-flensburger-kuenstlerin-bemalt-hauswaende-im-stadtgebiet-20641364</guid>
       <enclosure url="https://images.noz-mhn.de/img/20641341/crop/cbase_16_9-w1820-h1022/405116852/1799619817/619e2e001be3517ad5188e74261ddfeb.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 09:27:00 +0053</pubDate>
     </item>
@@ -406,6 +374,46 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/fehmarn-64-jaehrige-faehrt-fuer-anzeige-betrunken-zur-polizei-45174948</guid>
       <enclosure url="https://images.noz-mhn.de/img/45174968/crop/cbase_16_9-w1820-h1022/1980809049/756734598/alcotrue.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 10:47:25 +0053</pubDate>
+    </item>
+    <item>
+      <title>Von Platzverweis bis Schlägerei: Lübecker Polizei zieht erste Zwischenbilanz</title>
+      <link>https://www.shz.de/lokales/luebeck/artikel/travemuender-woche-2023-luebecks-polizei-zieht-zwischenbilanz-45175502</link>
+      <description>Greift das Sicherheitskonzept? Die Lübecker Polizei gibt Einblick, wie die ersten Tage der Travemünder Woche verlaufen sind.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/travemuender-woche-2023-luebecks-polizei-zieht-zwischenbilanz-45175502</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175505/crop/cbase_16_9-w1820-h1022/1220000199/1507546843/dpa-5fadea00e48c7085.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 11:15:33 +0053</pubDate>
+    </item>
+    <item>
+      <title>So steht es um die Versorgung mit Trinkwasser in Ostholstein</title>
+      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/nach-duerre-so-steht-es-um-ostholsteins-trinkwasser-versorgung-45161543</link>
+      <description>Deutschlandweit sinken vielerorts die Grundwasserspiegel. Wie die Situation in Ostholstein aussieht – und die Versorgungslage am Beispiel von Malente.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/nach-duerre-so-steht-es-um-ostholsteins-trinkwasser-versorgung-45161543</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45161555/crop/cbase_16_9-w1820-h1022/2144656425/1538330040/dsc-0072.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 11:16:06 +0053</pubDate>
+    </item>
+    <item>
+      <title>Christa Iversen aus Munkbrarup legt ihr zweites Buch mit Geschichten vom Kliff vor</title>
+      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/christa-iversen-aus-munkbrarup-veroeffentlicht-ihr-zweites-buch-45175680</link>
+      <description>Die Geschichte spielt in der Gegenwart in einem fiktiven Dorf nahe der Flensburger Förde. Im Mittelpunkt steht ein alter Bauer, der seinen seit Generationen im Eigentum der Familie befindlichen Hof aufgeben muss.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/christa-iversen-aus-munkbrarup-veroeffentlicht-ihr-zweites-buch-45175680</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175655/crop/cbase_16_9-w1820-h1022/1567921866/1297193971/vdl-230706-1.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 11:17:09 +0053</pubDate>
+    </item>
+    <item>
+      <title>Wer braucht Millionen Corona-Tests? Erste Abnehmer gefunden</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/wer-braucht-millionen-corona-tests-erste-abnehmer-gefunden-45164557</link>
+      <description>Das Land verschenkt palettenweise Corona-Tests – rund zwei Millionen Stück. Die ersten Interessenten haben sich bereits gemeldet. Doch es gibt auch Kritik.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/wer-braucht-millionen-corona-tests-erste-abnehmer-gefunden-45164557</guid>
+      <enclosure url="https://images.noz-mhn.de/img/43814672/crop/cbase_16_9-w1820-h1022/83198478/373169561/imago0170860936h.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 11:38:29 +0053</pubDate>
+    </item>
+    <item>
+      <title>Ferienpass 2023: Alle Infos und Tipps für den Sommer</title>
+      <link>https://www.shz.de/deutschland-welt/hamburg/artikel/ferienpass-2023-alle-infos-und-tipps-fuer-sh-und-hh-45158821</link>
+      <description>Der Ferienpass in Schleswig-Holstein und Hamburg bietet jede Menge Veranstaltungen für Kinder und Jugendliche. Wo man ihn bekommt, was er kostet und was er beinhaltet, erfahren Sie hier.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/hamburg/artikel/ferienpass-2023-alle-infos-und-tipps-fuer-sh-und-hh-45158821</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45158819/crop/cbase_16_9-w1820-h1022/1403352422/1383144/richtige-ferien-form-74439138.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 11:55:38 +0053</pubDate>
     </item>
   </channel>
 </rss>
