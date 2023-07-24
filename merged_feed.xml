@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 13:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 14:05:18 +0000</lastBuildDate>
     <item>
       <title>Schwarz-Grün formuliert ehrgeizige Klimaziele bis 2030</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</link>
@@ -208,14 +208,6 @@
       <pubDate>Mon, 24 Jul 2023 05:30:16 +0053</pubDate>
     </item>
     <item>
-      <title>Nach spektakulärem Unfall an der Husumer Straße: 20-jähriger Fahrer meldet sich bei Polizei</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/landrover-unfall-in-flensburg-fahrer-meldet-sich-bei-polizei-45173435</link>
-      <description>In der Nacht zu Freitag war ein Landrover auf die Gleise an der Husumer Straße gestürzt. Der Fahrer flüchtete anschließend. Nun hat er sich bei der Polizei gemeldet.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/landrover-unfall-in-flensburg-fahrer-meldet-sich-bei-polizei-45173435</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45173453/crop/cbase_16_9-w1820-h1022/1480965810/372578449/unnamed.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 07:03:07 +0053</pubDate>
-    </item>
-    <item>
       <title>Wie Lübeck bis 2040 rund 6500 Wohnungen bauen will</title>
       <link>https://www.shz.de/lokales/luebeck/artikel/immobilien-wie-luebeck-bis-2040-rund-6500-wohnungen-bauen-will-45166805</link>
       <description>Der Wohnungsmarktbericht 2022 zeigt unter anderem den Bedarf der nächsten Jahre auf. Welche Schlüsse die Stadt zieht und wie es um den sozialen Wohnungsbau in Lübeck steht.</description>
@@ -320,14 +312,6 @@
       <pubDate>Mon, 24 Jul 2023 09:27:00 +0053</pubDate>
     </item>
     <item>
-      <title>Konzerte und Dorffest auf Sylt: Die Highlights im Juli und August</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/sylt-2023-veranstaltungstipps-im-ueberblick-20966277</link>
-      <description>Übersicht auf Sylt: Hier finden Sie die Highlights der kommenden Veranstaltungen – fortwährend aktualisiert.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/sylt-2023-veranstaltungstipps-im-ueberblick-20966277</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45149786/crop/cbase_16_9-w1820-h1022/1119296603/755740882/tswb-jasmin-heimberger-dorfteichfest-2022-15.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 10:00:00 +0053</pubDate>
-    </item>
-    <item>
       <title>„Green Screen“ kommt ins 51-Stufen-Kino: Das Flensburger Tageblatt verlost 240 Freikarten</title>
       <link>https://www.shz.de/lokales/flensburg/artikel/greenscreen-2023-im-51-stufen-in-flensburg-gewinnen-sie-karten-45174710</link>
       <description>Am Montag, 7. August werden um 11 Uhr und 14.30 Uhr jeweils drei ausgewählte Kurzfilme im 51-Stufen-Kino gezeigt. Karten kann man nicht kaufen, sondern nur bei uns gewinnen.</description>
@@ -342,14 +326,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/goldschmidt-sieht-signal-fuer-foerderung-des-nationalpark-ostsee-45175159</guid>
       <enclosure url="https://images.noz-mhn.de/img/45110564/crop/cbase_16_9-w1820-h1022/377317437/1865849948/guenthergoldschmidtostseenationalpark-5378.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 10:41:46 +0053</pubDate>
-    </item>
-    <item>
-      <title>Fehmarn: 64-Jährige fährt betrunken zur Polizei, um Anzeige zu erstatten</title>
-      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/fehmarn-64-jaehrige-faehrt-fuer-anzeige-betrunken-zur-polizei-45174948</link>
-      <description>Warum sich die Frau aus Fehmarn neben Trunkenheit am Steuer auch wegen des Vortäuschens einer Straftat verantworten muss.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/fehmarn-64-jaehrige-faehrt-fuer-anzeige-betrunken-zur-polizei-45174948</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45174968/crop/cbase_16_9-w1820-h1022/1980809049/756734598/alcotrue.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 10:47:25 +0053</pubDate>
     </item>
     <item>
       <title>Von Platzverweis bis Schlägerei: Lübecker Polizei zieht erste Zwischenbilanz</title>
@@ -416,12 +392,36 @@
       <pubDate>Mon, 24 Jul 2023 12:38:20 +0053</pubDate>
     </item>
     <item>
-      <title>Gegensätze ziehen sich an: Wahl-Sylter feiern 70. Hochzeitstag</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/gegensaetze-ziehen-sich-an-wahl-sylter-feiern-70-hochzeitstag-45175038</link>
-      <description>70 Jahre, zwei Kinder und ein Ortswechsel nach Sylt: Roswitha und Siegfried Beine feiern am Dienstag Gnadenhochzeit. Was ihre Ehe so besonders macht.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/gegensaetze-ziehen-sich-an-wahl-sylter-feiern-70-hochzeitstag-45175038</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45176385/crop/cbase_16_9-w1820-h1022/1775134648/2004217968/img-4179pp55ppjpg.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 12:42:53 +0053</pubDate>
+      <title>Demnächst Vollsperrung in Mehlby</title>
+      <link>https://www.shz.de/lokales/kappeln/artikel/kappeln-vollsperrung-in-der-flensburger-strasse-ab-26-juli-2023-45176456</link>
+      <description>Im Kappelner Stadtteil Mehlby wird für etwas mehr als eine Woche eine Vollsperrung erforderlich.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/kappeln-vollsperrung-in-der-flensburger-strasse-ab-26-juli-2023-45176456</guid>
+      <enclosure url="https://images.noz-mhn.de/img/44237461/crop/cbase_16_9-w1820-h1022/1840528736/1649496341/imago202693323.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 13:14:08 +0053</pubDate>
+    </item>
+    <item>
+      <title>Asta der Uni Flensburg fordert, nackte Frauen-Skulptur wieder aufzustellen</title>
+      <link>https://www.shz.de/lokales/flensburg/artikel/uni-flensburg-asta-fordert-frauenskulptur-wieder-aufzustellen-45176054</link>
+      <description>Nach dem bundesweiten Medienecho plädiert der Flensburger Asta dafür, die Skulptur des Künstlers Fritz During wieder an alter Stelle aufzustellen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/uni-flensburg-asta-fordert-frauenskulptur-wieder-aufzustellen-45176054</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45176185/crop/cbase_16_9-w1820-h1022/2011356278/1798540947/pressefoto.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 13:14:56 +0053</pubDate>
+    </item>
+    <item>
+      <title>Kunst des Shinrin-Yoku: Waldbaden im Naturbad Vogelkoje Kampen</title>
+      <link>https://www.shz.de/lokales/sylt/artikel/kunst-des-shinrin-yoku-waldbaden-im-naturbad-vogelkoje-kampen-45176120</link>
+      <description>Den Wald mit allen Sinnen erleben, ist in Japan bereits seit 1982 Bestandteil eines gesunden Lebensstils. Auch auf Sylt wird das sogenannte Shinrin-Yoku angeboten – beim Naturpfad Vogelkoje in Kampen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/kunst-des-shinrin-yoku-waldbaden-im-naturbad-vogelkoje-kampen-45176120</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45176218/crop/cbase_16_9-w1820-h1022/1404205164/1776925005/2023-walbaden-naturpfad-vogelkoje-kampen-hausmannsoelring-museen.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 13:27:16 +0053</pubDate>
+    </item>
+    <item>
+      <title>Showprogramm auf Kappelner Ausflugsschiffen: Vom Krimi-Dinner bis zur Elektro-Party</title>
+      <link>https://www.shz.de/lokales/kappeln/artikel/kappelner-ausflugsschiffe-vom-krimi-dinner-bis-zur-elektro-party-45175810</link>
+      <description>Mit vielseitigem Showprogramm bieten die Ausflugsschiffe in Kappeln ihren Gästen kurzweilige Unterhaltung. Ein Krimi-Dinner und Kneipenwirt „Onkel Hugo“ sorgen auf der „Stadt Kappeln“ für Stimmung, während die „Schlei Princess“ mit Musik-Events auftrumpft.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/kappelner-ausflugsschiffe-vom-krimi-dinner-bis-zur-elektro-party-45175810</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175835/crop/cbase_16_9-w1820-h1022/1012138977/753356873/dsc-0038-2.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 13:35:49 +0053</pubDate>
     </item>
   </channel>
 </rss>
