@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 06:08:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 07:05:36 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -126,14 +126,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/guenther-stellt-das-land-auf-finanziell-schwere-zeiten-ein-45166756</guid>
       <enclosure url="https://images.noz-mhn.de/img/45167049/crop/cbase_16_9-w1820-h1022/1163162093/1707125963/dpa-5fadec00fee04187.jpg" length="2" type="image/jpg"/>
       <pubDate>Sat, 22 Jul 2023 08:14:06 +0053</pubDate>
-    </item>
-    <item>
-      <title>Zoff um verbannte Nackt-Skulptur aus Uni Flensburg: Student startet Petition</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/primavera-zoff-um-verbannte-nackt-skulptur-aus-uni-flensburg-45167036</link>
-      <description>Während die Gleichstellungsbeauftragte der Uni von einem „überkommenen Frauenbild“ spricht, das die Skulptur symbolisiere, sehen Teile der Studentenschaft einen Eingriff in die Kunstfreiheit und fordern die Rückkehr der Bronze von Fritz During.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/primavera-zoff-um-verbannte-nackt-skulptur-aus-uni-flensburg-45167036</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45167165/crop/cbase_16_9-w1820-h1022/424191129/974449619/dsc-1697.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 09:12:30 +0053</pubDate>
     </item>
     <item>
       <title>Holzschuppen auf Koppel an der Lecker Chaussee abgebrannt</title>
@@ -360,14 +352,6 @@
       <pubDate>Sun, 23 Jul 2023 13:09:06 +0053</pubDate>
     </item>
     <item>
-      <title>Scharbeutz: Dieses Programm bietet das Straßenkunst-Festival 2023</title>
-      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/scharbeutz-dieses-programm-bietet-das-strassenkunst-festival-2023-45160630</link>
-      <description>Von Jonglage über Clownerie bis Trapez-Kunst, Akrobatik und Straßenzirkus: Welche Straßenkünstler in Scharbeutz auftreten und was sonst noch geboten wird.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/scharbeutz-dieses-programm-bietet-das-strassenkunst-festival-2023-45160630</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45160623/crop/cbase_16_9-w1820-h1022/1600442609/762618128/straenknstlerfest-knstler-und-meer-2022--www.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 13:38:12 +0053</pubDate>
-    </item>
-    <item>
       <title>Darum ist das feste LNG-Terminal in Brunsbüttel überflüssig</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/darum-ist-das-feste-lng-terminal-in-brunsbuettel-ueberfluessig-45168976</link>
       <description>Für eine Milliarde Euro soll in Brunsbüttel ein festes Terminal zum Import von verflüssigtem Erdgas entstehen. Weshalb nicht nur Umweltschützer das für falsch halten.</description>
@@ -386,7 +370,7 @@
     <item>
       <title>Daniel Günther wird 50 Jahre alt – das sagen Wegbegleiter über ihn</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/ministerpraesident-daniel-guenther-wird-50-das-sagen-wegbegleiter-45162748</link>
-      <description>Schleswig-Holsteins Ministerpräsident Daniel Günther wird am Montag, 24. Mai, 50 Jahre alt. shz.de hat mit zahlreichen Wegbegleitern des CDU-Politikers gesprochen – was sie über Günther zu sagen hatten, lesen Sie hier.</description>
+      <description>Schleswig-Holsteins Ministerpräsident Daniel Günther wird am Montag, 24. Juli, 50 Jahre alt. shz.de hat mit zahlreichen Wegbegleitern des CDU-Politikers gesprochen – was sie über Günther zu sagen hatten, lesen Sie hier.</description>
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/ministerpraesident-daniel-guenther-wird-50-das-sagen-wegbegleiter-45162748</guid>
       <enclosure url="https://images.noz-mhn.de/img/43743908/crop/cbase_16_9-w1820-h1022/1751483341/2114632662/23-148214967.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 03:00:00 +0053</pubDate>
@@ -401,11 +385,19 @@
     </item>
     <item>
       <title>Lagerhalle an der B203 bei Kappeln steht lichterloh in Flammen</title>
-      <link>https://www.shz.de/lokales/kappeln/artikel/lagerhalle-an-der-b203-bei-kappeln-steht-lichterloh-in-flammen-45173242</link>
+      <link>https://www.shz.de/lokales/kappeln/artikel/feuer-in-lagerhalle-an-der-b203-bei-kappeln-45173242</link>
       <description>Das Feuer brach in der Nacht aus. Mittlerweile ist die Lagerhalle bis auf die Grundmauern niedergebrannt. Ein großes Problem stellte die Wasserversorgung am Einsatzort zwischen Kappeln und Karby dar.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/lagerhalle-an-der-b203-bei-kappeln-steht-lichterloh-in-flammen-45173242</guid>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/feuer-in-lagerhalle-an-der-b203-bei-kappeln-45173242</guid>
       <enclosure url="https://images.noz-mhn.de/img/45173240/crop/cbase_16_9-w1820-h1022/1209714057/781133618/grofeuer.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 05:30:16 +0053</pubDate>
+    </item>
+    <item>
+      <title>Nach spektakulärem Unfall an der Husumer Straße: 20-jähriger Fahrer meldet sich bei Polizei</title>
+      <link>https://www.shz.de/lokales/flensburg/artikel/landrover-unfall-in-flensburg-fahrer-meldet-sich-bei-polizei-45173435</link>
+      <description>In der Nacht zu Freitag war ein Landrover auf die Gleise an der Husumer Straße gestürzt. Der Fahrer flüchtete anschließend. Nun hat er sich bei der Polizei gemeldet.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/landrover-unfall-in-flensburg-fahrer-meldet-sich-bei-polizei-45173435</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45173453/crop/cbase_16_9-w1820-h1022/1480965810/372578449/unnamed.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:03:07 +0053</pubDate>
     </item>
   </channel>
 </rss>
