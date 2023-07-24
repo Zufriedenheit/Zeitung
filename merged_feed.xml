@@ -6,7 +6,15 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 14:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 15:05:52 +0000</lastBuildDate>
+    <item>
+      <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
+      <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
+      <description>Hier präsentiert die Redaktion der Husumer Nachrichten eine Übersicht der Events in Husum, Bredstedt und Langenhorn, St. Peter-Ording und ganz Eiderstedt, Friedrichstadt, Viöl und anderen Orten auf dem Festland: Konzerte, Feste und Ausstellungen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45171614/crop/cbase_16_9-w1820-h1022/799140270/1207302036/malte-viefchristian-debus.jpg" length="2" type="image/jpg"/>
+      <pubDate>Wed, 08 Mar 2023 11:36:00 +0053</pubDate>
+    </item>
     <item>
       <title>Schwarz-Grün formuliert ehrgeizige Klimaziele bis 2030</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</link>
@@ -22,14 +30,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Kleingärtner aus Eckernförde erzählen: Warum sie ihre Parzelle nicht wieder hergeben</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/kleingaertner-aus-sh-warum-sie-ihre-parzelle-nie-wieder-hergeben-45080352</link>
-      <description>In einer Kleingartenkolonie verwirklichen sich so viele unterschiedliche Pächter, wie es Parzellen gibt. Wie kommen sie miteinander klar? Und mit welcher großen Sorgen kämpfen die Vereine selbst? Eine Bestandsaufnahme aus Eckernförde.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/kleingaertner-aus-sh-warum-sie-ihre-parzelle-nie-wieder-hergeben-45080352</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45080336/crop/cbase_16_9-w1820-h1022/205096486/1914607363/kleingartensuederhakeeckernfoerde-9155.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 13:25:00 +0053</pubDate>
     </item>
     <item>
       <title>Pansdorf: KITT aus „Knight Rider“ und weitere US-Autos als Publikumsmagnet</title>
@@ -94,14 +94,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/bad-oldesloe-reinfeld/artikel/stormini-reinfeld-daniel-guenther-lobt-kinder-demokratie-projekt-45169988</guid>
       <enclosure url="https://images.noz-mhn.de/img/45170000/crop/cbase_16_9-w1820-h1022/770365080/97295169/danielgnther.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 09:12:49 +0053</pubDate>
-    </item>
-    <item>
-      <title>„Schleswig swingt“ 2023 im Regen: Das sind die schönsten Bilder</title>
-      <link>https://www.shz.de/lokales/schleswig/galerie/stadtfest-von-ingo-harder-schleswig-swingt-2023-im-regen-das-sind-die-schoenste-45169960</link>
-      <description>„Schleswig swingt“ 2023 im Regen: Das sind die schönsten Bilder</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/galerie/stadtfest-von-ingo-harder-schleswig-swingt-2023-im-regen-das-sind-die-schoenste-45169960</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45169883/crop/cbase_16_9-w1820-h1022/1792539525/1820809734/schleswig-swingt-13.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 09:14:05 +0053</pubDate>
     </item>
     <item>
       <title>Mit dem historischen Schienenbus von Kappeln nach Lindaunis</title>
@@ -336,7 +328,7 @@
       <pubDate>Mon, 24 Jul 2023 11:15:33 +0053</pubDate>
     </item>
     <item>
-      <title>So steht es um die Versorgung mit Trinkwasser in Ostholstein</title>
+      <title>So steht es um die Versorgung mit Trinkwasser in Ostholstein und Plön</title>
       <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/nach-duerre-so-steht-es-um-ostholsteins-trinkwasser-versorgung-45161543</link>
       <description>Deutschlandweit sinken vielerorts die Grundwasserspiegel. Wie die Situation in Ostholstein aussieht – und die Versorgungslage am Beispiel von Malente.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/nach-duerre-so-steht-es-um-ostholsteins-trinkwasser-versorgung-45161543</guid>
@@ -392,14 +384,6 @@
       <pubDate>Mon, 24 Jul 2023 12:38:20 +0053</pubDate>
     </item>
     <item>
-      <title>Demnächst Vollsperrung in Mehlby</title>
-      <link>https://www.shz.de/lokales/kappeln/artikel/kappeln-vollsperrung-in-der-flensburger-strasse-ab-26-juli-2023-45176456</link>
-      <description>Im Kappelner Stadtteil Mehlby wird für etwas mehr als eine Woche eine Vollsperrung erforderlich.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/kappeln-vollsperrung-in-der-flensburger-strasse-ab-26-juli-2023-45176456</guid>
-      <enclosure url="https://images.noz-mhn.de/img/44237461/crop/cbase_16_9-w1820-h1022/1840528736/1649496341/imago202693323.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 13:14:08 +0053</pubDate>
-    </item>
-    <item>
       <title>Asta der Uni Flensburg fordert, nackte Frauen-Skulptur wieder aufzustellen</title>
       <link>https://www.shz.de/lokales/flensburg/artikel/uni-flensburg-asta-fordert-frauenskulptur-wieder-aufzustellen-45176054</link>
       <description>Nach dem bundesweiten Medienecho plädiert der Flensburger Asta dafür, die Skulptur des Künstlers Fritz During wieder an alter Stelle aufzustellen.</description>
@@ -408,20 +392,36 @@
       <pubDate>Mon, 24 Jul 2023 13:14:56 +0053</pubDate>
     </item>
     <item>
-      <title>Kunst des Shinrin-Yoku: Waldbaden im Naturbad Vogelkoje Kampen</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/kunst-des-shinrin-yoku-waldbaden-im-naturbad-vogelkoje-kampen-45176120</link>
-      <description>Den Wald mit allen Sinnen erleben, ist in Japan bereits seit 1982 Bestandteil eines gesunden Lebensstils. Auch auf Sylt wird das sogenannte Shinrin-Yoku angeboten – beim Naturpfad Vogelkoje in Kampen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/kunst-des-shinrin-yoku-waldbaden-im-naturbad-vogelkoje-kampen-45176120</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45176218/crop/cbase_16_9-w1820-h1022/1404205164/1776925005/2023-walbaden-naturpfad-vogelkoje-kampen-hausmannsoelring-museen.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 13:27:16 +0053</pubDate>
-    </item>
-    <item>
       <title>Showprogramm auf Kappelner Ausflugsschiffen: Vom Krimi-Dinner bis zur Elektro-Party</title>
       <link>https://www.shz.de/lokales/kappeln/artikel/kappelner-ausflugsschiffe-vom-krimi-dinner-bis-zur-elektro-party-45175810</link>
       <description>Mit vielseitigem Showprogramm bieten die Ausflugsschiffe in Kappeln ihren Gästen kurzweilige Unterhaltung. Ein Krimi-Dinner und Kneipenwirt „Onkel Hugo“ sorgen auf der „Stadt Kappeln“ für Stimmung, während die „Schlei Princess“ mit Musik-Events auftrumpft.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/kappelner-ausflugsschiffe-vom-krimi-dinner-bis-zur-elektro-party-45175810</guid>
       <enclosure url="https://images.noz-mhn.de/img/45175835/crop/cbase_16_9-w1820-h1022/1012138977/753356873/dsc-0038-2.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 13:35:49 +0053</pubDate>
+    </item>
+    <item>
+      <title>Kai Petersen wird doppelter Würdenträger der Keitumer Ringreiter</title>
+      <link>https://www.shz.de/lokales/sylt/artikel/kai-petersen-wird-doppelter-wuerdentraeger-der-keitumer-ringreiter-45176704</link>
+      <description>Prinz und Kronprinz im Duell: Bei einem spannenden Wettkampf der Keitumer Ringreiter auf Sylt hat Kai Petersen sein Geschick bewiesen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/kai-petersen-wird-doppelter-wuerdentraeger-der-keitumer-ringreiter-45176704</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45176688/crop/cbase_16_9-w1820-h1022/1299846142/396829810/20230723-180904.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 14:18:48 +0053</pubDate>
+    </item>
+    <item>
+      <title>„Bitte nicht einsteigen!“: Verwirrung um IC-Halt am Bahnhof in Schleswig</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/ic-aus-kopenhagen-verwirrung-um-halt-am-bahnhof-schleswig-45176754</link>
+      <description>Auf der Strecke von Kopenhagen nach Hamburg werden immer häufiger die Züge und Zugnummern ausgetauscht. Welche Auswirkungen hat dies für Bahnreisende, die in Schleswig zusteigen wollen?</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/ic-aus-kopenhagen-verwirrung-um-halt-am-bahnhof-schleswig-45176754</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45176720/crop/cbase_16_9-w1820-h1022/201979316/476411779/ic.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 14:45:57 +0053</pubDate>
+    </item>
+    <item>
+      <title>Ranking zu den sichersten Flughäfen in Deutschland: Lübeck landet ganz hinten</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/flughafen-ranking-so-bewerten-piloten-deutsche-airports-45176658</link>
+      <description>Piloten bewerten bei einer Umfrage die Sicherheitsstandards an deutschen Flughäfen: Der Flughafen Lübeck rangiert am unteren Ende der Skala. Die Ergebnisse im Überblick.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/flughafen-ranking-so-bewerten-piloten-deutsche-airports-45176658</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177666/crop/cbase_16_9-w1820-h1022/107664791/1277435732/flughafen-lbeck.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 14:48:27 +0053</pubDate>
     </item>
   </channel>
 </rss>
