@@ -6,23 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 07:05:36 +0000</lastBuildDate>
-    <item>
-      <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
-      <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
-      <description>Hier präsentiert die Redaktion der Husumer Nachrichten eine Übersicht der Events in Husum, Bredstedt und Langenhorn, St. Peter-Ording und ganz Eiderstedt, Friedrichstadt, Viöl und anderen Orten auf dem Festland: Konzerte, Feste und Ausstellungen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</guid>
-      <enclosure url="https://images.noz-mhn.de/img/42646097/crop/cbase_16_9-w1820-h1022/1723746707/1645124730/malte-viefetienne-lehnen.jpg" length="2" type="image/jpg"/>
-      <pubDate>Wed, 08 Mar 2023 11:36:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Kneipen, Kunst und Meer auf Sylt: 8 Tipps für schlechtes Inselwetter</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/was-tun-wenn-es-regnet-8-tipps-fuer-schlechtes-wetter-auf-sylt-41526052</link>
-      <description>Auf Sylt kann man auch bei Sturm, grauem Himmel und Regen einiges unternehmen – und erleben. Das sind unsere Tipps. Eine Übersicht.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/was-tun-wenn-es-regnet-8-tipps-fuer-schlechtes-wetter-auf-sylt-41526052</guid>
-      <enclosure url="https://images.noz-mhn.de/img/44525632/crop/cbase_16_9-w1820-h1022/1842347644/716471175/sylt-strand-pischel.jpg" length="2" type="image/jpg"/>
-      <pubDate>Tue, 23 May 2023 09:49:00 +0053</pubDate>
-    </item>
+    <lastBuildDate>Mon, 24 Jul 2023 08:08:53 +0000</lastBuildDate>
     <item>
       <title>Schwarz-Grün formuliert ehrgeizige Klimaziele bis 2030</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</link>
@@ -54,38 +38,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Urlaubstipps für Regenwetter in SH: Hier haben Sie auch drinnen Spaß</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/die-besten-tipps-fuer-den-urlaub-bei-regen-in-sh-und-hamburg-45163260</link>
-      <description>Sie verbringen die Sommerferien in Schleswig-Holstein, doch das Wetter spielt nicht mit? Kein Problem. Wir haben für Sie die besten Ausflugstipps bei Wind und Regen gesammelt. Eine Übersicht.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/die-besten-tipps-fuer-den-urlaub-bei-regen-in-sh-und-hamburg-45163260</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45164255/crop/cbase_16_9-w1820-h1022/621892025/1404817829/106-meter-mediendom-19.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 14:02:11 +0053</pubDate>
-    </item>
-    <item>
-      <title>Jürgen Steffensen aus Böklund bleibt Amtsvorsteher im Amt Südangeln</title>
-      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/juergen-steffensen-bleibt-amtsvorsteher-im-amt-suedangeln-45164235</link>
-      <description>Neben den üblichen Wahlen wurden auch die gekürzten Mittel für den ländlichen Raum thematisiert: Amtsdirektorin Svenja Lindscheid riet dazu, begonnene Projekte fortzusetzen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/juergen-steffensen-bleibt-amtsvorsteher-im-amt-suedangeln-45164235</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45164239/crop/cbase_16_9-w1820-h1022/1330822100/1963972319/img-3470.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 14:04:10 +0053</pubDate>
-    </item>
-    <item>
-      <title>Zahlreiche Besucher bei der Eröffnung von „Schleswig swingt“</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/zahlreiche-besucher-beim-auftakt-von-schleswig-swingt-45165077</link>
-      <description>Pünktlich zum Nachmittag hörte der Regen auf und zahlreiche Besucher tummelten sich um den Bühnen von „Schleswig swingt.“</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/zahlreiche-besucher-beim-auftakt-von-schleswig-swingt-45165077</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45165060/crop/cbase_16_9-w1820-h1022/48602497/2076381967/dsc-1755.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 15:25:12 +0053</pubDate>
-    </item>
-    <item>
-      <title>Das sind die schönsten Impressionen vom Mittelaltermarkt in Sörup</title>
-      <link>https://www.shz.de/lokales/gluecksburg-angeln/galerie/bildergalerie-das-sind-die-schoensten-impressionen-vom-mittelaltermarkt-in-45166161</link>
-      <description>Das sind die schönsten Impressionen vom Mittelaltermarkt in Sörup</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/galerie/bildergalerie-das-sind-die-schoensten-impressionen-vom-mittelaltermarkt-in-45166161</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45166168/crop/cbase_16_9-w1820-h1022/1239038301/1327021802/mittelaltermarkt-srup-23-37.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 19:42:41 +0053</pubDate>
     </item>
     <item>
       <title>Handwerk, Schmuck und Gaukelei: Mittelaltermarkt am Südensee in Sörup</title>
@@ -398,6 +350,54 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/landrover-unfall-in-flensburg-fahrer-meldet-sich-bei-polizei-45173435</guid>
       <enclosure url="https://images.noz-mhn.de/img/45173453/crop/cbase_16_9-w1820-h1022/1480965810/372578449/unnamed.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 07:03:07 +0053</pubDate>
+    </item>
+    <item>
+      <title>Wie Lübeck bis 2040 rund 6500 Wohnungen bauen will</title>
+      <link>https://www.shz.de/lokales/luebeck/artikel/immobilien-wie-luebeck-bis-2040-rund-6500-wohnungen-bauen-will-45166805</link>
+      <description>Der Wohnungsmarktbericht 2022 zeigt unter anderem den Bedarf der nächsten Jahre auf. Welche Schlüsse die Stadt zieht und wie es um den sozialen Wohnungsbau in Lübeck steht.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/immobilien-wie-luebeck-bis-2040-rund-6500-wohnungen-bauen-will-45166805</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45166911/crop/cbase_16_9-w1820-h1022/1182387750/1491712094/dpa-5fadc60013b1de0a.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:21:21 +0053</pubDate>
+    </item>
+    <item>
+      <title>Norden-Festival: Das sind die Gewinner des Fotowettbewerbs</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/norden-festival-das-sind-die-gewinner-des-fotowettbewerbs-45140311</link>
+      <description>Anlässlich des fünfjährigen Jubiläums des Norden-Festivals, das in diesem Jahr vom 24. August bis zum 10. September stattfindet, hatten die Veranstalter und die SN zu einem Fotowettbewerb aufgerufen. Jetzt stehen die Sieger fest – und es gab noch einen spontanen Sonderpreis für eine sehr emotionale Geschichte.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/norden-festival-das-sind-die-gewinner-des-fotowettbewerbs-45140311</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45140309/crop/cbase_16_9-w1820-h1022/1034400071/504382480/fotonorden3.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:41:27 +0053</pubDate>
+    </item>
+    <item>
+      <title>Kombiniertes Feuerwehrgeräte- und Dorfgemeinschaftshaus in Dollerup vor Baubeginn</title>
+      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/neues-feuerwehrgeraete-und-dorfgemeinschaftshaus-in-dollerup-45172052</link>
+      <description>Das Vorhaben war notwendig geworden, weil die derzeitigen getrennten Feuerwehrgerätehäuser schon lange nicht mehr den Anforderungen der Hanseatischen Feuerwehrunfallkasse entsprechen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/neues-feuerwehrgeraete-und-dorfgemeinschaftshaus-in-dollerup-45172052</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45172012/crop/cbase_16_9-w1820-h1022/1557567853/1902135434/vdl-230721-2.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:45:03 +0053</pubDate>
+    </item>
+    <item>
+      <title>24-Stunden-Lauf: Holger Steensen aus Kropp will Geld für todkranke Kinder sammeln</title>
+      <link>https://www.shz.de/lokales/kropp-stapelholm/artikel/24-stunden-lauf-kropper-will-geld-fuer-todkranke-kinder-sammeln-45166252</link>
+      <description>Der Sportler und Inhaber des Sport-Leistungszentrums Kropp hat ein ehrgeiziges Ziel: Bis zu seinem 50. Geburtstag in zwei Jahren will er insgesamt 50.000 Euro Spenden für gemeinnützige Institutionen gesammelt haben. Mit seiner neuesten Idee, einem 24-Stunden-Lauf, kommt er dem Ziel näher.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kropp-stapelholm/artikel/24-stunden-lauf-kropper-will-geld-fuer-todkranke-kinder-sammeln-45166252</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45166253/crop/cbase_16_9-w1820-h1022/1295461774/678236045/holgersteensen-1.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:45:23 +0053</pubDate>
+    </item>
+    <item>
+      <title>Hans Hermann Timm bleibt Bürgermeister in Lürschau</title>
+      <link>https://www.shz.de/lokales/geest/artikel/hans-hermann-timm-bleibt-buergermeister-in-luerschau-45163081</link>
+      <description>Auf der konstituierenden Sitzung der Lürschauer Gemeindevertretung wurde der amtierende Bürgermeister Hans Hermann Timm im Amt bestätigt. Das sind seine Vertreter.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/geest/artikel/hans-hermann-timm-bleibt-buergermeister-in-luerschau-45163081</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45163007/crop/cbase_16_9-w1820-h1022/1249794770/1184145930/lrschau-bgm.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:45:50 +0053</pubDate>
+    </item>
+    <item>
+      <title>Auf den Spuren des Musikers Eduard Erdmann und des Malers Hans Holtorf</title>
+      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/langballig-musiker-eduard-erdmann-und-maler-hans-holtorf-45172169</link>
+      <description>Auf den Spuren der bedeutsam mit der Region verbundenen Künstler bewegten sich am vergangenen Wochenende viele Mitglieder der Eduard-Erdmann-Gesellschaft unter Leitung ihres Vorsitzenden Prof. Dr. Gerhard Gensch.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/langballig-musiker-eduard-erdmann-und-maler-hans-holtorf-45172169</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45172195/crop/cbase_16_9-w1820-h1022/1745906533/1984025243/vdl-230722-1.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 07:53:25 +0053</pubDate>
     </item>
   </channel>
 </rss>
