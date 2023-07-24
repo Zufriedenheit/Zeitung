@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 15:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 16:07:32 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -30,14 +30,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Pansdorf: KITT aus „Knight Rider“ und weitere US-Autos als Publikumsmagnet</title>
-      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/pansdorf-sprechender-kitt-aus-knight-rider-und-weitere-us-autos-45168148</link>
-      <description>Besonderes Auto-Treffen auf der Pansdorfer Festwiese: Mitglieder von „US Classic Ostholstein“ und andere zeigten mehr als 50 klassische Fahrzeuge. Was die Besucher erlebten und was KITT zu ihnen sagte.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/pansdorf-sprechender-kitt-aus-knight-rider-und-weitere-us-autos-45168148</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45168175/crop/cbase_16_9-w1820-h1022/1223922366/1003100986/dsc-0395.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 16:43:09 +0053</pubDate>
     </item>
     <item>
       <title>Warum ein doppelter Merz die CDU nicht voranbringen wird</title>
@@ -376,7 +368,7 @@
       <pubDate>Mon, 24 Jul 2023 12:21:14 +0053</pubDate>
     </item>
     <item>
-      <title>Schleswig-Holstein will für Transparenz bei Grundsteuer-Reform sorgen</title>
+      <title>Wie teuer wird die neue Grundsteuer für die Bürger? SH will für Transparenz sorgen</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/grundsteuer-reform-sh-will-transparenz-fuer-buerger-beim-hebesatz-45176199</link>
       <description>Von 2025 an soll die neue Grundsteuer-Berechnung gelten. Für die Neuberechnung müssen fast 36 Millionen Grundstücke neu bewertet werden. Schleswig-Holstein plant nun ein Transparenzregister, mit der Gemeinden Einnahmen in derselben Höhe wie vor der Reform erzielen.</description>
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/grundsteuer-reform-sh-will-transparenz-fuer-buerger-beim-hebesatz-45176199</guid>
@@ -422,6 +414,22 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/flughafen-ranking-so-bewerten-piloten-deutsche-airports-45176658</guid>
       <enclosure url="https://images.noz-mhn.de/img/45177666/crop/cbase_16_9-w1820-h1022/107664791/1277435732/flughafen-lbeck.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 14:48:27 +0053</pubDate>
+    </item>
+    <item>
+      <title>Zielbahnhof Elmshorn? Verwirrung um Anzeigen bei Regionalexpress-Zügen in SH</title>
+      <link>https://www.shz.de/lokales/elmshorn-barmstedt/artikel/ziel-elmshorn-verwirrung-um-anzeigen-bei-re-zuegen-in-sh-45175205</link>
+      <description>Normalerweise ist es kein Problem, vom Norden Schleswig-Holsteins mit dem Regionalexpress nach Hamburg zu fahren. Daran hat sich im Prinzip auch nichts geändert, doch die Anzeigetafeln an den Bahnhöfen sorgen derzeit für Verwirrung bei den Fahrgästen. Demnach enden die Fahrten schon in Elmshorn.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/elmshorn-barmstedt/artikel/ziel-elmshorn-verwirrung-um-anzeigen-bei-re-zuegen-in-sh-45175205</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175403/crop/cbase_16_9-w1820-h1022/701949244/257320631/si220723-bahnhofflensburg-3.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 15:10:00 +0053</pubDate>
+    </item>
+    <item>
+      <title>Punks auf Sylt: Rund 30 Aktivisten im Camp in Tinnum eingetroffen</title>
+      <link>https://www.shz.de/lokales/sylt/artikel/punks-auf-sylt-rund-30-aktivisten-im-camp-in-tinnum-eingetroffen-45177491</link>
+      <description>Genehmigt ist es für bis zu 300 Menschen. Eingetroffen im Protestcamp auf Sylt ist am Montag bislang aber nur ein Bruchteil dieser Zahl. So ist die Stimmung vor Ort.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/punks-auf-sylt-rund-30-aktivisten-im-camp-in-tinnum-eingetroffen-45177491</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177497/crop/cbase_16_9-w1820-h1022/875667388/19830554/punks-auf-sylt-01.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 15:21:11 +0053</pubDate>
     </item>
   </channel>
 </rss>
