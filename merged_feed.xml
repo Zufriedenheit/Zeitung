@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 05:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 06:08:52 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -54,22 +54,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>SHMF-Konzert der Wunderkinder Jan Lisiecki, Tomo Keller und Wolfgang Amadeus Mozart</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/shmf-konzert-der-wunderkinder-jan-lisiecki-und-mozart-45162761</link>
-      <description>Mit der Academy of St Martin in the Fields spielte der 28-jährige Pianist in der Lübecker Kongresshalle Werke von Michael Tippett, Benjamin Britten und Mozart. So war der Abend.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/shmf-konzert-der-wunderkinder-jan-lisiecki-und-mozart-45162761</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45162702/crop/cbase_16_9-w1820-h1022/1709784441/2107695377/fk-202307202118-0445.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 12:11:29 +0053</pubDate>
-    </item>
-    <item>
-      <title>Warum die Strompreise auf den Dörfern in Schleswig-Holstein besonders hoch sind</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/warum-die-strompreise-auf-den-doerfern-in-sh-besonders-hoch-sind-45162223</link>
-      <description>In fast keinem Bundesland ist der Unterschied zwischen hohen Stromkosten in der Dörfern und niedrigen in den Städten so groß wie im nördlichsten. Den Hauptgrund dafür will der Bund schon lange ändern – bisher ohne Erfolg.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/warum-die-strompreise-auf-den-doerfern-in-sh-besonders-hoch-sind-45162223</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45162233/crop/cbase_16_9-w1820-h1022/1295369033/1525790949/23-150534946.jpg" length="2" type="image/jpg"/>
-      <pubDate>Fri, 21 Jul 2023 12:38:30 +0053</pubDate>
     </item>
     <item>
       <title>Urlaubstipps für Regenwetter in SH: Hier haben Sie auch drinnen Spaß</title>
@@ -368,14 +352,6 @@
       <pubDate>Sun, 23 Jul 2023 12:48:46 +0053</pubDate>
     </item>
     <item>
-      <title>Kammermusikfest Sylt: Musiker bringen Kirche St. Nicolai zum Beben</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/kammermusikfest-syltmusiker-bringen-st-nicolai-kirche-zum-beben-45171133</link>
-      <description>Nicht nur die nordische Musik, auch Standing Ovations, Fußgetrampel und „Bravo“-Rufe in der St. Nicolaikirche in Westerland haben am Samstag den Ton angegeben. Mehr als 250 Besucher ließen sich den Auftakt des Kammermusikfests Sylt nicht entgehen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/kammermusikfest-syltmusiker-bringen-st-nicolai-kirche-zum-beben-45171133</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45171140/crop/cbase_16_9-w1820-h1022/1858386597/433315401/erffnungskonzert-kmfsylt-01-festivalensembl.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 13:00:04 +0053</pubDate>
-    </item>
-    <item>
       <title>7. Oldtimertreffen auf Gut Oestergaard: Das sind die schönsten Bilder</title>
       <link>https://www.shz.de/lokales/gluecksburg-angeln/galerie/mit-teilemarkt-7-oldtimertreffen-auf-gut-oestergaard-das-sind-die-schoens-45171365</link>
       <description>7. Oldtimertreffen auf Gut Oestergaard: Das sind die schönsten Bilder</description>
@@ -414,6 +390,22 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/ministerpraesident-daniel-guenther-wird-50-das-sagen-wegbegleiter-45162748</guid>
       <enclosure url="https://images.noz-mhn.de/img/43743908/crop/cbase_16_9-w1820-h1022/1751483341/2114632662/23-148214967.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 03:00:00 +0053</pubDate>
+    </item>
+    <item>
+      <title>So wird das Wetter in Schleswig-Holstein und Hamburg zum Wochenstart</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-das-wetter-in-hh-und-schleswig-holstein-zum-wochenstart-45173177</link>
+      <description>Auch in der letzten Juliwoche kehrt der Sommer nicht in den Norden zurück und das Thermometer erreicht selten die 20-Grad-Marke. Die Wetteraussichten für Schleswig-Holstein und Hamburg im Einzelnen, lesen Sie hier.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-das-wetter-in-hh-und-schleswig-holstein-zum-wochenstart-45173177</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45047519/crop/cbase_16_9-w1820-h1022/1503663292/1062728947/regenwetter-im-sommer-juli-2023-in-sh.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 05:15:26 +0053</pubDate>
+    </item>
+    <item>
+      <title>Lagerhalle an der B203 bei Kappeln steht lichterloh in Flammen</title>
+      <link>https://www.shz.de/lokales/kappeln/artikel/lagerhalle-an-der-b203-bei-kappeln-steht-lichterloh-in-flammen-45173242</link>
+      <description>Das Feuer brach in der Nacht aus. Mittlerweile ist die Lagerhalle bis auf die Grundmauern niedergebrannt. Ein großes Problem stellte die Wasserversorgung am Einsatzort zwischen Kappeln und Karby dar.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/lagerhalle-an-der-b203-bei-kappeln-steht-lichterloh-in-flammen-45173242</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45173240/crop/cbase_16_9-w1820-h1022/1209714057/781133618/grofeuer.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 05:30:16 +0053</pubDate>
     </item>
   </channel>
 </rss>
