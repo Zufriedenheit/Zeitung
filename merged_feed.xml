@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Jul 2023 16:07:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 17:04:06 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -16,44 +16,12 @@
       <pubDate>Wed, 08 Mar 2023 11:36:00 +0053</pubDate>
     </item>
     <item>
-      <title>Schwarz-Grün formuliert ehrgeizige Klimaziele bis 2030</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</link>
-      <description>Umwelt- und Energiewendeminister Tobias Goldschmidt stellt ehrgeizige Ziele beim Klimaschutz vor und setzt auf Verantwortung der beteiligten Ressorts.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruen-formuliert-ehrgeizige-klimaziele-bis-2030-45158680</guid>
-      <enclosure url="https://images.noz-mhn.de/img/44626964/crop/cbase_16_9-w1820-h1022/1085059658/1923343857/suetterlin-waack-goldschmidt-windkraft-6862-1.jpg" length="2" type="image/jpg"/>
-      <pubDate>Thu, 20 Jul 2023 17:39:47 +0053</pubDate>
-    </item>
-    <item>
       <title>Die Top-13 Tiere aus SH, die es in die Nachrichten geschafft haben</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</link>
       <description>Die Top-13 Tiere aus SH, die es in die Nachrichten geschafft haben</description>
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Warum ein doppelter Merz die CDU nicht voranbringen wird</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/linnemann-warum-ein-doppelter-merz-die-cdu-nicht-voranbringt-45144888</link>
-      <description>Der Parteichef brüskiert mit der Auswechslung von Generalsekretär Mario Czaja nicht nur den sozialen Flügel der CDU, sondern auch die Mitte – und das zu einem denkbar schlechten Zeitpunkt.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/linnemann-warum-ein-doppelter-merz-die-cdu-nicht-voranbringt-45144888</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45144882/crop/cbase_16_9-w1820-h1022/1564139199/1659522730/cdu-bundesvorstand-78666864.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sat, 22 Jul 2023 18:37:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Stau vor der Grenze zu Dänemark trotz ausgesetzter Kontrollen</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/a7-stau-vor-der-grenze-zu-daenemark-trotz-ausgesetzter-kontrollen-45169535</link>
-      <description>14 der 16 Bundesländer haben Sommerferien. Das führt auf den Routen in Richtung Dänemark, Nord- und Ostsee zu Staus.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/a7-stau-vor-der-grenze-zu-daenemark-trotz-ausgesetzter-kontrollen-45169535</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45169532/crop/cbase_16_9-w1820-h1022/1383797987/1228135595/bab-stau-grenze-ellund-22.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 05:36:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>ADHS: Immer mehr Erwachsene in SH betroffen – das steckt tatsächlich hinter den Zahlen</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/adhs-immer-mehr-erwachsene-in-sh-betroffen-45162887</link>
-      <description>In SH werden immer häufiger ADHS-Medikamente an Erwachsene ausgegeben. Der Grund ist nicht unbedingt auf die gestiegene Zahl an Neuerkrankungen zurückzuführen.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/adhs-immer-mehr-erwachsene-in-sh-betroffen-45162887</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45093420/crop/cbase_16_9-w1820-h1022/849610806/182903854/ritalin-packung-im-hintergrund-ein-kind-adhs.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 05:57:00 +0053</pubDate>
     </item>
     <item>
       <title>In Lebensgefahr: Wattwanderin mit Hubschrauber von Sandbank gerettet</title>
@@ -392,14 +360,6 @@
       <pubDate>Mon, 24 Jul 2023 13:35:49 +0053</pubDate>
     </item>
     <item>
-      <title>Kai Petersen wird doppelter Würdenträger der Keitumer Ringreiter</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/kai-petersen-wird-doppelter-wuerdentraeger-der-keitumer-ringreiter-45176704</link>
-      <description>Prinz und Kronprinz im Duell: Bei einem spannenden Wettkampf der Keitumer Ringreiter auf Sylt hat Kai Petersen sein Geschick bewiesen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/kai-petersen-wird-doppelter-wuerdentraeger-der-keitumer-ringreiter-45176704</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45176688/crop/cbase_16_9-w1820-h1022/1299846142/396829810/20230723-180904.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 14:18:48 +0053</pubDate>
-    </item>
-    <item>
       <title>„Bitte nicht einsteigen!“: Verwirrung um IC-Halt am Bahnhof in Schleswig</title>
       <link>https://www.shz.de/lokales/schleswig/artikel/ic-aus-kopenhagen-verwirrung-um-halt-am-bahnhof-schleswig-45176754</link>
       <description>Auf der Strecke von Kopenhagen nach Hamburg werden immer häufiger die Züge und Zugnummern ausgetauscht. Welche Auswirkungen hat dies für Bahnreisende, die in Schleswig zusteigen wollen?</description>
@@ -430,6 +390,46 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/punks-auf-sylt-rund-30-aktivisten-im-camp-in-tinnum-eingetroffen-45177491</guid>
       <enclosure url="https://images.noz-mhn.de/img/45177497/crop/cbase_16_9-w1820-h1022/875667388/19830554/punks-auf-sylt-01.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 15:21:11 +0053</pubDate>
+    </item>
+    <item>
+      <title>Land im Shoppingrausch bei Corona-Tests – viel Lehrgeld gezahlt</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/land-im-shoppingrausch-jetzt-bleibt-es-auf-den-tests-sitzen-45176453</link>
+      <description>Während der Pandemie hat das Land zu viele Corona-Tests gekauft. Hoffentlich hat es daraus gelernt.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/land-im-shoppingrausch-jetzt-bleibt-es-auf-den-tests-sitzen-45176453</guid>
+      <enclosure url="https://images.noz-mhn.de/img/44218178/crop/cbase_16_9-w1820-h1022/1764900521/1336558289/dpa-5fac8c00e1d7f382.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 16:23:28 +0053</pubDate>
+    </item>
+    <item>
+      <title>Wie Monika Heinold den Gemeinden bei der Grundsteuer auf die Finger guckt</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/wie-sh-den-gemeinden-bei-der-grundsteuer-auf-die-finger-guckt-45178615</link>
+      <description>Immobilienbesitzer sollen feststellen können, ob ihre Gemeinde mit der Reform der Grundsteuer 2025 auch gleich die Einnahmen erhöht. Dafür will Schleswig-Holsteins Finanzministerin nächstes Jahr mit einem Transparenzregister sorgen.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/wie-sh-den-gemeinden-bei-der-grundsteuer-auf-die-finger-guckt-45178615</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177802/crop/cbase_16_9-w1820-h1022/1653140655/1845106574/monikaheinold-3654.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 16:41:29 +0053</pubDate>
+    </item>
+    <item>
+      <title>Die Nord-CDU und der schwierige Umgang mit Merz</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/afd-kooperation-die-nord-cdu-und-der-schwierige-umgang-mit-merz-45178582</link>
+      <description>Schleswig-Holsteins Christdemokraten üben moderate Kritik an Aussagen des Bundesvorsitzenden.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/afd-kooperation-die-nord-cdu-und-der-schwierige-umgang-mit-merz-45178582</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177470/crop/cbase_16_9-w1820-h1022/1854328096/1756429167/dpa-5fadee00c8ab7615.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 16:47:38 +0053</pubDate>
+    </item>
+    <item>
+      <title>Lange Staus am Wochenende an der Verladerampe in Niebüll</title>
+      <link>https://www.shz.de/lokales/niebuell-leck/artikel/sommerferien-mit-dem-zug-nach-sylt-45177305</link>
+      <description>Hohe Auslastung: Wer am vergangenen Wochenende mit dem Auto auf die Insel Sylt fahren wollte, musste teilweise lange warten. Was die Bahn und der RDC für den Rest der Ferien prognostizieren und wie die Lage im Personenzug ist.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/niebuell-leck/artikel/sommerferien-mit-dem-zug-nach-sylt-45177305</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45178702/crop/cbase_16_9-w1820-h1022/786046591/1591678931/07fd9544-b1e8-4de1-b551-9b205e20af46aa.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 16:57:59 +0053</pubDate>
+    </item>
+    <item>
+      <title>„Schreckliche Hilfeschreie“: Kollege des getöteten Danny P. sagt im Brokstedt-Prozess aus</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/brokstedt-prozess-kollege-des-getoeteten-danny-p-sagt-aus-45173516</link>
+      <description>Im Prozess gegen Ibrahim A. müht sich das Landgericht Itzehoe weiter, die Bluttat im Regionalexpress so genau wie möglich zu rekonstruieren. Das Interesse von Öffentlichkeit und Medien ist merklich abgeflaut.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/brokstedt-prozess-kollege-des-getoeteten-danny-p-sagt-aus-45173516</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45174558/crop/cbase_16_9-w1820-h1022/1755448404/1046389685/img-3301.jpg" length="2" type="image/jpg"/>
+      <pubDate>Mon, 24 Jul 2023 17:00:00 +0053</pubDate>
     </item>
   </channel>
 </rss>
