@@ -1,8 +1,8 @@
 name: Update Feeds
 
-on: workflow_dispatch
-
-
+on:
+  schedule:
+    - cron: '0 * * * *'
 
 
 jobs:
