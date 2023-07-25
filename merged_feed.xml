@@ -6,15 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 08:08:34 +0000</lastBuildDate>
-    <item>
-      <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
-      <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
-      <description>Hier präsentiert die Redaktion der Husumer Nachrichten eine Übersicht der Events in Husum, Bredstedt und Langenhorn, St. Peter-Ording und ganz Eiderstedt, Friedrichstadt, Viöl und anderen Orten auf dem Festland: Konzerte, Feste und Ausstellungen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45171614/crop/cbase_16_9-w1820-h1022/799140270/1207302036/malte-viefchristian-debus.jpg" length="2" type="image/jpg"/>
-      <pubDate>Wed, 08 Mar 2023 11:36:00 +0053</pubDate>
-    </item>
+    <lastBuildDate>Tue, 25 Jul 2023 09:06:30 +0000</lastBuildDate>
     <item>
       <title>Die Top-13 Tiere aus SH, die es in die Nachrichten geschafft haben</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</link>
@@ -62,14 +54,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/geltinger-birk-rettungsaktion-fuer-vier-sandregenpfeifer-kueken-45170553</guid>
       <enclosure url="https://images.noz-mhn.de/img/45170495/crop/cbase_16_9-w1820-h1022/93554724/1171873529/07-sandregenpfeifer-dsc-4587.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 11:12:06 +0053</pubDate>
-    </item>
-    <item>
-      <title>Wie das Schleswiger Kreishaus jetzt barrierefrei werden möchte</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/wie-das-schleswiger-kreishaus-jetzt-barrierefrei-werden-moechte-45140730</link>
-      <description>Für Menschen im Rollstuhl und Gehbehinderte ist es nicht so einfach, ins Kreishaus in Schleswig zu gelangen, der barrierefreie Eingang ins Gebäude ist seit Corona für die Öffentlichkeit gesperrt. Jetzt soll das Gebäude aber einen neuen behindertengerechten Zugang bekommen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/wie-das-schleswiger-kreishaus-jetzt-barrierefrei-werden-moechte-45140730</guid>
-      <enclosure url="https://images.noz-mhn.de/img/44696965/crop/cbase_16_9-w1820-h1022/949593060/85392966/kreishaus.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 11:12:36 +0053</pubDate>
     </item>
     <item>
       <title>„Eine echte Katastrophe!“: Verregnetes Wochenende beschert Ingo Harder ein dickes Minus</title>
@@ -344,14 +328,6 @@
       <pubDate>Mon, 24 Jul 2023 16:47:38 +0053</pubDate>
     </item>
     <item>
-      <title>Lange Staus am Wochenende an der Verladerampe in Niebüll</title>
-      <link>https://www.shz.de/lokales/niebuell-leck/artikel/sommerferien-mit-dem-zug-nach-sylt-45177305</link>
-      <description>Hohe Auslastung: Wer am vergangenen Wochenende mit dem Auto auf die Insel Sylt fahren wollte, musste teilweise lange warten. Was die Bahn und der RDC für den Rest der Ferien prognostizieren und wie die Lage im Personenzug ist.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/niebuell-leck/artikel/sommerferien-mit-dem-zug-nach-sylt-45177305</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45178702/crop/cbase_16_9-w1820-h1022/786046591/1591678931/07fd9544-b1e8-4de1-b551-9b205e20af46aa.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 16:57:59 +0053</pubDate>
-    </item>
-    <item>
       <title>„Schreckliche Hilfeschreie“: Kollege des getöteten Danny P. sagt im Brokstedt-Prozess aus</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/brokstedt-prozess-kollege-des-getoeteten-danny-p-sagt-aus-45173516</link>
       <description>Im Prozess gegen Ibrahim A. müht sich das Landgericht Itzehoe weiter, die Bluttat im Regionalexpress so genau wie möglich zu rekonstruieren. Das Interesse von Öffentlichkeit und Medien ist merklich abgeflaut.</description>
@@ -400,20 +376,44 @@
       <pubDate>Tue, 25 Jul 2023 07:11:11 +0053</pubDate>
     </item>
     <item>
-      <title>Sylt-Spaziergänge mit Worten von Hermann Hesse und Theodor Storm</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/sylt-literarische-spaziergaenge-2023-mit-kalko-hesse-und-storm-45177181</link>
-      <description>Die literarischen Spaziergänge durch den Naturpfad Vogelkoje Kampen auf Sylt werden fortgeführt. Auch 2023 stehen drei namhafte Schriftsteller im Fokus.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/sylt-literarische-spaziergaenge-2023-mit-kalko-hesse-und-storm-45177181</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45177203/crop/cbase_16_9-w1820-h1022/1436356775/954990056/2023-07-hermann-hesse-literarischer-spazierganggommen-hingst-300.jpg" length="2" type="image/jpg"/>
-      <pubDate>Tue, 25 Jul 2023 07:16:26 +0053</pubDate>
-    </item>
-    <item>
       <title>BMW kommt auf der B200 ins Schleudern: Ersthelfer befreien Fahrer</title>
       <link>https://www.shz.de/lokales/flensburg/artikel/unfall-bei-flensburg-bmw-kommt-auf-der-b200-ins-schleudern-45180130</link>
       <description>Auf Höhe der Abfahrt zum Ochsenweg verlor der Fahrer die Kontrolle über sein Auto.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/unfall-bei-flensburg-bmw-kommt-auf-der-b200-ins-schleudern-45180130</guid>
       <enclosure url="https://images.noz-mhn.de/img/45180124/crop/cbase_16_9-w1820-h1022/1470767656/626729421/unnamed.jpg" length="2" type="image/jpg"/>
       <pubDate>Tue, 25 Jul 2023 07:40:13 +0053</pubDate>
+    </item>
+    <item>
+      <title>Fast 150 Lehrlinge des Ausbildungszentrums Ahrensbök freigesprochen</title>
+      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/ausbildungszentrum-ahrensboek-fast-150-lehrlinge-freigesprochen-45171033</link>
+      <description>Freisprechung 2023 im Ausbildungszentrum Ahrensbök: Rund 450 Gäste feiern mit den Handwerks-Lehrlingen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/ausbildungszentrum-ahrensboek-fast-150-lehrlinge-freigesprochen-45171033</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45171081/crop/cbase_16_9-w1820-h1022/65566437/810261135/dsc00234.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 08:13:35 +0053</pubDate>
+    </item>
+    <item>
+      <title>Was man in den Sommerferien 2023 in Schleswig unternehmen kann</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/was-man-in-den-ferien-in-der-stadt-an-der-schlei-unternehmen-kann-45146974</link>
+      <description>Der Sommer ist da, die Ferien haben begonnen. Was es – neben einem Ausflug zu Haithabu und Schloss Gottorf – für spannende, lustige, aufregende Unternehmungen in Schleswig gibt, hat shz.de für euch herausgefunden.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/was-man-in-den-ferien-in-der-stadt-an-der-schlei-unternehmen-kann-45146974</guid>
+      <enclosure url="https://images.noz-mhn.de/img/44395636/crop/cbase_16_9-w1820-h1022/191298571/1389240155/schleswig-schlei-wir-zuhause-0983-.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 08:24:14 +0053</pubDate>
+    </item>
+    <item>
+      <title>Schwerkranke Lena Wagner aus Eggebek sammelt für Elektro-Dreirad</title>
+      <link>https://www.shz.de/lokales/geest/artikel/neurofibromatose-eggebekerin-sammelt-fuer-elektro-dreirad-45170928</link>
+      <description>Lena Wagner hat die unheilbare Krankheit Neurofibromatose. Manche Tage sind vor Schmerzen kaum zu ertragen. Doch an manchen Tagen möchte die Eggebekerin „durch Radtouren am Leben teilnehmen“ und wünscht sich ein Elektro-Dreirad.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/geest/artikel/neurofibromatose-eggebekerin-sammelt-fuer-elektro-dreirad-45170928</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45170909/crop/cbase_16_9-w1820-h1022/1234283968/270450972/lenawagnereggebek010a.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 08:35:20 +0053</pubDate>
+    </item>
+    <item>
+      <title>Gehweg oder nicht – warum es hier immer wieder zu Missverständnissen kommt</title>
+      <link>https://www.shz.de/lokales/kappeln/artikel/wassermuehlenstrasse-in-kappeln-gehweg-oder-strasse-45170374</link>
+      <description>Seit Mitte April gibt es entlang der Wassermühlenstraße auf Höhe des Wochenmarktes in Kappeln einen barrierearmen Fahrradstreifen. Allerdings: Die optisch abweichende Gestaltung von der Umgebung sorgt offenbar dafür, dass Fußgänger den Weg immer wieder als Gehweg missverstehen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/wassermuehlenstrasse-in-kappeln-gehweg-oder-strasse-45170374</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45174184/crop/cbase_16_9-w1820-h1022/2070669456/226848979/dsc-0005a.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 08:35:41 +0053</pubDate>
     </item>
   </channel>
 </rss>
