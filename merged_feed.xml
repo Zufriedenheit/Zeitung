@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 06:08:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 07:05:18 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -22,14 +22,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Mitten im Kalten Krieg: Ein Eutiner Soldat als Überläufer und Verräter?</title>
-      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/65-jahre-aufklaerungsbataillon-6-eutiner-soldat-als-ueberlaeufer-45148779</link>
-      <description>Unbekanntes Kapitel aus der 65-jährigen Geschichte des Aufklärungsbataillons 6 „Holstein“: Was ein Eutiner Soldat in der DDR über die Bundeswehr berichtete.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/65-jahre-aufklaerungsbataillon-6-eutiner-soldat-als-ueberlaeufer-45148779</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45148790/crop/cbase_16_9-w1820-h1022/1045633500/1195488460/dsc-0285.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 07:04:47 +0053</pubDate>
     </item>
     <item>
       <title>Brarup-Markt 2023 in Süderbrarup: Das ist das Programm</title>
@@ -430,6 +422,14 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/luebecker-universitaet-wie-das-smart-home-sicherer-werden-soll-45174502</guid>
       <enclosure url="https://images.noz-mhn.de/img/45174540/crop/cbase_16_9-w1820-h1022/231212444/1215990792/zuhause-18-smart-home-ewe-oldenburg-2018-1.jpg" length="2" type="image/jpg"/>
       <pubDate>Tue, 25 Jul 2023 04:13:00 +0053</pubDate>
+    </item>
+    <item>
+      <title>So wird das Wetter in Schleswig-Holstein und Hamburg am Dienstag</title>
+      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-das-wetter-in-schleswig-holstein-und-hamburg-am-dienstag-45179810</link>
+      <description>Montagabend sorgten Gewitter mit Starkregen und Sturmböen für zahlreiche Einsätze der Feuerwehren im Land. Am Dienstag entspannt sich die Lage in Schleswig-Holstein und Hamburg wieder – allerdings nicht langfristig.</description>
+      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-das-wetter-in-schleswig-holstein-und-hamburg-am-dienstag-45179810</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45179856/crop/cbase_16_9-w1820-h1022/1001001051/1672047781/imago0299953622h.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 06:50:07 +0053</pubDate>
     </item>
   </channel>
 </rss>
