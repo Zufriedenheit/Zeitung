@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 07:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 08:08:34 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -62,14 +62,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/geltinger-birk-rettungsaktion-fuer-vier-sandregenpfeifer-kueken-45170553</guid>
       <enclosure url="https://images.noz-mhn.de/img/45170495/crop/cbase_16_9-w1820-h1022/93554724/1171873529/07-sandregenpfeifer-dsc-4587.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 11:12:06 +0053</pubDate>
-    </item>
-    <item>
-      <title>Welche Aufgaben das Stadtmarketing in Schleswig übernimmt – und welche nicht</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/welche-aufgaben-das-stadtmarketing-in-schleswig-uebernimmt-45115504</link>
-      <description>Das dreiköpfige Team des Stadtmarketings in Schleswig kümmert sich allen voran darum, die Rahmenbedingungen für ein gutes Leben und Arbeiten in der Stadt zu ermöglichen. Eine städtische Institution als Teil der Verwaltung ist das Stadtmarketing aber nicht.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/welche-aufgaben-das-stadtmarketing-in-schleswig-uebernimmt-45115504</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45118612/crop/cbase_16_9-w1820-h1022/1514020012/623788939/dsc-0696.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 11:12:19 +0053</pubDate>
     </item>
     <item>
       <title>Wie das Schleswiger Kreishaus jetzt barrierefrei werden möchte</title>
@@ -208,30 +200,6 @@
       <pubDate>Mon, 24 Jul 2023 08:32:18 +0053</pubDate>
     </item>
     <item>
-      <title>Nach jahrelangem Leerstand am Holm: Schuh Armbruster eröffnet in Flensburg</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/schuh-armbruster-eroeffnet-am-holm-in-flensburg-45174127</link>
-      <description>Jahrelang stand der Laden in bester Lage am Holm leer – nun zieht mit Armbruster ein weiterer Schuhladen ein.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/schuh-armbruster-eroeffnet-am-holm-in-flensburg-45174127</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45174157/crop/cbase_16_9-w1820-h1022/595774654/1392408233/img-2967.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 09:17:35 +0053</pubDate>
-    </item>
-    <item>
-      <title>Ankerground Open Air 2023: Regionale Bands am Flensburger Piratennest</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/ankerground-open-air-2023-regionales-festival-in-flensburg-45171343</link>
-      <description>Ein Open-Air-Festival zum günstigen Preis: Der Musikerstammtisch möchte lokalen und regionalen Bands eine Bühne bieten – und Flensburg zeigen, was musikalisch los ist.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/ankerground-open-air-2023-regionales-festival-in-flensburg-45171343</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45171311/crop/cbase_16_9-w1820-h1022/56567972/1801763635/ankerground-open-air-9840.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 09:19:05 +0053</pubDate>
-    </item>
-    <item>
-      <title>Gesetzesvorhaben zur Sterbehilfe: Das sagen Flensburger Experten</title>
-      <link>https://www.shz.de/lokales/flensburg/artikel/gesetzesvorhaben-zur-sterbehilfe-das-sagen-flensburger-experten-45138010</link>
-      <description>Der Ärztliche Leiter des Katharinen Hospiz am Park, Dr. Hermann Ewald, und der Geschäftsführer des Vereins Lichtblick Soeren Hauke ordnen die im Bundestag gescheiterten Entwürfe ein.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/gesetzesvorhaben-zur-sterbehilfe-das-sagen-flensburger-experten-45138010</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45158870/crop/cbase_16_9-w1820-h1022/281222881/1860849025/img-2013.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 09:24:24 +0053</pubDate>
-    </item>
-    <item>
       <title>Anonyme Künstlerin begeistert in Flensburg: Das steckt hinter ihren Motiven</title>
       <link>https://www.shz.de/lokales/flensburg/artikel/anonyme-flensburger-kuenstlerin-bemalt-hauswaende-im-stadtgebiet-20641364</link>
       <description>Die aufgemalten Katzen an den Hauswänden der Norderstraße erfreuen viele Flensburger – die Künstlerin bleibt unbekannt. In einem Gespräch erzählt sie von ihrer aktuellen Ausstellung und der Liebe zur Kunst.</description>
@@ -328,14 +296,6 @@
       <pubDate>Mon, 24 Jul 2023 13:14:56 +0053</pubDate>
     </item>
     <item>
-      <title>Showprogramm auf Kappelner Ausflugsschiffen: Vom Krimi-Dinner bis zur Elektro-Party</title>
-      <link>https://www.shz.de/lokales/kappeln/artikel/kappelner-ausflugsschiffe-vom-krimi-dinner-bis-zur-elektro-party-45175810</link>
-      <description>Mit vielseitigem Showprogramm bieten die Ausflugsschiffe in Kappeln ihren Gästen kurzweilige Unterhaltung. Ein Krimi-Dinner und Kneipenwirt „Onkel Hugo“ sorgen auf der „Stadt Kappeln“ für Stimmung, während die „Schlei Princess“ mit Musik-Events auftrumpft.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/kappelner-ausflugsschiffe-vom-krimi-dinner-bis-zur-elektro-party-45175810</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45175835/crop/cbase_16_9-w1820-h1022/1012138977/753356873/dsc-0038-2.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 13:35:49 +0053</pubDate>
-    </item>
-    <item>
       <title>„Bitte nicht einsteigen!“: Verwirrung um IC-Halt am Bahnhof in Schleswig</title>
       <link>https://www.shz.de/lokales/schleswig/artikel/ic-aus-kopenhagen-verwirrung-um-halt-am-bahnhof-schleswig-45176754</link>
       <description>Auf der Strecke von Kopenhagen nach Hamburg werden immer häufiger die Züge und Zugnummern ausgetauscht. Welche Auswirkungen hat dies für Bahnreisende, die in Schleswig zusteigen wollen?</description>
@@ -352,20 +312,12 @@
       <pubDate>Mon, 24 Jul 2023 14:48:27 +0053</pubDate>
     </item>
     <item>
-      <title>Zielbahnhof Elmshorn? Verwirrung um Anzeigen bei Regionalexpress-Zügen in SH</title>
+      <title>Endstation Elmshorn? Verwirrung um Anzeigen bei Regionalexpress-Zügen in SH</title>
       <link>https://www.shz.de/lokales/elmshorn-barmstedt/artikel/ziel-elmshorn-verwirrung-um-anzeigen-bei-re-zuegen-in-sh-45175205</link>
       <description>Normalerweise ist es kein Problem, vom Norden Schleswig-Holsteins mit dem Regionalexpress nach Hamburg zu fahren. Daran hat sich im Prinzip auch nichts geändert, doch die Anzeigetafeln an den Bahnhöfen sorgen derzeit für Verwirrung bei den Fahrgästen. Demnach enden die Fahrten schon in Elmshorn.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/elmshorn-barmstedt/artikel/ziel-elmshorn-verwirrung-um-anzeigen-bei-re-zuegen-in-sh-45175205</guid>
       <enclosure url="https://images.noz-mhn.de/img/45175403/crop/cbase_16_9-w1820-h1022/701949244/257320631/si220723-bahnhofflensburg-3.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 15:10:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Punks auf Sylt: Rund 30 Aktivisten im Camp in Tinnum eingetroffen</title>
-      <link>https://www.shz.de/lokales/sylt/artikel/punks-auf-sylt-rund-30-aktivisten-im-camp-in-tinnum-eingetroffen-45177491</link>
-      <description>Genehmigt ist es für bis zu 300 Menschen. Eingetroffen im Protestcamp auf Sylt ist am Montag bislang aber nur ein Bruchteil dieser Zahl. So ist die Stimmung vor Ort.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/punks-auf-sylt-rund-30-aktivisten-im-camp-in-tinnum-eingetroffen-45177491</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45177497/crop/cbase_16_9-w1820-h1022/875667388/19830554/punks-auf-sylt-01.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 15:21:11 +0053</pubDate>
     </item>
     <item>
       <title>Land im Shoppingrausch bei Corona-Tests – viel Lehrgeld gezahlt</title>
@@ -408,7 +360,7 @@
       <pubDate>Mon, 24 Jul 2023 17:00:00 +0053</pubDate>
     </item>
     <item>
-      <title>Freilaufendes Highland-Rind am Carlisle-Park: Flensburger Bahnhof abgesperrt</title>
+      <title>Freilaufendes Highland-Rind am Flensburger Bahnhof – auch ein zweites Tier büxte aus</title>
       <link>https://www.shz.de/lokales/flensburg/artikel/freilaufendes-highland-rind-flensburger-bahnhof-abgesperrt-45178949</link>
       <description>Sowohl Bundes- als auch Landespolizei rückten am Montagabend mit einem Großaufgebot am Carlisle-Park an. Ein zweites ausgebrochenes Tier sorgte an der Osttangente für Unruhe.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/freilaufendes-highland-rind-flensburger-bahnhof-abgesperrt-45178949</guid>
@@ -430,6 +382,38 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/so-wird-das-wetter-in-schleswig-holstein-und-hamburg-am-dienstag-45179810</guid>
       <enclosure url="https://images.noz-mhn.de/img/45179856/crop/cbase_16_9-w1820-h1022/1001001051/1672047781/imago0299953622h.jpg" length="2" type="image/jpg"/>
       <pubDate>Tue, 25 Jul 2023 06:50:07 +0053</pubDate>
+    </item>
+    <item>
+      <title>Harrislee: Was Mitarbeiter im Grenzhandel an einem Tag erleben</title>
+      <link>https://www.shz.de/lokales/flensburg/artikel/harrislee-das-erleben-mitarbeiter-an-einem-tag-im-grenzhandel-45175328</link>
+      <description>Wir haben Niels Hamester in der Fleggaard-Filiale in Harrislee besucht. Er ist Leiter der Süßwarenabteilung in dem Grenzmarkt.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/harrislee-das-erleben-mitarbeiter-an-einem-tag-im-grenzhandel-45175328</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175322/crop/cbase_16_9-w1820-h1022/603910727/702444758/f10f4173de9cf852f748e98f08111ec7.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 07:06:24 +0053</pubDate>
+    </item>
+    <item>
+      <title>Kreisbahntrasse zwischen Schleswig und Schaalby für mehr als drei Monate gesperrt</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/kreisbahntrasse-zwischen-schleswig-und-schaalby-gesperrt-45175197</link>
+      <description>Die Arbeiten für den Ausbau der Kreisbahntrasse gehen in die nächste Phase. Dafür muss nun ein weiteres Teilstück der Strecke gesperrt werden.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/kreisbahntrasse-zwischen-schleswig-und-schaalby-gesperrt-45175197</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177752/crop/cbase_16_9-w1820-h1022/1417104365/1083746647/dsc-0915.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 07:11:11 +0053</pubDate>
+    </item>
+    <item>
+      <title>Sylt-Spaziergänge mit Worten von Hermann Hesse und Theodor Storm</title>
+      <link>https://www.shz.de/lokales/sylt/artikel/sylt-literarische-spaziergaenge-2023-mit-kalko-hesse-und-storm-45177181</link>
+      <description>Die literarischen Spaziergänge durch den Naturpfad Vogelkoje Kampen auf Sylt werden fortgeführt. Auch 2023 stehen drei namhafte Schriftsteller im Fokus.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/sylt-literarische-spaziergaenge-2023-mit-kalko-hesse-und-storm-45177181</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177203/crop/cbase_16_9-w1820-h1022/1436356775/954990056/2023-07-hermann-hesse-literarischer-spazierganggommen-hingst-300.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 07:16:26 +0053</pubDate>
+    </item>
+    <item>
+      <title>BMW kommt auf der B200 ins Schleudern: Ersthelfer befreien Fahrer</title>
+      <link>https://www.shz.de/lokales/flensburg/artikel/unfall-bei-flensburg-bmw-kommt-auf-der-b200-ins-schleudern-45180130</link>
+      <description>Auf Höhe der Abfahrt zum Ochsenweg verlor der Fahrer die Kontrolle über sein Auto.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/unfall-bei-flensburg-bmw-kommt-auf-der-b200-ins-schleudern-45180130</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45180124/crop/cbase_16_9-w1820-h1022/1470767656/626729421/unnamed.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 07:40:13 +0053</pubDate>
     </item>
   </channel>
 </rss>
