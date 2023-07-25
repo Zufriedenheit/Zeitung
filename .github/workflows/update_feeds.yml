@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: '3.9' 
       - name: Install dependencies
-        run: pip install feedparser pytz feedgen datetime os beautifulsoup4 requests minify_html
+        run: pip install feedparser pytz feedgen beautifulsoup4 requests minify_html
 
       - name: Run Python Script
         run: python parse_rss.py
