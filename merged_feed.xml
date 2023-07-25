@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 04:07:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 05:04:48 +0000</lastBuildDate>
     <item>
       <title>2023: Veranstaltungs-Highlights in Husum und Umgebung</title>
       <link>https://www.shz.de/lokales/husum/artikel/husum-konzert-theater-festival-ausstellung-in-nordfriesland-20956220</link>
@@ -22,14 +22,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>In Lebensgefahr: Wattwanderin mit Hubschrauber von Sandbank gerettet</title>
-      <link>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/westerhever-wattwanderin-mit-hubschrauber-von-sandbank-gerettet-45169346</link>
-      <description>Eine Frau wurde im Watt vor Westerhever auf einer Sandbank vom Wasser eingeschlossen. Die Frau wurde mithilfe einer Seilwinde in Sicherheit gebracht.</description>
-      <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/westerhever-wattwanderin-mit-hubschrauber-von-sandbank-gerettet-45169346</guid>
-      <enclosure url="https://images.noz-mhn.de/img/44542723/crop/cbase_16_9-w1820-h1022/125507789/2015047495/47415912.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 06:59:48 +0053</pubDate>
     </item>
     <item>
       <title>Mitten im Kalten Krieg: Ein Eutiner Soldat als Überläufer und Verräter?</title>
@@ -430,6 +422,14 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/flensburg/artikel/freilaufendes-highland-rind-flensburger-bahnhof-abgesperrt-45178949</guid>
       <enclosure url="https://images.noz-mhn.de/img/45178944/crop/cbase_16_9-w1820-h1022/1659183994/25926010/unnamed.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 19:09:23 +0053</pubDate>
+    </item>
+    <item>
+      <title>Smart Home: Forscher arbeiten an besserem Schutz vor Bedrohungen und mehr Sicherheit</title>
+      <link>https://www.shz.de/lokales/luebeck/artikel/luebecker-universitaet-wie-das-smart-home-sicherer-werden-soll-45174502</link>
+      <description>Wie Haushalte vor Hackerangriffen oder unerwünschter Überwachung geschützt werden sollen: Einblick in ein besonderes Forschungs-Projekt an der Universität zu Lübeck.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/luebecker-universitaet-wie-das-smart-home-sicherer-werden-soll-45174502</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45174540/crop/cbase_16_9-w1820-h1022/231212444/1215990792/zuhause-18-smart-home-ewe-oldenburg-2018-1.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 04:13:00 +0053</pubDate>
     </item>
   </channel>
 </rss>
