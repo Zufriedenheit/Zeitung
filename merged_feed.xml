@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 09:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 10:06:33 +0000</lastBuildDate>
     <item>
       <title>Die Top-13 Tiere aus SH, die es in die Nachrichten geschafft haben</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</link>
@@ -54,14 +54,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/geltinger-birk-rettungsaktion-fuer-vier-sandregenpfeifer-kueken-45170553</guid>
       <enclosure url="https://images.noz-mhn.de/img/45170495/crop/cbase_16_9-w1820-h1022/93554724/1171873529/07-sandregenpfeifer-dsc-4587.jpg" length="2" type="image/jpg"/>
       <pubDate>Sun, 23 Jul 2023 11:12:06 +0053</pubDate>
-    </item>
-    <item>
-      <title>„Eine echte Katastrophe!“: Verregnetes Wochenende beschert Ingo Harder ein dickes Minus</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/schleswig-swingt-saeuft-komplett-ab-und-wird-zum-verlustgeschaeft-45171191</link>
-      <description>Aufgrund des ungemütlichen Wetters war das Stadtfest „Schleswig swingt“ in diesem Jahr nur schlecht besucht. „Ich bin richtig baden gegangen – im wahrsten Sinne des Wortes“, sagt ein enttäuschter Ingo Harder.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/schleswig-swingt-saeuft-komplett-ab-und-wird-zum-verlustgeschaeft-45171191</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45171198/crop/cbase_16_9-w1820-h1022/863729582/441965333/schleswig-swingt-32.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 12:39:22 +0053</pubDate>
     </item>
     <item>
       <title>Zeitreise in Sörup: So erklären Besucher den Boom der Mittelalter-Märkte</title>
@@ -126,14 +118,6 @@
       <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/immobilien-wie-luebeck-bis-2040-rund-6500-wohnungen-bauen-will-45166805</guid>
       <enclosure url="https://images.noz-mhn.de/img/45166911/crop/cbase_16_9-w1820-h1022/1182387750/1491712094/dpa-5fadc60013b1de0a.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 07:21:21 +0053</pubDate>
-    </item>
-    <item>
-      <title>Norden-Festival: Das sind die Gewinner des Fotowettbewerbs</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/norden-festival-das-sind-die-gewinner-des-fotowettbewerbs-45140311</link>
-      <description>Anlässlich des fünfjährigen Jubiläums des Norden-Festivals, das in diesem Jahr vom 24. August bis zum 10. September stattfindet, hatten die Veranstalter und die SN zu einem Fotowettbewerb aufgerufen. Jetzt stehen die Sieger fest – und es gab noch einen spontanen Sonderpreis für eine sehr emotionale Geschichte.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/norden-festival-das-sind-die-gewinner-des-fotowettbewerbs-45140311</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45140309/crop/cbase_16_9-w1820-h1022/1034400071/504382480/fotonorden3.jpg" length="2" type="image/jpg"/>
-      <pubDate>Mon, 24 Jul 2023 07:41:27 +0053</pubDate>
     </item>
     <item>
       <title>Kombiniertes Feuerwehrgeräte- und Dorfgemeinschaftshaus in Dollerup vor Baubeginn</title>
@@ -400,20 +384,36 @@
       <pubDate>Tue, 25 Jul 2023 08:24:14 +0053</pubDate>
     </item>
     <item>
-      <title>Schwerkranke Lena Wagner aus Eggebek sammelt für Elektro-Dreirad</title>
-      <link>https://www.shz.de/lokales/geest/artikel/neurofibromatose-eggebekerin-sammelt-fuer-elektro-dreirad-45170928</link>
-      <description>Lena Wagner hat die unheilbare Krankheit Neurofibromatose. Manche Tage sind vor Schmerzen kaum zu ertragen. Doch an manchen Tagen möchte die Eggebekerin „durch Radtouren am Leben teilnehmen“ und wünscht sich ein Elektro-Dreirad.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/geest/artikel/neurofibromatose-eggebekerin-sammelt-fuer-elektro-dreirad-45170928</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45170909/crop/cbase_16_9-w1820-h1022/1234283968/270450972/lenawagnereggebek010a.jpg" length="2" type="image/jpg"/>
-      <pubDate>Tue, 25 Jul 2023 08:35:20 +0053</pubDate>
-    </item>
-    <item>
       <title>Gehweg oder nicht – warum es hier immer wieder zu Missverständnissen kommt</title>
       <link>https://www.shz.de/lokales/kappeln/artikel/wassermuehlenstrasse-in-kappeln-gehweg-oder-strasse-45170374</link>
       <description>Seit Mitte April gibt es entlang der Wassermühlenstraße auf Höhe des Wochenmarktes in Kappeln einen barrierearmen Fahrradstreifen. Allerdings: Die optisch abweichende Gestaltung von der Umgebung sorgt offenbar dafür, dass Fußgänger den Weg immer wieder als Gehweg missverstehen.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/kappeln/artikel/wassermuehlenstrasse-in-kappeln-gehweg-oder-strasse-45170374</guid>
       <enclosure url="https://images.noz-mhn.de/img/45174184/crop/cbase_16_9-w1820-h1022/2070669456/226848979/dsc-0005a.jpg" length="2" type="image/jpg"/>
       <pubDate>Tue, 25 Jul 2023 08:35:41 +0053</pubDate>
+    </item>
+    <item>
+      <title>Warum Kinder in Schleswig bis zu zwei Jahre auf einen Schwimmkurs warten müssen</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/langes-warten-auf-einen-schwimmkurs-in-schleswig-45177713</link>
+      <description>Eltern, die ihre Kinder für einen Schwimmkurs anmelden möchten, sollten weit im Voraus planen. Die Kurse im Schleswiger Schwimmbad sind heiß begehrt – und die Wartelisten sind lang.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/langes-warten-auf-einen-schwimmkurs-in-schleswig-45177713</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45180996/crop/cbase_16_9-w1820-h1022/1177210382/2140272675/sportbecken.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 09:35:08 +0053</pubDate>
+    </item>
+    <item>
+      <title>Mehr Zeit für Pfleger? Handewitter Heim wird zum Modellprojekt</title>
+      <link>https://www.shz.de/lokales/geest/artikel/mehr-zeit-fuer-pfleger-handewitter-heim-wird-zum-modellprojekt-45173604</link>
+      <description>Pfleger sollen mehr Zeit für ihre Kernaufgaben bekommen. Die Uni Bremen testet ein neues Arbeitsmodell – mit mehr Pflegeassistenten und einer Software, die die besten Wege durchs Heim vorschlägt.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/geest/artikel/mehr-zeit-fuer-pfleger-handewitter-heim-wird-zum-modellprojekt-45173604</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45173570/crop/cbase_16_9-w1820-h1022/712586893/801911359/20230722-drk-handewitt-005.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 09:37:36 +0053</pubDate>
+    </item>
+    <item>
+      <title>Ingo Degner nach 37 Jahren aus der Kommunalpolitik verabschiedet</title>
+      <link>https://www.shz.de/lokales/schleswig/artikel/schleswig-ingo-degner-verlaesst-nach-37-jahren-kommunalpolitik-45177178</link>
+      <description>Nach beinahe vier Jahrzehnten macht der leidenschaftliche Kommunalpolitiker Ingo Degner Schluss. Ein Rückblick – und eine Aussicht auf die Dinge, die jetzt vor ihm liegen.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/schleswig-ingo-degner-verlaesst-nach-37-jahren-kommunalpolitik-45177178</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45177173/crop/cbase_16_9-w1820-h1022/354895065/910414397/20230718-161059.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 09:42:05 +0053</pubDate>
     </item>
   </channel>
 </rss>
