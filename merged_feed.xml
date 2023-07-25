@@ -6,7 +6,7 @@
     <description>Lokale Nachrichten aus dem Norden</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 25 Jul 2023 10:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 11:03:45 +0000</lastBuildDate>
     <item>
       <title>Die Top-13 Tiere aus SH, die es in die Nachrichten geschafft haben</title>
       <link>https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</link>
@@ -14,14 +14,6 @@
       <guid isPermaLink="false">https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/sommerloch-tiere-und-andere-die-top-13-tiere-aus-sh-die-es-in-die-nachrichten-geschafft-42711121</guid>
       <enclosure url="https://images.noz-mhn.de/img/21557465/crop/cbase_16_9-w1820-h1022/2080586826/343533088/heide-wildschwein.jpg" length="2" type="image/jpg"/>
       <pubDate>Fri, 21 Jul 2023 11:15:00 +0053</pubDate>
-    </item>
-    <item>
-      <title>Brarup-Markt 2023 in Süderbrarup: Das ist das Programm</title>
-      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/aufbau-in-suederbrarup-vorfreude-auf-den-brarup-markt-45164147</link>
-      <description>Der Jahrmarkt in Süderbrarup wird am Freitag eröffnet. Der Aufbau der Fahrgeschäfte läuft bereits.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/aufbau-in-suederbrarup-vorfreude-auf-den-brarup-markt-45164147</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45164100/crop/cbase_16_9-w1820-h1022/1635863711/940537805/v.jpg" length="2" type="image/jpg"/>
-      <pubDate>Sun, 23 Jul 2023 07:16:59 +0053</pubDate>
     </item>
     <item>
       <title>Reinfeld: Daniel Günther wünscht sich Kinder-Demokratie-Camp „Stormini“ überall im Land</title>
@@ -280,10 +272,10 @@
       <pubDate>Mon, 24 Jul 2023 14:48:27 +0053</pubDate>
     </item>
     <item>
-      <title>Endstation Elmshorn? Verwirrung um Anzeigen bei Regionalexpress-Zügen in SH</title>
-      <link>https://www.shz.de/lokales/elmshorn-barmstedt/artikel/ziel-elmshorn-verwirrung-um-anzeigen-bei-re-zuegen-in-sh-45175205</link>
+      <title>Zug nach Hamburg endet in Elmshorn? Anzeigen an Bahnhöfen sorgen für Verwirrung</title>
+      <link>https://www.shz.de/lokales/elmshorn-barmstedt/artikel/zug-flensburg-hamburg-endet-in-elmshorn-verwirrung-an-bahnhoefen-45175205</link>
       <description>Normalerweise ist es kein Problem, vom Norden Schleswig-Holsteins mit dem Regionalexpress nach Hamburg zu fahren. Daran hat sich im Prinzip auch nichts geändert, doch die Anzeigetafeln an den Bahnhöfen sorgen derzeit für Verwirrung bei den Fahrgästen. Demnach enden die Fahrten schon in Elmshorn.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/elmshorn-barmstedt/artikel/ziel-elmshorn-verwirrung-um-anzeigen-bei-re-zuegen-in-sh-45175205</guid>
+      <guid isPermaLink="false">https://www.shz.de/lokales/elmshorn-barmstedt/artikel/zug-flensburg-hamburg-endet-in-elmshorn-verwirrung-an-bahnhoefen-45175205</guid>
       <enclosure url="https://images.noz-mhn.de/img/45175403/crop/cbase_16_9-w1820-h1022/701949244/257320631/si220723-bahnhofflensburg-3.jpg" length="2" type="image/jpg"/>
       <pubDate>Mon, 24 Jul 2023 15:10:00 +0053</pubDate>
     </item>
@@ -368,18 +360,10 @@
       <pubDate>Tue, 25 Jul 2023 07:40:13 +0053</pubDate>
     </item>
     <item>
-      <title>Fast 150 Lehrlinge des Ausbildungszentrums Ahrensbök freigesprochen</title>
-      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/ausbildungszentrum-ahrensboek-fast-150-lehrlinge-freigesprochen-45171033</link>
-      <description>Freisprechung 2023 im Ausbildungszentrum Ahrensbök: Rund 450 Gäste feiern mit den Handwerks-Lehrlingen.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/ausbildungszentrum-ahrensboek-fast-150-lehrlinge-freigesprochen-45171033</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45171081/crop/cbase_16_9-w1820-h1022/65566437/810261135/dsc00234.jpg" length="2" type="image/jpg"/>
-      <pubDate>Tue, 25 Jul 2023 08:13:35 +0053</pubDate>
-    </item>
-    <item>
       <title>Was man in den Sommerferien 2023 in Schleswig unternehmen kann</title>
-      <link>https://www.shz.de/lokales/schleswig/artikel/was-man-in-den-ferien-in-der-stadt-an-der-schlei-unternehmen-kann-45146974</link>
+      <link>https://www.shz.de/lokales/schleswig/artikel/was-man-in-den-ferien-in-schleswig-und-schlei-unternehmen-kann-45146974</link>
       <description>Der Sommer ist da, die Ferien haben begonnen. Was es – neben einem Ausflug zu Haithabu und Schloss Gottorf – für spannende, lustige, aufregende Unternehmungen in Schleswig gibt, hat shz.de für euch herausgefunden.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/was-man-in-den-ferien-in-der-stadt-an-der-schlei-unternehmen-kann-45146974</guid>
+      <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/was-man-in-den-ferien-in-schleswig-und-schlei-unternehmen-kann-45146974</guid>
       <enclosure url="https://images.noz-mhn.de/img/44395636/crop/cbase_16_9-w1820-h1022/191298571/1389240155/schleswig-schlei-wir-zuhause-0983-.jpg" length="2" type="image/jpg"/>
       <pubDate>Tue, 25 Jul 2023 08:24:14 +0053</pubDate>
     </item>
@@ -400,20 +384,44 @@
       <pubDate>Tue, 25 Jul 2023 09:35:08 +0053</pubDate>
     </item>
     <item>
-      <title>Mehr Zeit für Pfleger? Handewitter Heim wird zum Modellprojekt</title>
-      <link>https://www.shz.de/lokales/geest/artikel/mehr-zeit-fuer-pfleger-handewitter-heim-wird-zum-modellprojekt-45173604</link>
-      <description>Pfleger sollen mehr Zeit für ihre Kernaufgaben bekommen. Die Uni Bremen testet ein neues Arbeitsmodell – mit mehr Pflegeassistenten und einer Software, die die besten Wege durchs Heim vorschlägt.</description>
-      <guid isPermaLink="false">https://www.shz.de/lokales/geest/artikel/mehr-zeit-fuer-pfleger-handewitter-heim-wird-zum-modellprojekt-45173604</guid>
-      <enclosure url="https://images.noz-mhn.de/img/45173570/crop/cbase_16_9-w1820-h1022/712586893/801911359/20230722-drk-handewitt-005.jpg" length="2" type="image/jpg"/>
-      <pubDate>Tue, 25 Jul 2023 09:37:36 +0053</pubDate>
-    </item>
-    <item>
       <title>Ingo Degner nach 37 Jahren aus der Kommunalpolitik verabschiedet</title>
       <link>https://www.shz.de/lokales/schleswig/artikel/schleswig-ingo-degner-verlaesst-nach-37-jahren-kommunalpolitik-45177178</link>
       <description>Nach beinahe vier Jahrzehnten macht der leidenschaftliche Kommunalpolitiker Ingo Degner Schluss. Ein Rückblick – und eine Aussicht auf die Dinge, die jetzt vor ihm liegen.</description>
       <guid isPermaLink="false">https://www.shz.de/lokales/schleswig/artikel/schleswig-ingo-degner-verlaesst-nach-37-jahren-kommunalpolitik-45177178</guid>
       <enclosure url="https://images.noz-mhn.de/img/45177173/crop/cbase_16_9-w1820-h1022/354895065/910414397/20230718-161059.jpg" length="2" type="image/jpg"/>
       <pubDate>Tue, 25 Jul 2023 09:42:05 +0053</pubDate>
+    </item>
+    <item>
+      <title>Schluss nach 73 Jahren: INGA-Moden auf Sylt schließt zum Jahresende</title>
+      <link>https://www.shz.de/lokales/sylt/artikel/schluss-nach-73-jahren-inga-moden-sylt-schliesst-zum-jahresende-45175087</link>
+      <description>Das Modegeschäft INGA-Moden ist eine Institution auf Sylt. 1950 gegründet, bietet das Geschäft seit mehr als 70 Jahren hochwertige Damenmode an. Doch nicht mehr lange: Ende des Jahres ist Schluss.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/sylt/artikel/schluss-nach-73-jahren-inga-moden-sylt-schliesst-zum-jahresende-45175087</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175027/crop/cbase_16_9-w1820-h1022/1069642912/954109946/20230724-114410.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 10:09:07 +0053</pubDate>
+    </item>
+    <item>
+      <title>Sicher in der Ostsee baden: DLRG zeigt beim Strandfest, wie es geht</title>
+      <link>https://www.shz.de/lokales/eutin-ostholstein/artikel/groemitz-strandfest-als-aktionstag-der-dlrg-zur-badesicherheit-45170873</link>
+      <description>Das Ziel ist, den „Strandurlaub sorgenfrei zu genießen“: Rettungsschwimmer geben bei Aktionstag in Grömitz ihr Wissen an Badegäste weiter. Was beim Strandfest besonders für Familien mit Kindern außerdem noch geboten wird.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/eutin-ostholstein/artikel/groemitz-strandfest-als-aktionstag-der-dlrg-zur-badesicherheit-45170873</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45170866/crop/cbase_16_9-w1820-h1022/25301458/1097604589/dlrg-nivea.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 10:10:37 +0053</pubDate>
+    </item>
+    <item>
+      <title>So hilft der Verein „Miteinander“ in Uelsby beim Start in der neuen Heimat</title>
+      <link>https://www.shz.de/lokales/gluecksburg-angeln/artikel/uelsby-so-hilft-der-verein-miteinander-ev-gefluechteten-45175525</link>
+      <description>Wie gelingt die Integration von Geflüchteten auf dem Land? Dafür setzt sich in Uelsby der Verein „Miteinander“ ein.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/gluecksburg-angeln/artikel/uelsby-so-hilft-der-verein-miteinander-ev-gefluechteten-45175525</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45175533/crop/cbase_16_9-w1820-h1022/807831805/1434005979/20230720-uelsby-miteinander-004.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 10:54:11 +0053</pubDate>
+    </item>
+    <item>
+      <title>B76: Urlauberin aus Nordrhein-Westfalen kollidiert mit Hyundai – vier Verletzte</title>
+      <link>https://www.shz.de/lokales/luebeck/artikel/b76-unfall-mit-urlaubern-aus-nrw-bei-travemuende-vier-verletzte-45181664</link>
+      <description>Vier Personen, darunter zwei Kinder, werden bei Unfall auf der Bundesstraße 76 verletzt. Die Polizei sagt, wie der Zusammstoß passierte.</description>
+      <guid isPermaLink="false">https://www.shz.de/lokales/luebeck/artikel/b76-unfall-mit-urlaubern-aus-nrw-bei-travemuende-vier-verletzte-45181664</guid>
+      <enclosure url="https://images.noz-mhn.de/img/45181632/crop/cbase_16_9-w1820-h1022/120510404/19406376/imago0259437537h.jpg" length="2" type="image/jpg"/>
+      <pubDate>Tue, 25 Jul 2023 10:57:08 +0053</pubDate>
     </item>
   </channel>
 </rss>
