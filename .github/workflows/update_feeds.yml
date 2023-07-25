@@ -1,8 +1,9 @@
 name: Update Feeds
 
-on:
-  schedule:
-    - cron: '0 * * * *'
+on: workflow_dispatch
+
+
+
 
 jobs:
   run_script:
@@ -17,7 +18,7 @@ jobs:
         with:
           python-version: '3.9' 
       - name: Install dependencies
-        run: pip install feedparser pytz feedgen
+        run: pip install feedparser pytz feedgen datetime os beautifulsoup4 requests minify_html
 
       - name: Run Python Script
         run: python parse_rss.py
