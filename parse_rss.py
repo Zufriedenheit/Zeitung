@@ -17,7 +17,6 @@ def remove_elements(soup, elements_to_remove):
             tag.decompose()
 
 def get_clean_version(url):
-    # output_file = "/Users/Joshua/Developer/RSS/output.html"
     response = requests.get(url, headers=headers)
     html_content = response.text
 
@@ -54,15 +53,15 @@ rss_feed_urls = [
 ]
 
 # Get List of IDs already inside the merged feed file
-now = datetime.now().strftime("%I:%M%p on %B %d, %Y")
+# now = datetime.now().strftime("%I:%M%p on %B %d, %Y")
 feed_file = os.path.join(os.getcwd(), 'merged_feed.xml')
-with open(feed_file) as file:
-    merge_feed_string = file.read()
+# with open(feed_file) as file:
+#     merge_feed_string = file.read()
 
-already_inside_ids = []
-existing_feed = feedparser.parse(merge_feed_string)
-for entry in existing_feed.entries:
-    already_inside_ids.append(entry.get('id'))
+# already_inside_ids = []
+# existing_feed = feedparser.parse(merge_feed_string)
+# for entry in existing_feed.entries:
+#     already_inside_ids.append(entry.get('id'))
 
 # Get list of entries that are not already inside feed file and no dublicats from feed urls
 def get_unique_entries(feeds):
@@ -71,9 +70,9 @@ def get_unique_entries(feeds):
         feed = feedparser.parse(feed_url)
         for entry in feed.entries:
             entry_id = entry.get('id')
-            if entry_id not in already_inside_ids:
-                if entry_id not in unique_entries:
-                    unique_entries[entry_id] = entry
+            # if entry_id not in already_inside_ids:
+            if entry_id not in unique_entries:
+                unique_entries[entry_id] = entry
     return list(unique_entries.values())
 
 # Get sorted list of entries to append to file
@@ -93,14 +92,14 @@ fg.link(href='https://shz.de', rel='alternate')
 fg.description('Lokale Nachrichten aus dem Norden')
 
 # Add existing entries
-for entry in existing_feed.entries:
-    fe = fg.add_entry()
-    fe.id(entry.id)
-    fe.title(entry.title)
-    fe.link(href=entry.link)
-    fe.content(entry.content[0].value)
-    published_date = datetime(*entry.published_parsed[:6], tzinfo=pytz.timezone('Europe/Berlin'))
-    fe.pubDate(published_date)
+# for entry in existing_feed.entries:
+#     fe = fg.add_entry()
+#     fe.id(entry.id)
+#     fe.title(entry.title)
+#     fe.link(href=entry.link)
+#     fe.content(entry.content[0].value)
+#     published_date = datetime(*entry.published_parsed[:6], tzinfo=pytz.timezone('Europe/Berlin'))
+#     fe.pubDate(published_date)
 
 # Add new entries
 for entry in merged_entries:
