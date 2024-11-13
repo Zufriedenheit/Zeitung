@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>www.shz.de</id>
   <title>Lokale Nachrichten</title>
-  <updated>2024-11-13T11:16:18.666423+00:00</updated>
+  <updated>2024-11-13T12:38:36.797904+00:00</updated>
   <link href="https://shz.de" rel="alternate"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <subtitle>Lokale Nachrichten aus dem Norden</subtitle>
   <entry>
     <id>https://www.shz.de/lokales/wir-von-hier/flensburg/artikel/wir-von-hier-das-lokalportal-47898741</id>
     <title>Unewatter KlimaKüche - Die Zukunft auf dem Teller</title>
-    <updated>2024-11-13T11:16:25.815380+00:00</updated>
+    <updated>2024-11-13T12:38:47.122892+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -32,7 +32,7 @@
   <entry>
     <id>https://www.shz.de/lokales/wir-von-hier/flensburg/artikel/laternelaufen-mit-dem-tsb-flensburg-47935219</id>
     <title>Laternelaufen mit dem TSB Flensburg</title>
-    <updated>2024-11-13T11:16:25.522203+00:00</updated>
+    <updated>2024-11-13T12:38:46.958274+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -55,7 +55,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/galerie/ein-leben-auf-achse-roomtour-so-sieht-es-im-wohn-laster-atze-aus-und-vanlife-unterwegs-47946967</id>
     <title>Roomtour: So sieht es im Wohn-Laster „Atze“ aus - und Vanlife unterwegs</title>
-    <updated>2024-11-13T11:16:25.396473+00:00</updated>
+    <updated>2024-11-13T12:38:46.794991+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -78,7 +78,7 @@
   <entry>
     <id>https://www.shz.de/lokales/wir-von-hier/schleswig-flensburg/artikel/wir-von-hier-das-lokalportal-47963946</id>
     <title>Flohmarkt mit Tombola und Cafeteria: der Förderverein der Schule Nord lädt herzlich ein</title>
-    <updated>2024-11-13T11:16:25.265198+00:00</updated>
+    <updated>2024-11-13T12:38:46.621589+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -101,7 +101,7 @@
   <entry>
     <id>https://www.shz.de/lokales/wir-von-hier/flensburg/artikel/wir-von-hier-das-lokalportal-47963997</id>
     <title>Vocal Weibs get loud! Mädchen- und Frauenchor gibt wieder zwei Konzerte</title>
-    <updated>2024-11-13T11:16:25.138697+00:00</updated>
+    <updated>2024-11-13T12:38:46.455626+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -124,7 +124,7 @@
   <entry>
     <id>https://www.shz.de/lokales/wir-von-hier/schleswig-flensburg/artikel/wir-von-hier-das-lokalportal-47963498</id>
     <title>Vereinsmeisterschaft im Ringreiten bei der RSG Hohe Geest</title>
-    <updated>2024-11-13T11:16:25.012336+00:00</updated>
+    <updated>2024-11-13T12:38:46.290788+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -145,32 +145,9 @@
     <published>2024-11-08T08:52:32+00:53</published>
   </entry>
   <entry>
-    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/energiewende-habeck-und-laenderkollegen-kaempfen-gegen-haengepartie-47968080</id>
-    <title>Energiewende: Habeck und Kollegen aus allen Ländern wollen Vakuum verhindern</title>
-    <updated>2024-11-13T11:16:24.881169+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/energiewende-habeck-und-laenderkollegen-kaempfen-gegen-haengepartie-47968080"/>
-    <published>2024-11-08T17:27:38+00:53</published>
-  </entry>
-  <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/gebaeudebrand-feuer-in-der-alten-dorfstrasse-in-freienwill-47973266</id>
     <title>Großeinsatz in Freienwill: Wohn- und Stallgebäude durch Feuer zerstört</title>
-    <updated>2024-11-13T11:16:24.754680+00:00</updated>
+    <updated>2024-11-13T12:38:46.126014+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -191,55 +168,9 @@
     <published>2024-11-10T21:33:10+00:53</published>
   </entry>
   <entry>
-    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/weihnachtsmaerkte-2024-so-startet-advent-in-schleswig-holstein-47974463</id>
-    <title>Weihnachtsmärkte 2024: Hier startet Schleswig-Holstein in die Glühwein-Saison</title>
-    <updated>2024-11-13T11:16:24.622611+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4MQFqlBKtiooWR4rd2OpSatc/zmz9zcxvZ373NzO788d8k0l+j3vPPb8599zHOXfE4lLBKwuW/Q8+1EddhmAb5gr+Di2JhkvM6FIrMKSRoUEGjKFBBoyhQQaMoUEGjKFBBoyhQQaMoUEGjKFBBoyhQQaMoUEGjKFBBoxlBcutwRvwKjwX52A5DuMRPIR7cBf+2nMtGxmtt3+KiAj/HU8mS6nWzsNFOAszeBD3qoz/t2ealmCkw/tn4SZcjpMKyJvDT7EDu3C86f02vK+gbjM4PXP/AnwYb8TKzPMnsRffxldQayu1Wjsfn8aFOW8P4OP4osr4XNO79VhbTPXS/LCdQa4Uf+BTSgrfh+vw3cyzbcoZZAs+KbyyHf+qy78j9221diW+oPPIUMVGlfGjmWc78fYO9bphFucuNIdsxZeVNwY8D9/Ba7qQQfTYW3U2BpyGr2JTy5tq7VJ8SbFhuiIMt5jswIE8g3xA9OxesE8MYWXZKIapVD6HVSfuqrVThTFSFjGbVGsXlWi7DLO4hVYFX4hP9LChj2mdR4pyMm4rWfepYq6Zp4Knl5Dz3pLtp7JDzF8tBrlR8ZVXJ/bhzi7qn4Izuqj/0sz1JSVlvK6L9otywjtoNMhqXNbDhrrxjl5wVub6nJIyxlRrKzsX64oT3kGjQS7WeRmcZRb34/Gcd916Ry8Yy1x3s7c41q0ibTgiFlAnyBrk2QmC/o0X4SU4WyyRD2beL7V3EHPQPPtLyvibyvhsL5RZgO14NPsgO1+kLHF/g9/Wr4/iduwWm8EzLL13NLMb7ylZb557OpR9Pl6eIPuI2KA2sKypQFFeJia8H2eePYpXi9BKr7zjMTGv/UVszC4uKedHuE94dFGOafzDbq//FuIXiTptF9/XQHbI+lWCsBF8X/xJazPPjybK6cTNuBt/xDtLS6mMH6/XT+l016uM/65g2fWYSJCd6x00GmQP/pkg9CQRSrgfPxfe0Wu+l7n+vVgslKMyvhevl9Mrc7hRZfxTBSWP4KOJ2uR6B40GeQKfSRQ8zwX4iZg7VnUom8LDTfd/6EpaZXxKbH5v03pU9bgYgi9UGb85QeqbpQUdF/SOPJaLsbDo+du8336ct4D8bQlyDuXU/1pC/T1tv7RaW65aW6taW6dau0C1VmYTOirC9in/z9ZcSW1YjQcSG2n+/Um+p2xLkHEop/7OhPp7Uj+8BBsT9JkT+aMz2wnMC5P8Q+QKbsG7FcuDNPNMsQN9S4m6fWdmcmIV3iRWbdkE1a6xqekHC4pZJvZbKSw4d2SF5nEEV4sefQPe1qbsQlwmNo97E+v1jZnJiRFcI2J2YzlFbpqZnLgTm8empvMiEFkux3MSmi80d3QKR+/HFWIXv0N6CGJDYvm+UTfGHWLhkmeMed6KX85MTpzdpsxy0VFT6Ogd5BukonUJ+2cxfK3FdIISi5VPKMIHFc/4nYvqzOTEQh12k7RQU+GVVXODK0R2brf8yO+vsU5sAIuwpmC5vjIzObEGH0msNiGG6mZW4PpEWYW8g9Z5YbM42EDEpW4V4+3hTJknxMGCFYlKLSUbRNIqlXeIpXaWq/CMRDnHxLmAhdglTu80GOQ0rb3oGjF5bRep2BFxiKDoxx3oXGRRyDthUoRXNN2fKt076JyGfkDdINkh6/3y9w6rxVGgu/EzsTMtylRC2X5Sdug8eWZyIrsAuKoLWYWYN8iZuLYP8r/RB5llONy5SC5z/h+QXCl9ZZXMvEFuUG6Mbce3RN5kECgbgX5obGp6PmN4td7G6XIZFbvqzT2We1B8wKCwq8t6p+vPCNLCqDii2XxsshsO41KDM6Ebm5q+T3hsCo/js/XrLRbBOwiD/AAvxr09kPcIXitt87hYvEvkVIpwHBvHpqYPCe/Y0h+VWpmfQ/ZhUkQvyyaBvi5SpINoDGNT0wdF5KBTx3sMl4xNTd9Vv79O+1BLT8k79jMq8uVXiAzb09rUPyZ29VsVM8Q6nF9Qt1mtuYP1iieDHhbh+gbqMa0N4vsmxerpmOiI38Tn654xz7UaT9v3g53qybj/AcVqq/X5dlrrAAAAAElFTkSuQmCC"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/weihnachtsmaerkte-2024-so-startet-advent-in-schleswig-holstein-47974463"/>
-    <published>2024-11-11T11:03:40+00:53</published>
-  </entry>
-  <entry>
-    <id>https://www.shz.de/lokales/schleswig/artikel/bbz-schleswig-der-lange-weg-bis-zum-neubau-der-kreissporthalle-47967339</id>
-    <title>Am BBZ in Schleswig: Der lange Weg bis zum Neubau der Kreissporthalle</title>
-    <updated>2024-11-13T11:16:24.495459+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/lokales/schleswig/artikel/bbz-schleswig-der-lange-weg-bis-zum-neubau-der-kreissporthalle-47967339"/>
-    <published>2024-11-11T11:42:47+00:53</published>
-  </entry>
-  <entry>
     <id>https://www.shz.de/lokales/wir-von-hier/schleswig-flensburg/artikel/wir-von-hier-das-lokalportal-47972864</id>
     <title>32. Kinder- und Schülergruppenturniade beim STV Sörup</title>
-    <updated>2024-11-13T11:16:24.370580+00:00</updated>
+    <updated>2024-11-13T12:38:45.958323+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -260,32 +191,9 @@
     <published>2024-11-11T12:57:42+00:53</published>
   </entry>
   <entry>
-    <id>https://www.shz.de/lokales/luebeck/artikel/lange-wartezeiten-warum-luebecks-auslaenderbehoerde-am-limit-ist-47975058</id>
-    <title>Lange Wartezeiten, unbesetzte Stellen: Warum Lübecks Ausländerbehörde am Limit ist</title>
-    <updated>2024-11-13T11:16:24.241107+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/lokales/luebeck/artikel/lange-wartezeiten-warum-luebecks-auslaenderbehoerde-am-limit-ist-47975058"/>
-    <published>2024-11-11T14:20:52+00:53</published>
-  </entry>
-  <entry>
     <id>https://www.shz.de/lokales/schleswig/artikel/mehrtaegiger-busstreik-im-kreis-schleswig-flensburg-ab-freitag-47976757</id>
     <title>Verdi ruft zu mehrtägigem Busstreik im Kreis Schleswig-Flensburg auf</title>
-    <updated>2024-11-13T11:16:24.110907+00:00</updated>
+    <updated>2024-11-13T12:38:45.791326+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -306,32 +214,9 @@
     <published>2024-11-11T14:36:25+00:53</published>
   </entry>
   <entry>
-    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/verdi-ruft-am-freitag-erneut-zu-busstreik-in-sh-auf-47976904</id>
-    <title>Busstreik in SH: Verdi ruft Beschäftigte im privaten Omnibusgewerbe auf</title>
-    <updated>2024-11-13T11:16:23.980880+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/verdi-ruft-am-freitag-erneut-zu-busstreik-in-sh-auf-47976904"/>
-    <published>2024-11-11T14:37:06+00:53</published>
-  </entry>
-  <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/steinfeld-neuer-247-digital-supermarkt-kommt-2025-47974820</id>
     <title>„hurtig.“ – Steinfeld bekommt einen digitalen 24/7-Supermarkt</title>
-    <updated>2024-11-13T11:16:23.851776+00:00</updated>
+    <updated>2024-11-13T12:38:45.626232+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -354,7 +239,7 @@
   <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/brandgeruch-feuerwehreinsatz-am-schulzentrum-in-sterup-47977084</id>
     <title>Brandgeruch im Lehrerzimmer: Feuerwehreinsatz am Steruper Schulzentrum</title>
-    <updated>2024-11-13T11:16:23.721609+00:00</updated>
+    <updated>2024-11-13T12:38:45.460089+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -375,55 +260,9 @@
     <published>2024-11-11T15:22:10+00:53</published>
   </entry>
   <entry>
-    <id>https://www.shz.de/lokales/kiel/artikel/wie-sich-sh-politisch-auf-bundesebene-einbringen-koennte-47977395</id>
-    <title>Wirtschaftsgipfel: Wie sich SH politisch auf Bundesebene einbringen will</title>
-    <updated>2024-11-13T11:16:23.593828+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/lokales/kiel/artikel/wie-sich-sh-politisch-auf-bundesebene-einbringen-koennte-47977395"/>
-    <published>2024-11-11T16:06:05+00:53</published>
-  </entry>
-  <entry>
-    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/mehr-privatschulen-in-schleswig-holstein-als-noch-vor-20-jahren-47975374</id>
-    <title>Mehr Privatschulen in Schleswig-Holstein als noch vor 20 Jahren</title>
-    <updated>2024-11-13T11:16:23.466161+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/mehr-privatschulen-in-schleswig-holstein-als-noch-vor-20-jahren-47975374"/>
-    <published>2024-11-11T16:19:46+00:53</published>
-  </entry>
-  <entry>
     <id>https://www.shz.de/lokales/schleswig/artikel/schleswig-kastanien-trotzen-pseudomonas-bakterium-47975456</id>
     <title>Totgesagte leben länger: Wie steht es eigentlich um Schleswigs kranke Kastanien?</title>
-    <updated>2024-11-13T11:16:23.339363+00:00</updated>
+    <updated>2024-11-13T12:38:45.295926+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -444,55 +283,9 @@
     <published>2024-11-11T16:22:11+00:53</published>
   </entry>
   <entry>
-    <id>https://www.shz.de/lokales/elmshorn-barmstedt/artikel/behoerden-verhindern-terror-anschlag-mit-lkw-elmshorner-verhaftet-47977390</id>
-    <title>Terroranschlag mit Lkw verhindert: Elmshorner wollte Menschen überfahren</title>
-    <updated>2024-11-13T11:16:23.212081+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/lokales/elmshorn-barmstedt/artikel/behoerden-verhindern-terror-anschlag-mit-lkw-elmshorner-verhaftet-47977390"/>
-    <published>2024-11-11T16:22:49+00:53</published>
-  </entry>
-  <entry>
-    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/neuwahlen-nach-ampel-aus-ist-schleswig-holstein-gut-vorbereitet-47975735</id>
-    <title>Ist Schleswig-Holstein für eine Neuwahl gewappnet? Das sagt Kiels OB Ulf Kämpfer</title>
-    <updated>2024-11-13T11:16:23.084941+00:00</updated>
-    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
-            padding: 70px 30px;
-            text-align: center;
-            font-size: 16px;
-            font-style: normal;
-            line-height: 24px;
-        }
-
-        a:focus,
-        a:visited {
-            color: inherit;
-        }
-
-        img {
-            max-width: 100px;
-        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4MQFqlBKtiooWR4rd2OpSatc/zmz9zcxvZ373NzO788d8k0l+j3vPPb8599zHOXfE4lLBKwuW/Q8+1EddhmAb5gr+Di2JhkvM6FIrMKSRoUEGjKFBBoyhQQaMoUEGjKFBBoyhQQaMoUEGjKFBBoyhQQaMoUEGjKFBBoxlBcutwRvwKjwX52A5DuMRPIR7cBf+2nMtGxmtt3+KiAj/HU8mS6nWzsNFOAszeBD3qoz/t2ealmCkw/tn4SZcjpMKyJvDT7EDu3C86f02vK+gbjM4PXP/AnwYb8TKzPMnsRffxldQayu1Wjsfn8aFOW8P4OP4osr4XNO79VhbTPXS/LCdQa4Uf+BTSgrfh+vw3cyzbcoZZAs+KbyyHf+qy78j9221diW+oPPIUMVGlfGjmWc78fYO9bphFucuNIdsxZeVNwY8D9/Ba7qQQfTYW3U2BpyGr2JTy5tq7VJ8SbFhuiIMt5jswIE8g3xA9OxesE8MYWXZKIapVD6HVSfuqrVThTFSFjGbVGsXlWi7DLO4hVYFX4hP9LChj2mdR4pyMm4rWfepYq6Zp4Knl5Dz3pLtp7JDzF8tBrlR8ZVXJ/bhzi7qn4Izuqj/0sz1JSVlvK6L9otywjtoNMhqXNbDhrrxjl5wVub6nJIyxlRrKzsX64oT3kGjQS7WeRmcZRb34/Gcd916Ry8Yy1x3s7c41q0ibTgiFlAnyBrk2QmC/o0X4SU4WyyRD2beL7V3EHPQPPtLyvibyvhsL5RZgO14NPsgO1+kLHF/g9/Wr4/iduwWm8EzLL13NLMb7ylZb557OpR9Pl6eIPuI2KA2sKypQFFeJia8H2eePYpXi9BKr7zjMTGv/UVszC4uKedHuE94dFGOafzDbq//FuIXiTptF9/XQHbI+lWCsBF8X/xJazPPjybK6cTNuBt/xDtLS6mMH6/XT+l016uM/65g2fWYSJCd6x00GmQP/pkg9CQRSrgfPxfe0Wu+l7n+vVgslKMyvhevl9Mrc7hRZfxTBSWP4KOJ2uR6B40GeQKfSRQ8zwX4iZg7VnUom8LDTfd/6EpaZXxKbH5v03pU9bgYgi9UGb85QeqbpQUdF/SOPJaLsbDo+du8336ct4D8bQlyDuXU/1pC/T1tv7RaW65aW6taW6dau0C1VmYTOirC9in/z9ZcSW1YjQcSG2n+/Um+p2xLkHEop/7OhPp7Uj+8BBsT9JkT+aMz2wnMC5P8Q+QKbsG7FcuDNPNMsQN9S4m6fWdmcmIV3iRWbdkE1a6xqekHC4pZJvZbKSw4d2SF5nEEV4sefQPe1qbsQlwmNo97E+v1jZnJiRFcI2J2YzlFbpqZnLgTm8empvMiEFkux3MSmi80d3QKR+/HFWIXv0N6CGJDYvm+UTfGHWLhkmeMed6KX85MTpzdpsxy0VFT6Ogd5BukonUJ+2cxfK3FdIISi5VPKMIHFc/4nYvqzOTEQh12k7RQU+GVVXODK0R2brf8yO+vsU5sAIuwpmC5vjIzObEGH0msNiGG6mZW4PpEWYW8g9Z5YbM42EDEpW4V4+3hTJknxMGCFYlKLSUbRNIqlXeIpXaWq/CMRDnHxLmAhdglTu80GOQ0rb3oGjF5bRep2BFxiKDoxx3oXGRRyDthUoRXNN2fKt076JyGfkDdINkh6/3y9w6rxVGgu/EzsTMtylRC2X5Sdug8eWZyIrsAuKoLWYWYN8iZuLYP8r/RB5llONy5SC5z/h+QXCl9ZZXMvEFuUG6Mbce3RN5kECgbgX5obGp6PmN4td7G6XIZFbvqzT2We1B8wKCwq8t6p+vPCNLCqDii2XxsshsO41KDM6Ebm5q+T3hsCo/js/XrLRbBOwiD/AAvxr09kPcIXitt87hYvEvkVIpwHBvHpqYPCe/Y0h+VWpmfQ/ZhUkQvyyaBvi5SpINoDGNT0wdF5KBTx3sMl4xNTd9Vv79O+1BLT8k79jMq8uVXiAzb09rUPyZ29VsVM8Q6nF9Qt1mtuYP1iieDHhbh+gbqMa0N4vsmxerpmOiI38Tn654xz7UaT9v3g53qybj/AcVqq/X5dlrrAAAAAElFTkSuQmCC"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
-    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/neuwahlen-nach-ampel-aus-ist-schleswig-holstein-gut-vorbereitet-47975735"/>
-    <published>2024-11-11T16:37:47+00:53</published>
-  </entry>
-  <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/feuerdrache-lioleus-glasermeister-jessen-aus-suederbrarup-gewinnt-47977777</id>
     <title>Der Feuerdrache aus Süderbrarup: Glasermeister Roman Jessen setzt neue Maßstäbe</title>
-    <updated>2024-11-13T11:16:22.957340+00:00</updated>
+    <updated>2024-11-13T12:38:45.128672+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -515,7 +308,7 @@
   <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/wildtierhilfe-ohne-genehmigung-behoerden-verweigern-standort-47969435</id>
     <title>Konflikt mit Behörden: Ehrenamtliche Wildtierhilfe aus Glücksburg sucht neuen Standort</title>
-    <updated>2024-11-13T11:16:22.653988+00:00</updated>
+    <updated>2024-11-13T12:38:44.965001+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -538,7 +331,7 @@
   <entry>
     <id>https://www.shz.de/lokales/schleswig/artikel/schleswig-das-kulturl-im-stadtweg-steht-vor-dem-aus-47971588</id>
     <title>Neuer Leerstand im Stadtweg: Das „KulturL“ steht vor dem Aus</title>
-    <updated>2024-11-13T11:16:22.524262+00:00</updated>
+    <updated>2024-11-13T12:38:44.798152+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -561,7 +354,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/attacken-auf-sylt-prozess-gegen-letzte-generation-beginnt-47962950</id>
     <title>Attacken auf Sylt: Prozess gegen „Letzte Generation“ beginnt</title>
-    <updated>2024-11-13T11:16:22.397004+00:00</updated>
+    <updated>2024-11-13T12:38:44.631944+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -584,7 +377,7 @@
   <entry>
     <id>https://www.shz.de/lokales/eutin-ostholstein/artikel/eis-und-rodelbahn-was-die-groemitzer-eiszeit-202425-bietet-47974270</id>
     <title>Von Schlittschuhlaufen bis Rodelbahn: Was die „Grömitzer Eiszeit“ 2024/25 bietet</title>
-    <updated>2024-11-13T11:16:22.271560+00:00</updated>
+    <updated>2024-11-13T12:38:44.467704+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -607,7 +400,7 @@
   <entry>
     <id>https://www.shz.de/lokales/luebeck/artikel/luebeck-erhoeht-die-parkgebuehren-was-parken-ab-2025-kosten-soll-47977258</id>
     <title>Lübeck erhöht die Parkgebühren: Was Parken ab 2025 kosten soll</title>
-    <updated>2024-11-13T11:16:22.143965+00:00</updated>
+    <updated>2024-11-13T12:38:44.303549+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -630,7 +423,7 @@
   <entry>
     <id>https://www.shz.de/lokales/flensburg/artikel/schrott-oder-schnaeppchen-mystery-packs-im-video-test-47964647</id>
     <title>Mystery Packs im Video-Test: Lohnt sich der Überraschungskauf wirklich?</title>
-    <updated>2024-11-13T11:16:22.011533+00:00</updated>
+    <updated>2024-11-13T12:38:44.137384+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -653,7 +446,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/wahlkampfstart-in-sh-mit-eklat-cdu-wirft-spd-schmutzkampagne-vor-47979824</id>
     <title>Wahlkampf startet in Schleswig-Holstein mit Eklat – CDU wirft SPD Schmutzkampagne vor</title>
-    <updated>2024-11-13T11:16:21.870552+00:00</updated>
+    <updated>2024-11-13T12:38:43.970685+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -676,7 +469,7 @@
   <entry>
     <id>https://www.shz.de/lokales/sylt/artikel/klimaprotest-auf-sylt-prozess-gegen-aktivisten-gestartet-47980390</id>
     <title>Nach Aktionen auf Sylt: Mitglieder der „Letzten Generation“ stehen in SH vor Gericht</title>
-    <updated>2024-11-13T11:16:21.743345+00:00</updated>
+    <updated>2024-11-13T12:38:43.504686+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -699,7 +492,7 @@
   <entry>
     <id>https://www.shz.de/lokales/bad-oldesloe-reinfeld/artikel/ju-stormarn-fake-ki-video-von-friedrich-merz-sorgt-fuer-skandal-47980820</id>
     <title>Von SPD-Politiker geteiltes Fake-KI-Merz-Video sorgt für harte Kritik aus der CDU</title>
-    <updated>2024-11-13T11:16:21.613203+00:00</updated>
+    <updated>2024-11-13T12:38:43.340170+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -722,7 +515,7 @@
   <entry>
     <id>https://www.shz.de/lokales/niebuell-leck/artikel/begegnungen-im-advent-neue-freunde-in-schleswig-holstein-finden-47981228</id>
     <title>Einfach neue Leute kennenlernen: Melden Sie sich zu unserer Advents-Aktion an</title>
-    <updated>2024-11-13T11:16:21.483274+00:00</updated>
+    <updated>2024-11-13T12:38:43.171989+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -745,7 +538,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/traumhaus-gewinnerin-immobilie-an-ostsee-geht-an-frau-aus-bayern-47981322</id>
     <title>Gewinnerin steht fest: 1,1 Millionen-Haus an der Ostsee geht an Frau aus Bayern</title>
-    <updated>2024-11-13T11:16:21.344487+00:00</updated>
+    <updated>2024-11-13T12:38:43.007941+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -768,7 +561,7 @@
   <entry>
     <id>https://www.shz.de/lokales/luebeck/artikel/luebeck-sundair-streicht-flughafen-blankensee-aus-flugplan-2025-47976521</id>
     <title>Sundair streicht Lübeck aus dem Flugplan – was das für den Urlaub 2025 bedeutet</title>
-    <updated>2024-11-13T11:16:21.214947+00:00</updated>
+    <updated>2024-11-13T12:38:42.842070+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -791,7 +584,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/video/geheime-ueberraschungen-aus-retouren-lohnt-sich-der-mystery-pack-hype-47975431</id>
     <title>Geheime Überraschungen aus Retouren: Lohnt sich der Mystery Pack-Hype?</title>
-    <updated>2024-11-13T11:16:21.088349+00:00</updated>
+    <updated>2024-11-13T12:38:42.677698+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -814,7 +607,7 @@
   <entry>
     <id>https://www.shz.de/lokales/schleswig/artikel/neue-postfiliale-bei-edeka-jensen-in-schleswig-eroeffnet-47980901</id>
     <title>Kritik an Öffnungszeiten der Postbank: Neue Postfiliale bei Edeka Jensen im Schlei-Center eröffnet</title>
-    <updated>2024-11-13T11:16:20.957968+00:00</updated>
+    <updated>2024-11-13T12:38:42.510702+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -837,7 +630,7 @@
   <entry>
     <id>https://www.shz.de/lokales/flensburg/artikel/keine-personalkapazitaeten-fuer-norderstrasse-parkplaetze-bleiben-47980597</id>
     <title>Keine Personalkapazitäten für die Norderstraße: Stadt Flensburg bedingt handlungsfähig</title>
-    <updated>2024-11-13T11:16:20.830665+00:00</updated>
+    <updated>2024-11-13T12:38:42.347246+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -860,7 +653,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/sh-kommt-bei-solaranlagen-auf-eigenen-gebaeuden-nicht-voran-47975245</id>
     <title>Schleswig-Holstein kommt bei Solaranlagen auf eigenen Gebäuden nicht voran</title>
-    <updated>2024-11-13T11:16:20.702363+00:00</updated>
+    <updated>2024-11-13T12:38:42.181290+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -883,7 +676,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/neuwahl-fokus-auf-schuldenbremse-und-investitionen-notwendig-47983279</id>
     <title>Neuwahl-Datum fix: Fokus auf Schuldenbremse und Investitionen notwendig</title>
-    <updated>2024-11-13T11:16:20.573009+00:00</updated>
+    <updated>2024-11-13T12:38:42.015320+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -906,7 +699,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/video/klimawandel-bekaempfen-baeume-pflanzen-in-schleswig-holstein-47983361</id>
     <title>Aktion für gesunde Wälder - Kinder und Peter Heinrich Brix pflanzen 100 Buchen im Bordesholmer Forst</title>
-    <updated>2024-11-13T11:16:20.446260+00:00</updated>
+    <updated>2024-11-13T12:38:41.849620+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -929,7 +722,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/spenden-fuer-baum-fuer-baum-fuer-sh-helfen-dem-wald-und-dem-klima-47982198</id>
     <title>Spendenaktion „Baum für Baum für SH 2024“: Wald als Klimaretter – Vorhang auf für Runde zwei</title>
-    <updated>2024-11-13T11:16:20.318766+00:00</updated>
+    <updated>2024-11-13T12:38:41.685637+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -952,7 +745,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/wird-das-buendnis-sahra-wagenknecht-im-norden-eine-kaderpartei-47981145</id>
     <title>Wird das Bündnis Sahra Wagenknecht in Schleswig-Holstein eine Kaderpartei?</title>
-    <updated>2024-11-13T11:16:20.191404+00:00</updated>
+    <updated>2024-11-13T12:38:41.521404+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -975,7 +768,7 @@
   <entry>
     <id>https://www.shz.de/lokales/schleswig/artikel/versuchter-mord-in-schubystrasse-in-schleswig-lange-haftstrafe-47983517</id>
     <title>Versuchter Mord in der Schubystraße: Lange Haftstrafe für 26-Jährigen</title>
-    <updated>2024-11-13T11:16:20.064457+00:00</updated>
+    <updated>2024-11-13T12:38:41.354709+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -998,7 +791,7 @@
   <entry>
     <id>https://www.shz.de/lokales/flensburg/artikel/flensburg-mystery-pack-automat-im-test-47934037</id>
     <title>Enttäuschung oder Überraschung? Der Mystery-Pack-Automat in Flensburg im Test</title>
-    <updated>2024-11-13T11:16:19.761176+00:00</updated>
+    <updated>2024-11-13T12:38:41.191602+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1021,7 +814,7 @@
   <entry>
     <id>https://www.shz.de/sport/schleswig-holstein/artikel/15-partnerschulen-leistungssport-in-neumuenster-zertifiziert-47983748</id>
     <title>So lief die feierliche Zertifizierung der 15 Partnerschulen Talentförderung</title>
-    <updated>2024-11-13T11:16:19.619134+00:00</updated>
+    <updated>2024-11-13T12:38:41.027989+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1044,7 +837,7 @@
   <entry>
     <id>https://www.shz.de/lokales/flensburg/artikel/stadt-flensburg-prueft-freies-wifi-an-allen-bushaltestellen-47974230</id>
     <title>Stadt prüft freies Wlan an allen Bushaltestellen</title>
-    <updated>2024-11-13T11:16:19.483374+00:00</updated>
+    <updated>2024-11-13T12:38:40.863670+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1067,7 +860,7 @@
   <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/gluecksburger-buergermeisterkandidat-fdp-unterstuetzt-kay-richert-47981380</id>
     <title>Nach der CDU: Auch die FDP unterstützt Kay Richert als Glücksburger Bürgermeisterkandidat</title>
-    <updated>2024-11-13T11:16:19.358142+00:00</updated>
+    <updated>2024-11-13T12:38:40.697961+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1090,7 +883,7 @@
   <entry>
     <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/umfrage-neuwahl-am-23-februar-ist-das-der-richtige-zeitpunkt-47983529</id>
     <title>Neuwahl am 23. Februar: Ist das der richtige Zeitpunkt?</title>
-    <updated>2024-11-13T11:16:19.229063+00:00</updated>
+    <updated>2024-11-13T12:38:40.533685+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1113,7 +906,7 @@
   <entry>
     <id>https://www.shz.de/lokales/flensburg/artikel/sanierung-der-osttangente-in-flensburg-frueher-als-geplant-beendet-47984658</id>
     <title>Sanierung abgeschlossen: Verkehr auf der Osttangente in Flensburg läuft wieder</title>
-    <updated>2024-11-13T11:16:19.102738+00:00</updated>
+    <updated>2024-11-13T12:38:40.368125+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1136,7 +929,7 @@
   <entry>
     <id>https://www.shz.de/lokales/flensburg/artikel/familientheater-das-piratenschiff-hat-premiere-in-harrislee-47983096</id>
     <title>Familientheater: „Das Piratenschiff“ von Broschmann &amp; Finke feiert Premiere</title>
-    <updated>2024-11-13T11:16:18.942648+00:00</updated>
+    <updated>2024-11-13T12:38:40.200073+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1159,7 +952,7 @@
   <entry>
     <id>https://www.shz.de/lokales/schleswig/artikel/schleswig-das-muessen-besucher-zum-weihnachtsmarkt-2024-wissen-47981406</id>
     <title>Was Besucher über den Weihnachtsmarkt 2024 auf dem Capitolplatz wissen müssen</title>
-    <updated>2024-11-13T11:16:18.812917+00:00</updated>
+    <updated>2024-11-13T12:38:40.026614+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1182,7 +975,7 @@
   <entry>
     <id>https://www.shz.de/lokales/gluecksburg-angeln/artikel/soerup-troedelmarkt-bietet-kuriositaeten-raritaeten-und-weihnachten-47969269</id>
     <title>Besuchermagnet Trödelmarkt: Hier findet Kurioses, Kitschiges und Nützliches neue Besitzer</title>
-    <updated>2024-11-13T11:16:18.666463+00:00</updated>
+    <updated>2024-11-13T12:38:39.858826+00:00</updated>
     <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
             padding: 70px 30px;
             text-align: center;
@@ -1201,5 +994,258 @@
         }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
     <link href="https://www.shz.de/lokales/gluecksburg-angeln/artikel/soerup-troedelmarkt-bietet-kuriositaeten-raritaeten-und-weihnachten-47969269"/>
     <published>2024-11-13T10:02:55+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/lokales/flensburg/artikel/videoumfrage-wann-beginnt-das-schmuecken-fuer-weihnachten-47985289</id>
+    <title>Videoumfrage: Wann beginnt das weihnachtliche Schmücken Zuhause?</title>
+    <updated>2024-11-13T12:38:39.689174+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/lokales/flensburg/artikel/videoumfrage-wann-beginnt-das-schmuecken-fuer-weihnachten-47985289"/>
+    <published>2024-11-13T11:39:35+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/lokales/schleswig/artikel/strandleben-eroeffnet-julehuette-auf-der-freiheit-in-schleswig-47985173</id>
+    <title>Punsch, Tannen und Hygge: Hotel Strandleben eröffnet „Julehütte“ auf der Freiheit</title>
+    <updated>2024-11-13T12:38:39.525229+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/lokales/schleswig/artikel/strandleben-eroeffnet-julehuette-auf-der-freiheit-in-schleswig-47985173"/>
+    <published>2024-11-13T12:09:38+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruene-halbzeitbilanz-umweltminister-tobias-goldschmidt-47950422</id>
+    <title>Der Lernende: Tobias Goldschmidt</title>
+    <updated>2024-11-13T12:38:39.052512+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruene-halbzeitbilanz-umweltminister-tobias-goldschmidt-47950422"/>
+    <published>2024-11-13T12:16:02+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/silke-schneider-die-neue-die-sofort-liefern-muss-47949046</id>
+    <title>Silke Schneider: Die Neue, die sofort liefern muss</title>
+    <updated>2024-11-13T12:38:38.590071+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/silke-schneider-die-neue-die-sofort-liefern-muss-47949046"/>
+    <published>2024-11-13T12:17:16+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/halbzeitbilanz-in-sh-digitalisierungsminister-dirk-schroedter-47950623</id>
+    <title>Der Akribische: Dirk Schrödter</title>
+    <updated>2024-11-13T12:38:38.423237+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4MQFqlBKtiooWR4rd2OpSatc/zmz9zcxvZ373NzO788d8k0l+j3vPPb8599zHOXfE4lLBKwuW/Q8+1EddhmAb5gr+Di2JhkvM6FIrMKSRoUEGjKFBBoyhQQaMoUEGjKFBBoyhQQaMoUEGjKFBBoyhQQaMoUEGjKFBBoxlBcutwRvwKjwX52A5DuMRPIR7cBf+2nMtGxmtt3+KiAj/HU8mS6nWzsNFOAszeBD3qoz/t2ealmCkw/tn4SZcjpMKyJvDT7EDu3C86f02vK+gbjM4PXP/AnwYb8TKzPMnsRffxldQayu1Wjsfn8aFOW8P4OP4osr4XNO79VhbTPXS/LCdQa4Uf+BTSgrfh+vw3cyzbcoZZAs+KbyyHf+qy78j9221diW+oPPIUMVGlfGjmWc78fYO9bphFucuNIdsxZeVNwY8D9/Ba7qQQfTYW3U2BpyGr2JTy5tq7VJ8SbFhuiIMt5jswIE8g3xA9OxesE8MYWXZKIapVD6HVSfuqrVThTFSFjGbVGsXlWi7DLO4hVYFX4hP9LChj2mdR4pyMm4rWfepYq6Zp4Knl5Dz3pLtp7JDzF8tBrlR8ZVXJ/bhzi7qn4Izuqj/0sz1JSVlvK6L9otywjtoNMhqXNbDhrrxjl5wVub6nJIyxlRrKzsX64oT3kGjQS7WeRmcZRb34/Gcd916Ry8Yy1x3s7c41q0ibTgiFlAnyBrk2QmC/o0X4SU4WyyRD2beL7V3EHPQPPtLyvibyvhsL5RZgO14NPsgO1+kLHF/g9/Wr4/iduwWm8EzLL13NLMb7ylZb557OpR9Pl6eIPuI2KA2sKypQFFeJia8H2eePYpXi9BKr7zjMTGv/UVszC4uKedHuE94dFGOafzDbq//FuIXiTptF9/XQHbI+lWCsBF8X/xJazPPjybK6cTNuBt/xDtLS6mMH6/XT+l016uM/65g2fWYSJCd6x00GmQP/pkg9CQRSrgfPxfe0Wu+l7n+vVgslKMyvhevl9Mrc7hRZfxTBSWP4KOJ2uR6B40GeQKfSRQ8zwX4iZg7VnUom8LDTfd/6EpaZXxKbH5v03pU9bgYgi9UGb85QeqbpQUdF/SOPJaLsbDo+du8336ct4D8bQlyDuXU/1pC/T1tv7RaW65aW6taW6dau0C1VmYTOirC9in/z9ZcSW1YjQcSG2n+/Um+p2xLkHEop/7OhPp7Uj+8BBsT9JkT+aMz2wnMC5P8Q+QKbsG7FcuDNPNMsQN9S4m6fWdmcmIV3iRWbdkE1a6xqekHC4pZJvZbKSw4d2SF5nEEV4sefQPe1qbsQlwmNo97E+v1jZnJiRFcI2J2YzlFbpqZnLgTm8empvMiEFkux3MSmi80d3QKR+/HFWIXv0N6CGJDYvm+UTfGHWLhkmeMed6KX85MTpzdpsxy0VFT6Ogd5BukonUJ+2cxfK3FdIISi5VPKMIHFc/4nYvqzOTEQh12k7RQU+GVVXODK0R2brf8yO+vsU5sAIuwpmC5vjIzObEGH0msNiGG6mZW4PpEWYW8g9Z5YbM42EDEpW4V4+3hTJknxMGCFYlKLSUbRNIqlXeIpXaWq/CMRDnHxLmAhdglTu80GOQ0rb3oGjF5bRep2BFxiKDoxx3oXGRRyDthUoRXNN2fKt076JyGfkDdINkh6/3y9w6rxVGgu/EzsTMtylRC2X5Sdug8eWZyIrsAuKoLWYWYN8iZuLYP8r/RB5llONy5SC5z/h+QXCl9ZZXMvEFuUG6Mbce3RN5kECgbgX5obGp6PmN4td7G6XIZFbvqzT2We1B8wKCwq8t6p+vPCNLCqDii2XxsshsO41KDM6Ebm5q+T3hsCo/js/XrLRbBOwiD/AAvxr09kPcIXitt87hYvEvkVIpwHBvHpqYPCe/Y0h+VWpmfQ/ZhUkQvyyaBvi5SpINoDGNT0wdF5KBTx3sMl4xNTd9Vv79O+1BLT8k79jMq8uVXiAzb09rUPyZ29VsVM8Q6nF9Qt1mtuYP1iieDHhbh+gbqMa0N4vsmxerpmOiI38Tn654xz7UaT9v3g53qybj/AcVqq/X5dlrrAAAAAElFTkSuQmCC"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/halbzeitbilanz-in-sh-digitalisierungsminister-dirk-schroedter-47950623"/>
+    <published>2024-11-13T12:18:20+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/karin-prien-schlechte-noten-richtige-konsequenzen-viel-praesenz-47946244</id>
+    <title>Karin Prien – schlechte Noten, richtige Konsequenzen, bundespolitische Präsenz</title>
+    <updated>2024-11-13T12:38:38.258956+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/karin-prien-schlechte-noten-richtige-konsequenzen-viel-praesenz-47946244"/>
+    <published>2024-11-13T12:18:34+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/aminata-tour-frischer-wind-und-ein-skandal-47945839</id>
+    <title>Aminata Touré: Frischer Wind und ein Skandal</title>
+    <updated>2024-11-13T12:38:38.093114+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/aminata-tour-frischer-wind-und-ein-skandal-47945839"/>
+    <published>2024-11-13T12:19:48+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/sabine-suetterlin-waack-politik-mit-ruhiger-hand-47902792</id>
+    <title>Sabine Sütterlin-Waack: Politik mit ruhiger Hand</title>
+    <updated>2024-11-13T12:38:37.925932+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/sabine-suetterlin-waack-politik-mit-ruhiger-hand-47902792"/>
+    <published>2024-11-13T12:21:14+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/halbzeit-bilanz-der-minister-in-sh-claus-ruhe-madsen-47945569</id>
+    <title>Claus Ruhe Madsen: Volksnah, aber ohne große Linien</title>
+    <updated>2024-11-13T12:38:37.762193+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/halbzeit-bilanz-der-minister-in-sh-claus-ruhe-madsen-47945569"/>
+    <published>2024-11-13T12:22:41+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruene-halbzeit-bilanz-in-sh-werner-schwarz-47943594</id>
+    <title>Werner Schwarz: Experte jenseits des Scheinwerferlichts</title>
+    <updated>2024-11-13T12:38:37.594351+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/artikel/schwarz-gruene-halbzeit-bilanz-in-sh-werner-schwarz-47943594"/>
+    <published>2024-11-13T12:23:56+00:53</published>
+  </entry>
+  <entry>
+    <id>https://www.shz.de/lokales/schleswig/artikel/frueher-weihnachtsmarkt-in-schleswig-eine-gute-sache-fuer-alle-47984948</id>
+    <title>Weihnachtsmarkt in Schleswig beginnt vor Totensonntag: Ist das zu früh?</title>
+    <updated>2024-11-13T12:38:36.797943+00:00</updated>
+    <content type="html">ad&gt; &lt;meta charset=utf-8&gt;&lt;meta content=width=device-width,initial-scale=1 name=viewport&gt;&lt;title&gt;shz.de - Wartungsarbeiten&lt;/title&gt;&lt;style&gt;body {
+            padding: 70px 30px;
+            text-align: center;
+            font-size: 16px;
+            font-style: normal;
+            line-height: 24px;
+        }
+
+        a:focus,
+        a:visited {
+            color: inherit;
+        }
+
+        img {
+            max-width: 100px;
+        }&lt;/style&gt;&lt;body&gt;&lt;img src="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAAGQAAAAuCAYAAADeIbxeAAAACXBIWXMAAAxOAAAMTgF/d4wjAAAGdmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDAgNzkuMTYwNDUxLCAyMDE3LzA1LzA2LTAxOjA4OjIxICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOCAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTA5LTE1VDEwOjA2OjE0KzAyOjAwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6ZjMxZTE4MWItZmY0Ny02YTRmLWE4ZTEtN2JmN2FjNzQ1YWFjIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJhZG9iZTpkb2NpZDpwaG90b3Nob3A6NjNhMGE1MTQtMjRlYS01NjQ4LTlmNjctMWFmMjlhYmJiMzVmIj4gPHhtcE1NOkhpc3Rvcnk+IDxyZGY6U2VxPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0iY3JlYXRlZCIgc3RFdnQ6aW5zdGFuY2VJRD0ieG1wLmlpZDoyMjEwMWE1Ny0xOTM5LTQwYzEtYWU4Yi1kODI4ZDA2OWU5NGYiIHN0RXZ0OndoZW49IjIwMjEtMDktMTVUMDk6NTg6MzQrMDI6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvc2gpIi8+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjb252ZXJ0ZWQiIHN0RXZ0OnBhcmFtZXRlcnM9ImZyb20gYXBwbGljYXRpb24vdm5kLmFkb2JlLnBob3Rvc2hvcCB0byBpbWFnZS9wbmciLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmQ4ZWU0N2Q2LTQxNDktNDhhMy1iZjk0LWI4YzYyY2U3YTg0ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wOS0xNVQxMDowNjoxNCswMjowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTggKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+JN8esAAABk1JREFUeJzt2nuM3FUVwPHPLm0BLS6hdCnBR4KY+IixvrIgLBo1UoPGjljTRBLRBrGGaIkoERGDGFN8UWNRq0SaGP8QG8dofRJjZcG4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"&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; Liebe Leserin, lieber Leser,&lt;br&gt;&lt;br&gt; aufgrund technischer Probleme ist diese Seite derzeit leider nicht erreichbar. &lt;br&gt; Wir arbeiten bereits an der Lösung und hoffen, dass Sie sich schnellstmöglich wieder über das Neuste aus der Region informieren können!&lt;br&gt;&lt;br&gt; Vielen Dank für Ihr Verständnis!&lt;br&gt;&lt;br&gt; Ihr shz.de-Team&lt;br&gt; Weitere Informationen gibt es auf &lt;a href=https://www.facebook.com/shzonline target=_blank&gt; Facebook&lt;/a&gt; oder &lt;a href=https://www.instagram.com/shz.de/?hl=de target=_blank&gt;Instagram &lt;/a&gt;&lt;/body&gt; &amp;LT/html</content>
+    <link href="https://www.shz.de/lokales/schleswig/artikel/frueher-weihnachtsmarkt-in-schleswig-eine-gute-sache-fuer-alle-47984948"/>
+    <published>2024-11-13T12:30:00+00:53</published>
   </entry>
 </feed>
