@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>www.shz.de</id>
+  <title>Lokale Nachrichten</title>
+  <updated>2025-01-11T17:15:32.284884+00:00</updated>
+  <link href="https://shz.de" rel="alternate"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <subtitle>Lokale Nachrichten aus dem Norden</subtitle>
+  <entry>
+    <id>https://www.shz.de/deutschland-welt/schleswig-holstein/klima/baum-fuer-baum-fuer-sh/artikel/darum-ist-der-wald-fuer-peter-heinrich-brix-so-wichtig-46250896</id>
+    <title>Peter Heinrich Brix im Interview: Darum ist es wichtig, Kinder an die Natur heranzuführen</title>
+    <updated>2025-01-11T17:15:49.401916+00:00</updated>
+    <content type="html">&lt;div class="content--stage"&gt;
+                                                
+
+&lt;!-- start meta-box --&gt;&lt;div class="meta-box content-element "&gt;&lt;h1&gt;&lt;span class="paid-content"&gt;&lt;svg id="Gruppe_5477" data-name="Gruppe 5477" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="20" viewBox="0 0 42 20"&gt;&lt;defs&gt;&lt;clipPath id="clip-path"&gt;&lt;rect id="Rechteck_1627" data-name="Rechteck 1627" width="42" height="20" fill="none"/&gt;&lt;/rect&gt;&lt;/clipPath&gt;&lt;/defs&gt;&lt;g id="Gruppe_5478" data-name="Gruppe 5478" clip-path="url(#clip-path)"&gt;&lt;path id="Pfad_2311" data-name="Pfad 2311" d="M4.375,0h33.25A4.361,4.361,0,0,1,42,4.348v11.3A4.361,4.361,0,0,1,37.625,20H4.375A4.361,4.361,0,0,1,0,15.652V4.348A4.361,4.361,0,0,1,4.375,0" fill="#00386c"/&gt;&lt;/path&gt;&lt;path id="Pfad_2312" data-name="Pfad 2312" d="M13.528,4.727H10.309a.214.214,0,0,0-.2.227V9.7H5.486a.225.225,0,0,0-.224.225v1.45a.225.225,0,0,0,.224.225h4.625v3.516a.214.214,0,0,0,.225.2h1.735a.214.214,0,0,0,.2-.227V11.611h1.257c2.511,0,3.721-1.407,3.721-3.449,0-2.027-1.21-3.435-3.721-3.435m-.074,4.962h-1.18V6.649h1.18c.922,0,1.724.317,1.724,1.513s-.8,1.527-1.724,1.527" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2313" data-name="Pfad 2313" d="M20.61,4.5H18.935a.215.215,0,0,0-.2.227V15.114a.216.216,0,0,0,.227.2h1.673a.211.211,0,0,0,.2-.227V4.7a.212.212,0,0,0-.225-.2" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2314" data-name="Pfad 2314" d="M29.4,7.9H27.752a.215.215,0,0,0-.2.227v3.842a1.405,1.405,0,0,1-1.452,1.6c-.893,0-1.376-.56-1.376-1.6V8.1a.211.211,0,0,0-.227-.2H22.838a.211.211,0,0,0-.2.227v4.312c0,1.936,1.119,3.055,2.677,3.055a2.425,2.425,0,0,0,2.239-1.3l.061.876c.016.183.092.243.227.243h1.574a.223.223,0,0,0,.225-.227V8.115A.227.227,0,0,0,29.4,7.9" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2315" data-name="Pfad 2315" d="M35.072,11.065l-1.043-.409c-.409-.151-.711-.349-.711-.711,0-.317.227-.591.711-.591a2.12,2.12,0,0,1,1.346.621c.135.1.243.121.349,0l.665-.8a.232.232,0,0,0,.016-.317,3.184,3.184,0,0,0-2.482-1.133,2.342,2.342,0,0,0-2.585,2.239A2.177,2.177,0,0,0,32.956,12l.938.378c.544.227.771.394.771.756,0,.422-.333.62-.832.62a2.823,2.823,0,0,1-1.708-.726.3.3,0,0,0-.07-.052.232.232,0,0,0-.308.113l-.528.739a.369.369,0,0,0-.032.439,3.54,3.54,0,0,0,2.768,1.225c1.481,0,2.767-.771,2.783-2.269a2.274,2.274,0,0,0-1.666-2.16" fill="#fff"/&gt;&lt;/path&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;span class="kicker typeface-font w-600 text-color__pacific-blue-100"&gt;
+    ÖPNV in der Schleiregion
+&lt;/span&gt;&lt;span
+                    class="headline-icon-wrapper"&gt;&lt;span class="meta-box__headline text-color__nero-100  w-900 "&gt;
+                    Nach Problemen im Shuttle-Verkehr: So geht es mit Smile24 in diesem Jahr weiter
+                &lt;/span&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div class="meta-box__meta typeface-font text-color__comet"&gt;
+                                                                                                                                Von &lt;a href="https://www.shz.de/kontakt/autor/Annika-K%C3%BChl-20001404" target="_self"
+                               class="text--reset w-600"&gt;Annika Kühl&lt;/a&gt;                                                            | 09.01.2025, 15:26 Uhr
+                                        
+
+
+    &lt;span class="comment-counter" comment-counter-id="48196703" data-id= "48196703" data-link="#comments" data-linkClasses="w-600 inherit-color-underline no-underline ignore-hover meta-box__meta--comments" data-target="_self" data-title="" link="#comments" linkClasses="w-600 inherit-color-underline no-underline ignore-hover meta-box__meta--comments" target="_self" title=""&gt;&lt;/span&gt;&lt;/div&gt;&lt;!-- start audio --&gt;&lt;div class="meta-box__player paywall paywalled-content podcast-player"&gt;&lt;div class="content-element size--w-max--100"&gt;&lt;div id="audio-player-48196703-814655170679"&gt;&lt;/div&gt;&lt;script type="text/javascript"&gt;
+        (function() {
+            let GDPRConsentString = '';
+
+            let hasAccess = function() {
+                let access = false;
+                if (typeof pianoResponseVariables !== 'undefined') {
+                    if(typeof pianoResponseVariables.ttsHasAccess !== 'undefined' ) {
+                        access = pianoResponseVariables.ttsHasAccess;
+                    }
+                }
+                return access;
+            }
+
+            
+            
+            function load3q(threeQTracking, additionalParams) {
+                var player = document.createElement("script");
+                player.type = "text/javascript";
+                player.src = 'https://player.3qsdn.com/js3q.latest.js';
+                let streamURL = additionalParams;
+                if (hasAccess()) {
+                    streamURL.aisGetOriginalStream = true;
+                }
+                player.onload = function () {
+                    let audio_player_variant = "6b2db254-5b42-11eb-b839-0cc47a188158";
+                    if (typeof pc_audio_player_variant !== 'undefined') {
+                        audio_player_variant = pc_audio_player_variant;
+                    }
+
+                    
+                    let threeQData = {
+                        dataid: '7f48460b-f5d7-47f7-ab78-13c14d33807a',
+                        container: 'audio-player-48196703-814655170679',
+                        player: audio_player_variant,
+                        key: 'a8cf4438b1d25ca456401c6075b74160',
+                        timestamp:  '1736615620',
+                        tracking: threeQTracking,
+                        trackingCookie: threeQTracking,
+                        customStreamingURLParameter: streamURL,
+                                            };
+
+                    if (typeof user_properties !== 'undefined') {
+                        if(typeof user_properties.user_id !== 'undefined' ) {
+                            threeQData.userToken = user_properties.user_id;
+                        }
+                    }
+
+                    if (typeof js3qLoader === "undefined") {
+                        let js3qLoader = setInterval(function () {
+                            if (typeof js3q != "undefined") {
+                                clearInterval(js3qLoader);
+                                let threeQAudioPlayer = new js3q(threeQData);
+                                window.threeQPlayerList.push(threeQAudioPlayer);
+                                threeQAudioPlayer.on("configuration.loadError", () =&gt; {
+                                    document.querySelector('#audio-player-48196703-814655170679').style.display = "none";
+                                });
+                                threeQAudioPlayer.on("media.loading", function (data) {
+                                    if (document.querySelector('#audio-player-48196703-814655170679')?.closest(".podcast-element")) {
+                                        makePodcastTitleScrollable(document.querySelector('#audio-player-48196703-814655170679').closest(".podcast-element"));
+                                    } else {
+                                        makePodcastTitleScrollable(document.querySelector('#audio-player-48196703-814655170679'));
+                                    }
+                                });
+                                if (false &amp;&amp; !hasAccess()) {
+                                    threeQAudioPlayer.once("media.playing", () =&gt; {
+                                        window.setTimeout(() =&gt; stopAudio(threeQAudioPlayer), 90 * 1000);
+                                    });
+                                }
+                            }
+                        }, 10);
+                    }
+                };
+                document.head.appendChild(player);
+            }
+
+            /**
+             * Wait for CMP and trigger functions, if consent is already present or user just interacted with CMP
+             */
+            __tcfapi("addEventListener", 2, function (tcData, success) {
+                if (success &amp;&amp; (tcData.eventStatus === "tcloaded" || tcData.eventStatus === "useractioncomplete")) {
+                    let threeQTracking = !!tcData.vendor.consents[876];
+
+                    function transformString(str) {
+                        if (str[0] === '&amp;' || str[0] === '?') str = str.substring(1);
+
+                        const pairs = str.split('&amp;');
+                        const output = {};
+
+                        pairs.forEach(pair =&gt; {
+                            const [key, value] = pair.split('=');
+                            if (!key) return;
+                            output[key] = decodeURI(value);
+                        })
+                        return output;
+                    }
+
+                    // scan for present parameters in 200ms intervals
+                    // after 3s = give up and load if listenerid &amp; consent &amp; pianoResponseVariables is present
+                    let tries = 0;
+                    let tryLoadPlayer = function() {
+                        tries = tries + 1;
+                        if (typeof(cpd_configdata) != 'undefined' &amp;&amp; typeof(pianoResponseVariables) != 'undefined' &amp;&amp; cpd_configdata.url.indexOf('aw_0_req.userConsentV2') &gt; -1 &amp;&amp; cpd_configdata.url.indexOf('listenerid') &gt; -1) {
+                            if (tries &gt; 15 || (cpd_configdata.url.indexOf('aw_0_1st.1plusxAudience') &gt; -1)) {
+                                load3q(threeQTracking, transformString(cpd_configdata.url));
+                            } else {
+                                setTimeout(tryLoadPlayer, 200);
+                            }
+                        } else {
+                            setTimeout(tryLoadPlayer, 200);
+                        }
+                    };
+
+                    GDPRConsentString = tcData.tcString;
+
+                    // check for adswizz consent
+                    if (tcData.vendor.consents[507] === true) setTimeout(tryLoadPlayer, 400);
+                    else load3q(threeQTracking, transformString(cpd_configdata.url));
+                }
+            });
+        })();
+    &lt;/script&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- end audio --&gt;&lt;/div&gt;&lt;!-- end meta-box --&gt;
+                                                                
+
+
+
+
+
+
+
+    
+
+&lt;input type="checkbox" class="caption-toggle" id="toggle-1796407839"&gt;&lt;label class="caption-toggle--label" for="toggle-1796407839"&gt;&lt;figure class="picture__wrapper banner picture__author--hint"&gt;&lt;picture class="picture picture__type picture__type--topbanner "&gt;&lt;source type="image/webp" media="(min-width: 769px)"
+                            srcset="https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w910-h511/2091927489/800603892/img-8556.webp 1x, https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w1820-h1022/1966380002/2075752185/img-8556.webp 2x"&gt;&lt;source type="image/webp" media="(min-width: 480px)"
+                            srcset="https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w748-h420/724159333/116235396/img-8556.webp 1x, https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w1496-h840/372293424/911718564/img-8556.webp 2x"&gt;&lt;source type="image/webp" media="(min-width: 320px)"
+                            srcset="https://images.noz-mhn.de/img/48206965/crop/cbase_4_3-w480-h360/1843430448/1154595685/img-8556.webp 1x, https://images.noz-mhn.de/img/48206965/crop/cbase_4_3-w960-h720/587032271/876010462/img-8556.webp 2x"&gt;&lt;source media="(min-width: 769px)"
+                    srcset="https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w910-h511/244108422/963463177/img-8556.jpg 1x, https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w1820-h1022/513568899/1205800911/img-8556.jpg 2x"&gt;&lt;source media="(min-width: 480px)"
+                    srcset="https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w748-h420/80692064/628492819/img-8556.jpg 1x, https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w1496-h840/715222485/1234181657/img-8556.jpg 2x"&gt;&lt;source media="(min-width: 320px)"
+                    srcset="https://images.noz-mhn.de/img/48206965/crop/cbase_4_3-w480-h360/2120817787/1093050292/img-8556.jpg 1x, https://images.noz-mhn.de/img/48206965/crop/cbase_4_3-w960-h720/471052550/786791129/img-8556.jpg 2x"&gt;&lt;img src="https://images.noz-mhn.de/img/48206965/crop/cbase_16_9-w748-h420/80692064/628492819/img-8556.jpg" title="Im Rahmen des Verkehrsprojektes Smile24 können Nutzer an der Schlei auch einen Shuttle-Service in Anspruch nehmen und über die App buchen." alt="Im Rahmen des Verkehrsprojektes Smile24 können Nutzer an der Schlei auch einen Shuttle-Service in Anspruch nehmen und über die App buchen." width="480" height="360" /&gt;&lt;/picture&gt;&lt;figcaption class="picture__caption  "&gt;&lt;span class="picture__text width--100 width--t__100" itemprop="caption"&gt;Im Rahmen des Verkehrsprojektes Smile24 können Nutzer an der Schlei auch einen Shuttle-Service in Anspruch nehmen und über die App buchen.&lt;/span&gt;&lt;span class="picture__author width--100 width--t__100" itemprop="copyrightHolder" itemscope="" itemtype="http://schema.org/Person"&gt;Foto: Annika Kühl 
+
+
+
+&lt;svg class="icon up-down" viewBox="0 0 9.626 6.227" role="img" aria-labelledby="title desc"&gt;&lt;title&gt;up-down&lt;/title&gt;&lt;desc&gt;up-down&lt;/desc&gt;&lt;path id="Pfad_2397" data-name="Pfad 2397" d="M-2762.947,675.281l4.106,4.106,4.106-4.106" transform="translate(2763.654 -674.574)" fill="none" stroke="#fff" stroke-width="2"/&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/label&gt;
+                                    &lt;/div&gt;&lt;!-- end content-stage --&gt;
+
+
+ 
+
+    &lt;p class="w-600"&gt;
+                    Noch bis voraussichtlich Ende des Jahres steht das zusätzliche ÖPNV-Angebot in der Schleiregion zur Verfügung. So wurde es bislang angenommen und das gibt es noch zu tun.
+            &lt;/p&gt;&lt;!-- start MOBILE AD --&gt;&lt;!-- start msn-ads-in-content-1 --&gt;&lt;div class="outer-wrapper"&gt;&lt;div class="inner-wrapper"&gt;&lt;div id="msn-ads-in-content-1" class="msn-ads ad_label"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- end msn-ads-in-content-1 --&gt;&lt;!-- end MOBILE AD --&gt;
+                            &lt;/section&gt;&lt;!-- PAID CONTENT START --&gt;
+
+
+
+    
+
+
+
+&lt;div class="paywall paywalled-content"&gt;
+                                    &lt;section class="content--group content--group--spaceless-bottom content--group__section" id="c10" data-nozmhn-lab="" data-nozmhn-cat="cat" data-nozmhn-pos="automatic"&gt;
+                                    
+
+
+
+
+    &lt;p class=""&gt;
+                    Es scheint wieder aufwärts zu gehen: &lt;a href="https://www.shz.de/lokales/schleswig/artikel/smile24-fahrer-erheben-vorwuerfe-gegen-unternehmer-aus-schleswig-48022662"     class="link underline-blue"  title="" target="_blank" &gt;Nachdem das Verkehrsprojekt Smile24 mit schweren Vorwürfen rund um den Shuttle-Service in Schleswig in die Schlagzeilen geraten war,&lt;/a&gt; steht das Angebot an der Schlei nun offenbar wieder vollständig zur Verfügung. Ein Sprecher der Deutschen Bahn teilte auf Nachfrage unserer Redaktion mit: „Es fahren wieder alle Shuttles, unsere Fahrgäste können das Angebot von Smile24 wie gewohnt nutzen.“
+            &lt;/p&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Hintergrund waren Streitigkeiten mit einem Subunternehmer für die Shuttle-Fahrten. Fahrer hatten Vorwürfe gegen ihn erhoben, weil er sich unter anderem nicht an die vereinbarte Arbeitszeit gehalten sowie zu spät oder keinen Lohn gezahlt haben soll. Auch kritisierten sie das persönliche Verhalten des Unternehmers.
+            &lt;/p&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Im Herbst beendete die DB/Autokraft schließlich die Zusammenarbeit mit der Firma aus Schleswig. Im Zuge dessen musste das Angebot vorübergehend eingeschränkt werden. Teilweise hat die Auseinandersetzung nun auch ein juristisches Nachspiel. 
+            &lt;/p&gt;&lt;div id="instantabo-widget"&gt;&lt;/div&gt;&lt;div id="newsletter-widget"&gt;&lt;/div&gt;
+
+
+
+
+
+
+    
+
+&lt;h2 class="h4" &gt;
+            Wachsende Nutzerzahlen
+        &lt;/h2&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Doch wie geht es in diesem Jahr weiter mit Smile24? Das mit mehr als 30 Millionen Euro geförderte Projekt läuft noch bis Ende dieses Jahres – und das weiterhin mit wachsenden Nutzerzahlen, wie Nah.SH auf Nachfrage unserer Redaktion mitteilte. Der Verkehrsbund realisiert das Projekt gemeinsam mit den Kreisen Schleswig-Flensburg und Rendsburg-Eckernförde.
+            &lt;/p&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Seit Start im April vergangenen Jahres seien die Nutzungszahlen im Projektgebiet gestiegen. Laut Nah.SH werden pro Monat konstant circa 22.000 Fahrgäste mit den Shuttles transportiert, monatlich gibt es zwischen 17.000 und 19.000 Fahrten. 
+            &lt;/p&gt;
+
+
+
+
+
+
+            
+
+
+&lt;div class="content-element related-content border-dotted-b border-color__silver-100"&gt;&lt;div class="related-content--headline size--m-6 text-color__prussian-blue-80 w-900 typeface-font text-upper p-b-1 border-dotted-b border-color__silver-100"&gt;
+                        Lesen Sie auch
+                    &lt;/div&gt;&lt;div class="grid grid--gutter-d"&gt;&lt;article class="grid-cell--m-12 grid-cell--d-6 related-content--item"&gt;&lt;a class="text--reset" href="https://www.shz.de/lokales/kappeln/artikel/e-carsharing-cambio-in-kappeln-zukunft-nach-2025-ungewiss-47784390" title="E-Carsharing in Kappeln: Letzte Chance für Erfolg bis 2025 – so kann es gelingen"&gt;&lt;div class="media p-b-1 border-dotted-b border-color__silver-100"&gt;&lt;div class="media--kicker size--m-5 text-color__pacific-blue-100 w-600 typeface-font"&gt;&lt;span class="paid-content"&gt;&lt;svg id="Gruppe_5477" data-name="Gruppe 5477" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="20" viewBox="0 0 42 20"&gt;&lt;defs&gt;&lt;clipPath id="clip-path"&gt;&lt;rect id="Rechteck_1627" data-name="Rechteck 1627" width="42" height="20" fill="none"/&gt;&lt;/rect&gt;&lt;/clipPath&gt;&lt;/defs&gt;&lt;g id="Gruppe_5478" data-name="Gruppe 5478" clip-path="url(#clip-path)"&gt;&lt;path id="Pfad_2311" data-name="Pfad 2311" d="M4.375,0h33.25A4.361,4.361,0,0,1,42,4.348v11.3A4.361,4.361,0,0,1,37.625,20H4.375A4.361,4.361,0,0,1,0,15.652V4.348A4.361,4.361,0,0,1,4.375,0" fill="#00386c"/&gt;&lt;/path&gt;&lt;path id="Pfad_2312" data-name="Pfad 2312" d="M13.528,4.727H10.309a.214.214,0,0,0-.2.227V9.7H5.486a.225.225,0,0,0-.224.225v1.45a.225.225,0,0,0,.224.225h4.625v3.516a.214.214,0,0,0,.225.2h1.735a.214.214,0,0,0,.2-.227V11.611h1.257c2.511,0,3.721-1.407,3.721-3.449,0-2.027-1.21-3.435-3.721-3.435m-.074,4.962h-1.18V6.649h1.18c.922,0,1.724.317,1.724,1.513s-.8,1.527-1.724,1.527" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2313" data-name="Pfad 2313" d="M20.61,4.5H18.935a.215.215,0,0,0-.2.227V15.114a.216.216,0,0,0,.227.2h1.673a.211.211,0,0,0,.2-.227V4.7a.212.212,0,0,0-.225-.2" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2314" data-name="Pfad 2314" d="M29.4,7.9H27.752a.215.215,0,0,0-.2.227v3.842a1.405,1.405,0,0,1-1.452,1.6c-.893,0-1.376-.56-1.376-1.6V8.1a.211.211,0,0,0-.227-.2H22.838a.211.211,0,0,0-.2.227v4.312c0,1.936,1.119,3.055,2.677,3.055a2.425,2.425,0,0,0,2.239-1.3l.061.876c.016.183.092.243.227.243h1.574a.223.223,0,0,0,.225-.227V8.115A.227.227,0,0,0,29.4,7.9" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2315" data-name="Pfad 2315" d="M35.072,11.065l-1.043-.409c-.409-.151-.711-.349-.711-.711,0-.317.227-.591.711-.591a2.12,2.12,0,0,1,1.346.621c.135.1.243.121.349,0l.665-.8a.232.232,0,0,0,.016-.317,3.184,3.184,0,0,0-2.482-1.133,2.342,2.342,0,0,0-2.585,2.239A2.177,2.177,0,0,0,32.956,12l.938.378c.544.227.771.394.771.756,0,.422-.333.62-.832.62a2.823,2.823,0,0,1-1.708-.726.3.3,0,0,0-.07-.052.232.232,0,0,0-.308.113l-.528.739a.369.369,0,0,0-.032.439,3.54,3.54,0,0,0,2.768,1.225c1.481,0,2.767-.771,2.783-2.269a2.274,2.274,0,0,0-1.666-2.16" fill="#fff"/&gt;&lt;/path&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;                                                                                        Klimaschutz
+                                        &lt;/div&gt;&lt;div class="media--text"&gt;&lt;div class="h5"&gt;E-Carsharing in Kappeln: Letzte Chance für Erfolg bis 2025 – so kann es gelingen&lt;/div&gt;&lt;/div&gt;&lt;div class="related-content--image media--image"&gt;&lt;figure class="picture__wrapper "&gt;&lt;picture class="picture picture__type picture__type--4-3 "&gt;&lt;source type="image/webp" media="(min-width: 769px)"
+                            srcset="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w120-h90/1251726308/911984936/img-8400.webp 1x, https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w240-h180/21617353/1245703236/img-8400.webp 2x"&gt;&lt;source type="image/webp" media="(min-width: 480px)"
+                            srcset="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w120-h90/1251726308/911984936/img-8400.webp 1x, https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w240-h180/21617353/1245703236/img-8400.webp 2x"&gt;&lt;source type="image/webp" media="(min-width: 320px)"
+                            srcset="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w90-h68/1280377917/781539033/img-8400.webp 1x, https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w180-h136/542861913/1533321511/img-8400.webp 2x"&gt;&lt;source media="(min-width: 769px)"
+                    srcset="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w120-h90/96426867/967699662/img-8400.jpg 1x, https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w240-h180/1053027392/1898748773/img-8400.jpg 2x"&gt;&lt;source media="(min-width: 480px)"
+                    srcset="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w120-h90/96426867/967699662/img-8400.jpg 1x, https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w240-h180/1053027392/1898748773/img-8400.jpg 2x"&gt;&lt;source media="(min-width: 320px)"
+                    srcset="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w90-h68/1647821900/64108345/img-8400.jpg 1x, https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w180-h136/377105072/1214379729/img-8400.jpg 2x"&gt;&lt;img src="https://images.noz-mhn.de/img/47808348/crop/cbase_4_3-w120-h90/96426867/967699662/img-8400.jpg" title='Seit mittlerweile fast drei Jahren stehen zwei E-Autos auf dem Parkplatz Scheunenfeld und können ausgeliehen werden.'
+                    alt='Seit mittlerweile fast drei Jahren stehen zwei E-Autos auf dem Parkplatz Scheunenfeld und können ausgeliehen werden.'  loading="lazy" width="90" height="68"&gt;&lt;/picture&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/article&gt;&lt;article class="grid-cell--m-12 grid-cell--d-6 related-content--item"&gt;&lt;a class="text--reset" href="https://www.shz.de/lokales/kappeln/artikel/kappeln-2025-zweifel-an-zukunft-von-smile24-48154040" title="Warum Kappelns Bürgermeister an der Zukunft von „Smile24“ zweifelt"&gt;&lt;div class="media p-b-1 border-dotted-b border-color__silver-100"&gt;&lt;div class="media--kicker size--m-5 text-color__pacific-blue-100 w-600 typeface-font"&gt;&lt;span class="paid-content"&gt;&lt;svg id="Gruppe_5477" data-name="Gruppe 5477" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="20" viewBox="0 0 42 20"&gt;&lt;defs&gt;&lt;clipPath id="clip-path"&gt;&lt;rect id="Rechteck_1627" data-name="Rechteck 1627" width="42" height="20" fill="none"/&gt;&lt;/rect&gt;&lt;/clipPath&gt;&lt;/defs&gt;&lt;g id="Gruppe_5478" data-name="Gruppe 5478" clip-path="url(#clip-path)"&gt;&lt;path id="Pfad_2311" data-name="Pfad 2311" d="M4.375,0h33.25A4.361,4.361,0,0,1,42,4.348v11.3A4.361,4.361,0,0,1,37.625,20H4.375A4.361,4.361,0,0,1,0,15.652V4.348A4.361,4.361,0,0,1,4.375,0" fill="#00386c"/&gt;&lt;/path&gt;&lt;path id="Pfad_2312" data-name="Pfad 2312" d="M13.528,4.727H10.309a.214.214,0,0,0-.2.227V9.7H5.486a.225.225,0,0,0-.224.225v1.45a.225.225,0,0,0,.224.225h4.625v3.516a.214.214,0,0,0,.225.2h1.735a.214.214,0,0,0,.2-.227V11.611h1.257c2.511,0,3.721-1.407,3.721-3.449,0-2.027-1.21-3.435-3.721-3.435m-.074,4.962h-1.18V6.649h1.18c.922,0,1.724.317,1.724,1.513s-.8,1.527-1.724,1.527" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2313" data-name="Pfad 2313" d="M20.61,4.5H18.935a.215.215,0,0,0-.2.227V15.114a.216.216,0,0,0,.227.2h1.673a.211.211,0,0,0,.2-.227V4.7a.212.212,0,0,0-.225-.2" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2314" data-name="Pfad 2314" d="M29.4,7.9H27.752a.215.215,0,0,0-.2.227v3.842a1.405,1.405,0,0,1-1.452,1.6c-.893,0-1.376-.56-1.376-1.6V8.1a.211.211,0,0,0-.227-.2H22.838a.211.211,0,0,0-.2.227v4.312c0,1.936,1.119,3.055,2.677,3.055a2.425,2.425,0,0,0,2.239-1.3l.061.876c.016.183.092.243.227.243h1.574a.223.223,0,0,0,.225-.227V8.115A.227.227,0,0,0,29.4,7.9" fill="#fff"/&gt;&lt;/path&gt;&lt;path id="Pfad_2315" data-name="Pfad 2315" d="M35.072,11.065l-1.043-.409c-.409-.151-.711-.349-.711-.711,0-.317.227-.591.711-.591a2.12,2.12,0,0,1,1.346.621c.135.1.243.121.349,0l.665-.8a.232.232,0,0,0,.016-.317,3.184,3.184,0,0,0-2.482-1.133,2.342,2.342,0,0,0-2.585,2.239A2.177,2.177,0,0,0,32.956,12l.938.378c.544.227.771.394.771.756,0,.422-.333.62-.832.62a2.823,2.823,0,0,1-1.708-.726.3.3,0,0,0-.07-.052.232.232,0,0,0-.308.113l-.528.739a.369.369,0,0,0-.032.439,3.54,3.54,0,0,0,2.768,1.225c1.481,0,2.767-.771,2.783-2.269a2.274,2.274,0,0,0-1.666-2.16" fill="#fff"/&gt;&lt;/path&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;                                                                                        Mobilität an der Schlei
+                                        &lt;/div&gt;&lt;div class="media--text"&gt;&lt;div class="h5"&gt;Warum Kappelns Bürgermeister an der Zukunft von „Smile24“ zweifelt&lt;/div&gt;&lt;/div&gt;&lt;div class="related-content--image media--image"&gt;&lt;figure class="picture__wrapper "&gt;&lt;picture class="picture picture__type picture__type--4-3 "&gt;&lt;source type="image/webp" media="(min-width: 769px)"
+                            srcset="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w120-h90/735429671/293939553/img-9571.webp 1x, https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w240-h180/353008532/1742862841/img-9571.webp 2x"&gt;&lt;source type="image/webp" media="(min-width: 480px)"
+                            srcset="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w120-h90/735429671/293939553/img-9571.webp 1x, https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w240-h180/353008532/1742862841/img-9571.webp 2x"&gt;&lt;source type="image/webp" media="(min-width: 320px)"
+                            srcset="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w90-h68/1158866936/1103890083/img-9571.webp 1x, https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w180-h136/1242142940/720323493/img-9571.webp 2x"&gt;&lt;source media="(min-width: 769px)"
+                    srcset="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w120-h90/1418337192/1379832349/img-9571.jpg 1x, https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w240-h180/599389365/839061194/img-9571.jpg 2x"&gt;&lt;source media="(min-width: 480px)"
+                    srcset="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w120-h90/1418337192/1379832349/img-9571.jpg 1x, https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w240-h180/599389365/839061194/img-9571.jpg 2x"&gt;&lt;source media="(min-width: 320px)"
+                    srcset="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w90-h68/232517545/521844611/img-9571.jpg 1x, https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w180-h136/1620677189/644914600/img-9571.jpg 2x"&gt;&lt;img src="https://images.noz-mhn.de/img/48155874/crop/cbase_4_3-w120-h90/1418337192/1379832349/img-9571.jpg" title='Unter anderem am Kappelner Südhafen befindet sich eine „Smile24“-Ausleihstation für Fahrräder.'
+                    alt='Unter anderem am Kappelner Südhafen befindet sich eine „Smile24“-Ausleihstation für Fahrräder.'  loading="lazy" width="90" height="68"&gt;&lt;/picture&gt;&lt;/figure&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt;&lt;/article&gt;&lt;/div&gt;&lt;/div&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Beim Bike-Sharing verzeichnet Nah.SH nach eigenen Angaben 500 Leihen pro Woche. Die durchschnittliche Mietdauer eines Fahrrads liegt nach Angaben der Sprecherin bei rund 64 Minuten. „In Schleswig wird das Bikesharing intensiver genutzt als im ländlichen Raum – das ist keine Überraschung, denn dort gibt es sowohl mehr potentielle Nutzer als auch mehr Stationen“, so Nah.SH.
+            &lt;/p&gt;&lt;!-- start MOBILE AD --&gt;&lt;!-- start msn-ads-in-content-3 --&gt;&lt;div class="outer-wrapper"&gt;&lt;div class="inner-wrapper"&gt;&lt;div id="msn-ads-in-content-3" class="msn-ads ad_label"&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- end msn-ads-in-content-3 --&gt;&lt;!-- end MOBILE AD --&gt;
+
+
+
+
+
+
+    
+
+&lt;h2 class="h4" &gt;
+            Ladestationen in Kappeln lassen noch auf sich warten
+        &lt;/h2&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Für das Carsharing liegen bislang noch keine Nutzerzahlen vor. Vor Start des Projekts gab es in Kappeln, Schleswig und Eckernförde einzelne Carsharingstationen, laut Nah.SH lagen acht davon im Projektgebiet. Durch Smile24 kamen zwölf Leihstationen mit Ladesäule hinzu. 
+            &lt;/p&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Ein paar Baustellen gibt es jedoch noch in diesem Jahr. So fehlen beispielsweise noch drei Ladestationen in Kappeln/Olplenitz. „Die Einrichtung der Stellplätze und Ladesäulen hat länger als erwartet gedauert und ist leider immer noch nicht komplett abgeschlossen“, so die Nah.SH-Sprecherin.
+            &lt;/p&gt;
+
+
+
+
+
+
+    
+
+&lt;h2 class="h4" &gt;
+            Was folgt nach Ende des Projekts? 
+        &lt;/h2&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Außerdem soll in diesem Jahr unter anderem die App nachgebessert und nutzerfreundlicher werden. „Zudem werden wir die Kommunen im Projektgebiet zu einem Mobilitäts-Wettbewerb aufrufen, um noch mehr Menschen zum Ausprobieren des neuen Angebots einzuladen“, heißt es.
+            &lt;/p&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    Und danach? Bislang deutet nichts auf eine Fortsetzung des kostspieligen Projekts hin. Und es regt sich bereits erste Kritik an der Nachhaltigkeit: So sagte Kappelns Bürgermeister Joachim Stoll vor kurzem, dass Smile24 zwar eine Bereicherung sei, die Wirkung des Geldes aber deutlich nachhaltiger und effizienter hätte sein können. „Das Projekt wird künftig mit gemeindlichen und Kreismitteln nicht finanzierbar und damit nicht fortführbar sein“, so Stoll. „Wir werden uns also absehbar wieder auf eine geringere Mobilität einstellen müssen.“
+            &lt;/p&gt;
+
+
+
+
+    &lt;p class=""&gt;
+                    
+
+            &lt;/p&gt;
+
+
+
+
+
+
+ 
+                            &lt;/section&gt;
+                            &lt;/div&gt;&lt;!-- PAID CONTENT END --&gt;&lt;section class="content--group content--group--spaceless-bottom content--group__section" id="c11" data-nozmhn-lab="" data-nozmhn-cat="cat" data-nozmhn-pos="automatic"&gt;</content>
+    <link href="https://www.shz.de/deutschland-welt/schleswig-holstein/klima/baum-fuer-baum-fuer-sh/artikel/darum-ist-der-wald-fuer-peter-heinrich-brix-so-wichtig-46250896"/>
+    <published>2024-01-16T15:50:00+00:53</published>
+  </entry>
+  </feed>
